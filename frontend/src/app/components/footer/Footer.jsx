@@ -103,7 +103,7 @@ function Footer({ footerData, services, industries }) {
 
           {/* Useful Links */}
           <div>
-            <p className="footer-items-heading mb-6 max-sm:mt-6">Useful Links</p>
+            <p className="footer-items-heading text-secondaryColor mb-6 max-sm:mt-6">Useful Links</p>
             <ul>
               <li className="text-white tracking-wider mb-4 cursor-pointer text-sm">
                 <button onClick={() => router.push("/about-us")}>
@@ -125,7 +125,7 @@ function Footer({ footerData, services, industries }) {
 
           {/* Industries */}
           <div>
-            <p className="footer-items-heading mb-6 max-sm:mt-6">Industries</p>
+            <p className="footer-items-heading text-secondaryColor  mb-6 max-sm:mt-6">Industries</p>
             <ul>
               {industries.map((industry, index) => (
                 <li
@@ -141,7 +141,7 @@ function Footer({ footerData, services, industries }) {
 
           {/* Services */}
           <div>
-            <p className="footer-items-heading mb-6 max-sm:mt-6">Services</p>
+            <p className="footer-items-heading text-secondaryColor mb-6 max-sm:mt-6">Services</p>
             <ul>
               {services.map((service, index) => (
                 <li
@@ -160,25 +160,25 @@ function Footer({ footerData, services, industries }) {
       {/* Footer 3rd section - Copyright */}
       <div className="bg-primaryColor">
         <div className="bg-primaryColor mx-auto lg:max-w-[940px] xl:max-w-[1200px] 2xl:max-w-[1346px] lg:mx-auto max-lg:px-8">
-          <div className="bg-white h-[0.25px]"></div>
+          <div className="bg-secondaryColor h-[0.25px]"></div>
           <div className="py-6 flex flex-col sm:flex-row justify-between items-center">
-            <p className="text-white text-sm tracking-wider">
-              Copyright © {new Date().getFullYear()}, EyraTech. All rights reserved.
+            <p className="text-secondaryColor text-sm tracking-wider">
+              Copyright © {new Date().getFullYear()}, SmachStack. All rights reserved.
             </p>
             <div className="flex flex-row gap-4 items-center mt-4 sm:mt-0">
               <Link
                 href={`mailto:${CONTACT_INFO.email}`}
-                className="border-[1px] border-white p-2 rounded-full items-start group cursor-pointer transition-all ease-in-out duration-150 hover:bg-white justify-center flex"
+                className="border-[1px] border-secondaryColor p-2 rounded-full items-start group cursor-pointer transition-all ease-in-out duration-150 hover:bg-secondaryColor justify-center flex"
               >
-                <MdEmail className="text-white text-[20px] group-hover:text-primaryColor" />
+                <MdEmail className="text-secondaryColor text-[20px] group-hover:text-white" />
               </Link>
               <Link
                 href={CONTACT_INFO.linkedin}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="border-[1px] border-white p-2 rounded-full items-start group cursor-pointer transition-all ease-in-out duration-150 hover:bg-white justify-center flex"
+                className="border-[1px] border-secondaryColor p-2 rounded-full items-start group cursor-pointer transition-all ease-in-out duration-150 hover:bg-secondaryColor justify-center flex"
               >
-                <FaLinkedinIn className="text-white text-[20px] group-hover:text-primaryColor" />
+                <FaLinkedinIn className="text-secondaryColor text-[20px] group-hover:text-white" />
               </Link>
             </div>
           </div>

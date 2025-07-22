@@ -128,12 +128,12 @@ function Contact({ headerData, contactForm }) {
   return (
     <section className="contact-us">
       <div className="flex flex-col lg:flex-row mx-auto">
-        <div className="w-2/5 max-lg:w-full bg-secondaryColor px-5 lg:px-16 py-8">
+        <div className="w-2/5 max-lg:w-full bg-tertiaryColor px-5 lg:px-16 py-8">
           <div>
-            <h1 className="heading-text  !text-white mb-[15px] text-left">
+            <h1 className="heading-text  !text-textColor mb-[15px] text-left">
               {title}
             </h1>
-            <p className="pt-[5px] pb-[25px] text-justify w-full text-white text-lg md:text-left max-md:mt-3">
+            <p className="pt-[5px] pb-[25px] text-justify w-full text-textColor text-lg md:text-left max-md:mt-3">
               {description}
             </p>
             <FooterSteps />

@@ -7,9 +7,9 @@
     "publishedAt": "2025-05-28T11:26:36.802Z",
     "homeMetaData": {
       "id": 2,
-      "metaTitle": "EyraTech | Innovative Software Solutions",
-      "metaDescription": "EyraTech is a software company specializing in delivering innovative solutions tailored to your business needs. Explore our services and industries we serve.",
-      "keyWords": "EyraTech, software solutions, business software, custom software development, technology consulting, IT services",
+      "metaTitle": "SmachStack | Innovative Software Solutions",
+      "metaDescription": "SmachStack is a software company specializing in delivering innovative solutions tailored to your business needs. Explore our services and industries we serve.",
+      "keyWords": "SmachStack, software solutions, business software, custom software development, technology consulting, IT services",
       "metaImage": {
         "id": 22,
         "documentId": "l4qk50vke4loe73hp7b0wat6",
@@ -34,15 +34,15 @@
       "openGraphImage": {
         "id": 23,
         "documentId": "mwt8kdp7pcu4f742n9di83vg",
-        "name": "eyratech-logo.png",
+        "name": "SmachStack-logo.png",
         "alternativeText": null,
         "caption": null,
         "width": 256,
         "height": 45,
         "formats": {
           "thumbnail": {
-            "name": "thumbnail_eyratech-logo.png",
-            "hash": "thumbnail_eyratech_logo_4bac54e79f",
+            "name": "thumbnail_SmachStack-logo.png",
+            "hash": "thumbnail_SmachStack_logo_4bac54e79f",
             "ext": ".png",
             "mime": "image/png",
             "path": null,
@@ -50,14 +50,14 @@
             "height": 43,
             "size": 19.55,
             "sizeInBytes": 19550,
-            "url": "/uploads/thumbnail_eyratech_logo_4bac54e79f.png"
+            "url": "/uploads/thumbnail_SmachStack_logo_4bac54e79f.png"
           }
         },
-        "hash": "eyratech_logo_4bac54e79f",
+        "hash": "SmachStack_logo_4bac54e79f",
         "ext": ".png",
         "mime": "image/png",
         "size": 6.94,
-        "url": "/uploads/eyratech_logo_4bac54e79f.png",
+        "url": "/uploads/SmachStack_logo_4bac54e79f.png",
         "previewUrl": null,
         "provider": "local",
         "provider_metadata": null,

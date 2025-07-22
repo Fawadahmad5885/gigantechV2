@@ -58,7 +58,7 @@ function Technologies({ headerData, technologies }) {
 
   if (!techData.length) {
     return (
-      <div className="h-auto technologies-bg-image py-[5%] bg-gray-100">
+      <div className="h-auto technologies-bg-image py-[5%] bg-tertiaryColor">
         <div className="px-[20px] font-poppins text-center">
           <h2 className="heading-text z-10 text-textColor">{title}</h2>
           <p className="section-description">{description}</p>

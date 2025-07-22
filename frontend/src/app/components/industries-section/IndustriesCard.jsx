@@ -3,10 +3,15 @@ import Image from "next/image";
 import { getStrapiMedia } from "@/lib/api";
 
 function IndustriesCard({ img, title, subtitle, desc }) {
-  const imageUrl = img ? getStrapiMedia(img) : '/fallback-image.jpg';
+  const imageUrl = img ? getStrapiMedia(img) : "/fallback-image.jpg";
   // const backgroundImageUrl = img.src || img;
   return (
-    <div className="max-md:w-full flex flex-col items-center bg-white group hover:shadow-md transition-transform duration-500 rounded-md">
+    <div
+      data-aos="fade-up"
+      data-aos-anchor-placement="top-bottom"
+      data-aos-duration="1000"
+      className="max-md:w-full flex flex-col items-center bg-white group hover:shadow-md transition-transform duration-500 rounded-md"
+    >
       <div className="p-4 rounded-[5px] flex flex-col items-center">
         <div>
           <div>
@@ -17,7 +22,7 @@ function IndustriesCard({ img, title, subtitle, desc }) {
                   src={imageUrl}
                   width={500}
                   height={300}
-                  alt={title} 
+                  alt={title}
                   style={{ objectFit: "cover" }}
                   className="w-full h-auto transition-transform duration-500 group-hover:scale-105 rounded-md"
                 />
@@ -32,13 +37,10 @@ function IndustriesCard({ img, title, subtitle, desc }) {
                 {subtitle}
               </h5>
               {/* Short Description */}
-              <p className="card-description font-normal ">
-                {desc}
-              </p>
+              <p className="card-description font-normal ">{desc}</p>
             </div>
           </div>
         </div>
-     
       </div>
     </div>
   );

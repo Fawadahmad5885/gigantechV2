@@ -41,7 +41,7 @@ function HeroSection({ items }) {
               <div className="absolute inset-0 w-full h-full">
                 {slide.video ? (
                   <video
-                    className="object-cover w-full h-full"
+                    className="object-cover w-full h-full "
                     src={getStrapiMedia(slide.video.url)}
                     autoPlay
                     loop
@@ -55,7 +55,7 @@ function HeroSection({ items }) {
                       src={getStrapiMedia(slide.image.url)}
                       alt={slide.title}
                       fill
-                      className="object-cover"
+                      className="object-cover "
                       priority
                     />
                   )

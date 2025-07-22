@@ -40,7 +40,7 @@ body {
 }
 
 .footer-items-heading {
-  @apply text-white text-start font-poppins text-lg font-medium tracking-wide
+  @apply  text-start font-poppins text-lg font-medium tracking-wide
 }
 
 

@@ -10,8 +10,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primaryColor: "#105085",
-        secondaryColor: "#1e98cc",
+        primaryColor: "#1E1E24",
+        secondaryColor: "#E52121",
+        tertiaryColor:"#FEF4F3",
         textColor: "#2E2E2E",
         background: "var(--background)",
         foreground: "var(--foreground)",
@@ -74,6 +75,15 @@ module.exports = {
           },
         },
       }),
+      keyframes: {
+        zoom: {
+          '0%': { transform: 'scale(1)' },
+          '100%': { transform: 'scale(1.1)' }, // change 1.2 to limit
+        },
+      },
+      animation: {
+        'zoom-loop': 'zoom 5s linear infinite',
+      },
     },
   },
   plugins: [require('@tailwindcss/typography')],

@@ -17,6 +17,8 @@ const CaseStudyCard = ({
 
   return (
     <Link
+    data-aos="fade-up"
+      data-aos-anchor-placement="top-bottom" data-aos-duration="1000"
       key={slug}
       href={`/case-studies/${slug}`}
       className={`flex flex-col bg-white max-sm:bg-gray-100 group shadow-[0_2px_4px_0_rgba(0,0,0,0.15)] hover:shadow-none  transition-[box-shadow,transform] duration-500 ease-in-out rounded-md ${

@@ -26,13 +26,13 @@ export default function CaseStudiesClient({
   };
 
   return (
-    <div className="lg:pt-[90px]">
-      <div className="relative w-full h-[70vh] min-h-[340px] bg-cover bg-center bg-no-repeat">
+    <div className="">
+      <div className="relative w-full h-[100vh] min-h-[340px] bg-cover bg-center bg-no-repeat">
         <Image
           src={imageUrl}
           alt={title || "Case Study Background"}
           fill
-          className="object-cover"
+          className="object-cover animate-zoom-loop"
           priority
           sizes="100vw"
         />

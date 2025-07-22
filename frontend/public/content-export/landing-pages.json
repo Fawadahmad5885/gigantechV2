@@ -8,14 +8,14 @@
       "publishedAt": "2025-07-20T21:06:49.656Z",
       "hero_sections": [
         {
-          "id": 4,
+          "id": 6,
           "documentId": "s64rwscujt8ud1t5mewldp65",
           "title": "Intelligence Redefined with Artificial Intelligence.",
           "subtitle": "Bringing your ideas to life with cutting-edge AI technology.",
           "order": 2,
           "createdAt": "2025-05-28T11:07:09.798Z",
-          "updatedAt": "2025-05-28T11:07:09.798Z",
-          "publishedAt": "2025-05-28T11:07:09.804Z",
+          "updatedAt": "2025-07-22T14:05:09.613Z",
+          "publishedAt": "2025-07-22T14:05:09.625Z",
           "image": {
             "id": 2,
             "documentId": "rmj5pc1r607uytr78s78av84",
@@ -28,9 +28,9 @@
                 "mime": "image/png",
                 "path": null,
                 "width": 245,
-                "height": 88,
-                "size": 59.33,
-                "sizeInBytes": 59328,
+                "height": 138,
+                "size": 74.22,
+                "sizeInBytes": 74220,
                 "url": "/uploads/thumbnail_carousel_image_3eafb307d8.png"
               },
               "small": {
@@ -40,9 +40,9 @@
                 "mime": "image/png",
                 "path": null,
                 "width": 500,
-                "height": 180,
-                "size": 223.31,
-                "sizeInBytes": 223308,
+                "height": 281,
+                "size": 263.49,
+                "sizeInBytes": 263490,
                 "url": "/uploads/small_carousel_image_3eafb307d8.png"
               },
               "medium": {
@@ -52,9 +52,9 @@
                 "mime": "image/png",
                 "path": null,
                 "width": 750,
-                "height": 270,
-                "size": 474.24,
-                "sizeInBytes": 474237,
+                "height": 422,
+                "size": 566.85,
+                "sizeInBytes": 566846,
                 "url": "/uploads/medium_carousel_image_3eafb307d8.png"
               },
               "large": {
@@ -64,16 +64,16 @@
                 "mime": "image/png",
                 "path": null,
                 "width": 1000,
-                "height": 360,
-                "size": 811.37,
-                "sizeInBytes": 811371,
+                "height": 563,
+                "size": 990.42,
+                "sizeInBytes": 990416,
                 "url": "/uploads/large_carousel_image_3eafb307d8.png"
               }
             }
           },
           "video": null,
           "Button": {
-            "id": 4,
+            "id": 175,
             "title": "Learn More",
             "url": "about-us"
           }
@@ -533,13 +533,13 @@
         }
       },
       "about_section": {
-        "id": 3,
+        "id": 5,
         "documentId": "l8smlvfsird8w8dxv0s9uzqb",
         "createdAt": "2025-05-28T11:09:21.482Z",
-        "updatedAt": "2025-07-20T20:26:06.219Z",
-        "publishedAt": "2025-07-20T20:26:06.257Z",
+        "updatedAt": "2025-07-22T13:38:25.218Z",
+        "publishedAt": "2025-07-22T13:38:25.225Z",
         "title": " Drive Innovation with a Partner You can Trust",
-        "description": "At EyraTech, we’re a global technology partner empowering businesses across North America, Europe, and beyond with future-ready solutions in web development, mobile applications, AI, and embedded systems. With a team averaging over 10 years of experience—including top AI specialists and DevOps architects—we bring precision to projects ranging from safety-critical systems to scalable enterprise platforms. Strategically located in Canada, the UK, and Pakistan, our globally connected teams combine technical mastery with a client-first approach, delivering technology that solves complex challenges while driving growth. Let’s build what’s next—together.",
+        "description": "At SmachStack, we’re a global technology partner empowering businesses across North America, Europe, and beyond with future-ready solutions in web development, mobile applications, AI, and embedded systems. With a team averaging over 10 years of experience—including top AI specialists and DevOps architects—we bring precision to projects ranging from safety-critical systems to scalable enterprise platforms. Strategically located in Canada, the UK, and Pakistan, our globally connected teams combine technical mastery with a client-first approach, delivering technology that solves complex challenges while driving growth. Let’s build what’s next—together.",
         "aboutImage": {
           "id": 3,
           "documentId": "ojpionzws7z0rce7wa1slh7n",

@@ -7,7 +7,7 @@ import Technologies from "./components/technologies/Technologies";
 import Contact from "./components/contact/Contact";
 import Head from "next/head";
 import { getBaseUrl } from "@/utils/baseUrl";
-import { fetchStrapi, getStrapiMedia } from "@/lib/api";
+import { fetchStrapi } from "@/lib/api";
 import NewsSection from "./components/news-components/NewsSection";
 import CaseStudies from "./components/case-studies-components/caseStudies";
 
@@ -50,7 +50,7 @@ export async function generateMetadata() {
         },
       ],
       card: "summary_large_image",
-      creator: "EyraTech",
+      creator: "SmachStack",
     },
     canonicalUrl: `${baseUrl}/`,
   };
