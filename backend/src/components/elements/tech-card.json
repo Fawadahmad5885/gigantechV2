@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_elements_tech_cards",
+  "info": {
+    "displayName": "Tech Card"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "tooltip": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

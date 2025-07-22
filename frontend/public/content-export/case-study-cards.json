@@ -1,0 +1,534 @@
+{
+  "data": [
+    {
+      "id": 119,
+      "documentId": "tvrwhikn9qq81rgvjvsill8c",
+      "title": "Cloud Migration of Booking Platform for Hotels and Hotel Networks",
+      "description": "By leveraging unicrew’s expertise, the client successfully addressed their challenges and achieved their objectives, emerging as a more cost-efficient, reliable, and scalable platform for hotel bookings.",
+      "createdAt": "2025-07-04T13:18:23.682Z",
+      "updatedAt": "2025-07-15T19:56:22.846Z",
+      "publishedAt": "2025-07-15T19:56:22.873Z",
+      "slug": "platform-for-hotels-1",
+      "region": "UK",
+      "technologies": "Microsoft Orleans Docker Azure Terraform",
+      "caseStudyStatus": "Ongoing",
+      "aboutClient": "SaaS for hotels",
+      "order": 3,
+      "showOnTop": false,
+      "category": "Hospitality",
+      "content": "## 🧪 Project Overview\n\nEstablished in **2004**, **quattro research** specializes in developing intuitive software solutions that support the digitalization of scientific workflows. Their LIMS, including **quattro/CM**, **quattro/LJ**, and **quattro/BR**, are designed to manage and analyze chemical and biological data effectively.\n\nFacing increased demand for their solutions, quattro research needed to scale their development team rapidly without compromising on quality. They turned to **unicrew** to augment their in-house team with skilled developers who could seamlessly integrate and contribute to ongoing projects.\n\n---\n\n## 🚧 Challenge\n\n- **Scalability Needs**: quattro research required additional development resources to accelerate product delivery timelines and support the expansion of functionality in innovative Laboratory Information Management Systems.\n- **User Interface Complexity**: Implementing a robust and responsive UI capable of managing large chemical molecule data sets in a user-friendly way.\n- **Scientific Data Presentation**: Developing a flexible framework to display complex scientific information in customizable grids and forms.\n- **Security Infrastructure**: Ensuring secure access management with modern authentication protocols.\n- **Visualization Capabilities**: Delivering high-performance visualization for large molecule structures.\n\n---\n\n## ✅ Solution\n\n### 01. React-Based UI\n\nImplemented a scalable, user-centric React interface to manage extensive chemical molecule data.\n\n### 02. Configurable Framework\n\nBuilt a dynamic Laboratory Information Management System to display scientific information through customizable grids and forms.\n\n### 03. Secure Authentication\n\nIntegrated OAuth and JWT-based authentication and authorization mechanisms for LIMS robust security.\n\n### 04. Molecule Visualization Services\n\nDelivered advanced visualization tools enabling clear, performant rendering of large molecule structures.\n\n---\n\n## 👨‍💻 Development Approach\n\nunicrew assembled a **cross-functional team** of seasoned developers with deep expertise in:\n\n- `.NET`, `Java`, `PHP`, `Laravel`\n- `JavaScript`, `React`, `Vue`\n\nThe team worked in close collaboration with quattro research’s internal engineers, following **agile best practices** to ensure alignment and consistent delivery.\n\n---\n\n## 🧩 Key Aspects of the LIMS Solution\n\n### 🔹 React-Based UI\n\nunicrew designed and implemented a modern, highly responsive React-based user interface. The UI was engineered specifically to handle the complexity and scale of large chemical molecule data, ensuring optimal performance and an intuitive user experience.\n\n### 🔹 Configurable Scientific Data Framework\n\nunicrew built a **flexible and extensible framework** for displaying scientific information. The system allowed users to configure how data is presented through **dynamic grids and forms**, enabling precise control over data visualization and interaction.\n\n### 🔹 Advanced Authentication and Authorization\n\nSecurity was a top priority. unicrew implemented robust mechanisms using **OAuth** and **JWT** to ensure secure user access and modern identity management compatibility.\n\n### 🔹 Molecule Visualization Services\n\nDeveloped **high-performance visualization tools** to efficiently render and manipulate large molecule structures. This empowered users to visually explore complex chemical data and enhance decision-making.\n\n---\n\n> \"**unicrew's developers integrated seamlessly with our team, demonstrating professionalism and a deep understanding of our needs. Their contributions have been invaluable in accelerating our development processes.**\"  \n> — **Dr. Bernhard Schirm**, Managing Director\n\n[Check full review](#)\n\n---\n\n## 🧰 Related Services\n\n- Dedicated Software Development Team  \n- White Label Web Development  \n- Legacy Software Modernization  \n\n---\n\n## 🏁 Result\n\n- **Increased Development Velocity**: Faster delivery of LIMS key features with unicrew’s integration.\n- **Enhanced Usability**: A modern React-based UI for easier interaction with molecular data.\n- **Scientific Insight Optimization**: Configurable grids/forms allowed precise data manipulation.\n- **Improved Security and Access Control**: OAuth and JWT strengthened authentication infrastructure.\n- **Superior Visualization**: Enhanced clarity for users handling complex molecular structures.\n- **Sustained Collaboration**: A strong ongoing partnership enabling quattro research to evolve confidently.\n",
+      "image": {
+        "id": 151,
+        "documentId": "okvsuef15x11ah8qa8641mpt",
+        "name": "thumbnail_case_studies_3f5653d8aa.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1000,
+        "height": 562,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_thumbnail_case_studies_3f5653d8aa.jpg",
+            "hash": "thumbnail_thumbnail_case_studies_3f5653d8aa_a8d78d8737",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 245,
+            "height": 138,
+            "size": 6.53,
+            "sizeInBytes": 6534,
+            "url": "/uploads/thumbnail_thumbnail_case_studies_3f5653d8aa_a8d78d8737.jpg"
+          },
+          "small": {
+            "name": "small_thumbnail_case_studies_3f5653d8aa.jpg",
+            "hash": "small_thumbnail_case_studies_3f5653d8aa_a8d78d8737",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 500,
+            "height": 281,
+            "size": 19.72,
+            "sizeInBytes": 19719,
+            "url": "/uploads/small_thumbnail_case_studies_3f5653d8aa_a8d78d8737.jpg"
+          },
+          "medium": {
+            "name": "medium_thumbnail_case_studies_3f5653d8aa.jpg",
+            "hash": "medium_thumbnail_case_studies_3f5653d8aa_a8d78d8737",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 750,
+            "height": 422,
+            "size": 34.6,
+            "sizeInBytes": 34605,
+            "url": "/uploads/medium_thumbnail_case_studies_3f5653d8aa_a8d78d8737.jpg"
+          }
+        },
+        "hash": "thumbnail_case_studies_3f5653d8aa_a8d78d8737",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 53.52,
+        "url": "/uploads/thumbnail_case_studies_3f5653d8aa_a8d78d8737.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-07-04T09:25:22.427Z",
+        "updatedAt": "2025-07-13T21:00:49.914Z",
+        "publishedAt": "2025-07-04T09:25:22.428Z"
+      },
+      "CardButton": {
+        "id": 162,
+        "title": "Learn more",
+        "url": null
+      },
+      "caseStudyCarousel": [],
+      "landing_page": {
+        "id": 12,
+        "documentId": "oqa7198bt1uxwd6aoec07a1v",
+        "createdAt": "2025-07-18T10:54:04.646Z",
+        "updatedAt": "2025-07-20T21:06:49.576Z",
+        "publishedAt": "2025-07-20T21:06:49.656Z"
+      },
+      "case_studies_page": {
+        "id": 2,
+        "documentId": "rts3iv7ln36owol9r20oh3fy",
+        "createdAt": "2025-07-21T11:24:31.328Z",
+        "updatedAt": "2025-07-21T11:24:31.328Z",
+        "publishedAt": "2025-07-21T11:24:31.377Z"
+      }
+    },
+    {
+      "id": 125,
+      "documentId": "cwlodzy0171l1cte8rtrjm0s",
+      "title": "Software Outsourcing Company",
+      "description": "NCoreSoft is a rapidly growing private Offshore Software Outsourcing Company with a wide collection of designers and developers. Our philosophy of delivering fresh websites, mobile applications, designs, custom softwares sets us apart. ",
+      "createdAt": "2025-07-13T21:35:32.996Z",
+      "updatedAt": "2025-07-16T07:41:35.260Z",
+      "publishedAt": "2025-07-16T07:41:35.302Z",
+      "slug": "software-outsourcing-company",
+      "region": null,
+      "technologies": null,
+      "caseStudyStatus": null,
+      "aboutClient": null,
+      "order": 6,
+      "showOnTop": false,
+      "category": "Automotive",
+      "content": null,
+      "image": {
+        "id": 169,
+        "documentId": "yqfb39kmf6vv9c3dtuzwdj9t",
+        "name": "img24.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1000,
+        "height": 562,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_img24.jpg",
+            "hash": "thumbnail_img24_1af3604f78",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 245,
+            "height": 138,
+            "size": 7.25,
+            "sizeInBytes": 7250,
+            "url": "/uploads/thumbnail_img24_1af3604f78.jpg"
+          },
+          "medium": {
+            "name": "medium_img24.jpg",
+            "hash": "medium_img24_1af3604f78",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 750,
+            "height": 422,
+            "size": 39.13,
+            "sizeInBytes": 39133,
+            "url": "/uploads/medium_img24_1af3604f78.jpg"
+          },
+          "small": {
+            "name": "small_img24.jpg",
+            "hash": "small_img24_1af3604f78",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 500,
+            "height": 281,
+            "size": 21.76,
+            "sizeInBytes": 21756,
+            "url": "/uploads/small_img24_1af3604f78.jpg"
+          }
+        },
+        "hash": "img24_1af3604f78",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 60.18,
+        "url": "/uploads/img24_1af3604f78.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-07-13T21:35:05.800Z",
+        "updatedAt": "2025-07-16T07:40:24.314Z",
+        "publishedAt": "2025-07-13T21:35:05.800Z"
+      },
+      "CardButton": null,
+      "caseStudyCarousel": [],
+      "landing_page": {
+        "id": 12,
+        "documentId": "oqa7198bt1uxwd6aoec07a1v",
+        "createdAt": "2025-07-18T10:54:04.646Z",
+        "updatedAt": "2025-07-20T21:06:49.576Z",
+        "publishedAt": "2025-07-20T21:06:49.656Z"
+      },
+      "case_studies_page": {
+        "id": 2,
+        "documentId": "rts3iv7ln36owol9r20oh3fy",
+        "createdAt": "2025-07-21T11:24:31.328Z",
+        "updatedAt": "2025-07-21T11:24:31.328Z",
+        "publishedAt": "2025-07-21T11:24:31.377Z"
+      }
+    },
+    {
+      "id": 127,
+      "documentId": "w7zh6bze84a2qrcqml49y6vk",
+      "title": "Development of hybrid events software",
+      "description": "Our client - meta-fusion GmbH, a company supporting the hybrid meetings and digital processing of congresses and conferences for 18 years, disrupted the market with the Digital-Congress-Resources Suit (DCR Suit)",
+      "createdAt": "2025-07-16T08:19:27.644Z",
+      "updatedAt": "2025-07-16T08:19:27.644Z",
+      "publishedAt": "2025-07-16T08:19:27.660Z",
+      "slug": "development-of-hybrid-events-software",
+      "region": "Germany",
+      "technologies": "Germany",
+      "caseStudyStatus": "Delivered",
+      "aboutClient": "meta-fusion GmbH",
+      "order": 6,
+      "showOnTop": false,
+      "category": "Entertainment",
+      "content": "## 🧪 Project Overview\n\n![quattro research logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_placeholder_image.png/600px-Logo_placeholder_image.png)\n\nFounded in **2004**, **quattro research** develops intuitive software that empowers digital scientific workflows. Their **Laboratory Information Management Systems (LIMS)** — such as **quattro/CM**, **quattro/LJ**, and **quattro/BR** — manage and analyze complex chemical and biological data.\n\n---\n\n![Team Collaboration](https://images.unsplash.com/photo-1632179002215-f5c8d5dcf35b)\n\nTo scale quickly and meet growing client demand, quattro research partnered with **unicrew** to strengthen their engineering team with skilled developers who could integrate seamlessly and boost project velocity.\n\n---\n\n## 🚧 Key Challenges\n\n![Challenges](https://images.unsplash.com/photo-1573164713347-df1e1f69a3f2)\n\n- **Scalability Requirements** – Needed to scale fast without lowering code quality.\n- **Complex UI Needs** – Required a responsive UI for large molecular datasets.\n- **Scientific Data Presentation** – Flexible visualization in dynamic grids and forms.\n- **Modern Security Protocols** – Needed secure access management (OAuth, JWT).\n- **High-Performance Rendering** – For complex molecule structure visualization.\n\n---\n\n## ✅ Solution\n\n### 🔹 React-Based UI\n\n![React UI](https://images.unsplash.com/photo-1581091012184-5c2bca6f3bb6)\n\nDesigned and implemented a performant, intuitive React frontend for handling complex molecule data structures.\n\n---\n\n### 🔹 Configurable Data Framework\n\n![Grid System](https://images.unsplash.com/photo-1645051915681-183d5f30ef0a)\n\nDeveloped a flexible framework allowing scientists to customize data views using dynamic **grids** and **forms**.\n\n---\n\n### 🔹 Secure Authentication\n\n![Security](https://unicrew.com/wp-content/uploads/hybrid2-min.png)\n\nIntegrated **OAuth** and **JWT** for robust and modern authentication & authorization standards.\n\n---\n\n### 🔹 Molecule Visualization\n\n![Molecule Viewer](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Caffeine_3D_ball.png/640px-Caffeine_3D_ball.png)\n\nDelivered advanced visualization tools for rendering large and complex molecule structures efficiently.\n\n---\n\n## 👥 Collaboration Snapshot\n\n![Unicrew Team](https://images.unsplash.com/photo-1581091870622-df42a3f9808b)\n\n**unicrew** assembled a full-stack development team with expertise in:\n- `.NET`, `Java`, `PHP`, `Laravel`\n- `JavaScript`, `React`, `Vue`\n\nThey worked in **agile sprints** alongside quattro research’s internal team to maintain alignment, speed, and flexibility.\n\n---\n\n## 🎯 Results\n\n![Success](https://images.unsplash.com/photo-1581093588401-99a6f43db2a9)\n\n- **⚡ Faster Development** – Accelerated product delivery timelines.\n- **🎨 Better Usability** – UI tailored for scientific users.\n- **🔐 Improved Security** – OAuth and JWT integration.\n- **🔬 Enhanced Visualization** – Clarity in molecule data exploration.\n- **🤝 Ongoing Partnership** – Sustained collaboration with quattro research.\n\n---\n\n> _\"unicrew's developers integrated seamlessly with our team, demonstrating professionalism and a deep understanding of our needs. Their contributions have been invaluable.\"_  \n> — **Dr. Bernhard Schirm**, Managing Director\n\n[🔗 View Full Review](https://example.com/review)\n\n---\n\n## 🛠 Related Services\n\n- ✅ Dedicated Software Development Teams  \n- ✅ White Label Web Development  \n- ✅ Legacy Software Modernization\n",
+      "image": {
+        "id": 171,
+        "documentId": "fc6v16qvapnw62rgo58t9ztg",
+        "name": "last-case-study.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1414,
+        "height": 808,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_last-case-study.jpg",
+            "hash": "thumbnail_last_case_study_6929d5eead",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 245,
+            "height": 140,
+            "size": 82.86,
+            "sizeInBytes": 82863,
+            "url": "/uploads/thumbnail_last_case_study_6929d5eead.jpg"
+          },
+          "small": {
+            "name": "small_last-case-study.jpg",
+            "hash": "small_last_case_study_6929d5eead",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 500,
+            "height": 286,
+            "size": 313.91,
+            "sizeInBytes": 313907,
+            "url": "/uploads/small_last_case_study_6929d5eead.jpg"
+          },
+          "medium": {
+            "name": "medium_last-case-study.jpg",
+            "hash": "medium_last_case_study_6929d5eead",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 750,
+            "height": 429,
+            "size": 680.17,
+            "sizeInBytes": 680170,
+            "url": "/uploads/medium_last_case_study_6929d5eead.jpg"
+          },
+          "large": {
+            "name": "large_last-case-study.jpg",
+            "hash": "large_last_case_study_6929d5eead",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 1000,
+            "height": 571,
+            "size": 1184.29,
+            "sizeInBytes": 1184291,
+            "url": "/uploads/large_last_case_study_6929d5eead.jpg"
+          }
+        },
+        "hash": "last_case_study_6929d5eead",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 466.07,
+        "url": "/uploads/last_case_study_6929d5eead.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-07-16T08:17:51.635Z",
+        "updatedAt": "2025-07-16T08:17:51.635Z",
+        "publishedAt": "2025-07-16T08:17:51.636Z"
+      },
+      "CardButton": null,
+      "caseStudyCarousel": [],
+      "landing_page": {
+        "id": 12,
+        "documentId": "oqa7198bt1uxwd6aoec07a1v",
+        "createdAt": "2025-07-18T10:54:04.646Z",
+        "updatedAt": "2025-07-20T21:06:49.576Z",
+        "publishedAt": "2025-07-20T21:06:49.656Z"
+      },
+      "case_studies_page": {
+        "id": 2,
+        "documentId": "rts3iv7ln36owol9r20oh3fy",
+        "createdAt": "2025-07-21T11:24:31.328Z",
+        "updatedAt": "2025-07-21T11:24:31.328Z",
+        "publishedAt": "2025-07-21T11:24:31.377Z"
+      }
+    },
+    {
+      "id": 129,
+      "documentId": "wv30rvbucw80k8usnis1z220",
+      "title": "Accounting Software Integration & Automation for a Financial Advisory Company",
+      "description": "The new system has demonstrated impeccable performance during testing by managing large transactions and growing user accounts.",
+      "createdAt": "2025-07-04T13:07:02.619Z",
+      "updatedAt": "2025-07-16T08:26:16.116Z",
+      "publishedAt": "2025-07-16T08:26:16.130Z",
+      "slug": "accounting-software-integration-and-automation-for-a-financial-advisory-company-1",
+      "region": "UK",
+      "technologies": "NLP MySQL ASP.NET C#",
+      "caseStudyStatus": "Ongoing",
+      "aboutClient": "Financial Advisory Company",
+      "order": 2,
+      "showOnTop": false,
+      "category": "Fintech",
+      "content": "## 🧪 Project Overview\n\nEstablished in **2004**, **quattro research** specializes in developing intuitive software solutions that support the digitalization of scientific workflows. Their LIMS, including **quattro/CM**, **quattro/LJ**, and **quattro/BR**, are designed to manage and analyze chemical and biological data effectively.\n\nFacing increased demand for their solutions, quattro research needed to scale their development team rapidly without compromising on quality. They turned to **unicrew** to augment their in-house team with skilled developers who could seamlessly integrate and contribute to ongoing projects.\n\n---\n\n## 🚧 Challenge\n\n- **Scalability Needs**: quattro research required additional development resources to accelerate product delivery timelines and support the expansion of functionality in innovative Laboratory Information Management Systems.\n- **User Interface Complexity**: Implementing a robust and responsive UI capable of managing large chemical molecule data sets in a user-friendly way.\n- **Scientific Data Presentation**: Developing a flexible framework to display complex scientific information in customizable grids and forms.\n- **Security Infrastructure**: Ensuring secure access management with modern authentication protocols.\n- **Visualization Capabilities**: Delivering high-performance visualization for large molecule structures.\n\n---\n\n## ✅ Solution\n\n### 01. React-Based UI\n\nImplemented a scalable, user-centric React interface to manage extensive chemical molecule data.\n\n### 02. Configurable Framework\n\nBuilt a dynamic Laboratory Information Management System to display scientific information through customizable grids and forms.\n\n### 03. Secure Authentication\n\nIntegrated OAuth and JWT-based authentication and authorization mechanisms for LIMS robust security.\n\n### 04. Molecule Visualization Services\n\nDelivered advanced visualization tools enabling clear, performant rendering of large molecule structures.\n\n---\n\n## 👨‍💻 Development Approach\n\nunicrew assembled a **cross-functional team** of seasoned developers with deep expertise in:\n\n- `.NET`, `Java`, `PHP`, `Laravel`\n- `JavaScript`, `React`, `Vue`\n\nThe team worked in close collaboration with quattro research’s internal engineers, following **agile best practices** to ensure alignment and consistent delivery.\n\n---\n\n## 🧩 Key Aspects of the LIMS Solution\n\n### 🔹 React-Based UI\n\nunicrew designed and implemented a modern, highly responsive React-based user interface. The UI was engineered specifically to handle the complexity and scale of large chemical molecule data, ensuring optimal performance and an intuitive user experience.\n\n### 🔹 Configurable Scientific Data Framework\n\nunicrew built a **flexible and extensible framework** for displaying scientific information. The system allowed users to configure how data is presented through **dynamic grids and forms**, enabling precise control over data visualization and interaction.\n\n### 🔹 Advanced Authentication and Authorization\n\nSecurity was a top priority. unicrew implemented robust mechanisms using **OAuth** and **JWT** to ensure secure user access and modern identity management compatibility.\n\n### 🔹 Molecule Visualization Services\n\nDeveloped **high-performance visualization tools** to efficiently render and manipulate large molecule structures. This empowered users to visually explore complex chemical data and enhance decision-making.\n\n---\n\n> \"**unicrew's developers integrated seamlessly with our team, demonstrating professionalism and a deep understanding of our needs. Their contributions have been invaluable in accelerating our development processes.**\"  \n> — **Dr. Bernhard Schirm**, Managing Director\n\n[Check full review](#)\n\n---\n\n## 🧰 Related Services\n\n- Dedicated Software Development Team  \n- White Label Web Development  \n- Legacy Software Modernization  \n\n---\n\n## 🏁 Result\n\n- **Increased Development Velocity**: Faster delivery of LIMS key features with unicrew’s integration.\n- **Enhanced Usability**: A modern React-based UI for easier interaction with molecular data.\n- **Scientific Insight Optimization**: Configurable grids/forms allowed precise data manipulation.\n- **Improved Security and Access Control**: OAuth and JWT strengthened authentication infrastructure.\n- **Superior Visualization**: Enhanced clarity for users handling complex molecular structures.\n- **Sustained Collaboration**: A strong ongoing partnership enabling quattro research to evolve confidently.\n",
+      "image": {
+        "id": 153,
+        "documentId": "eeprggfmr7dernyw4bvl8to4",
+        "name": "energy_and_utility_338ae605a6.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1000,
+        "height": 562,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_energy_and_utility_338ae605a6.jpg",
+            "hash": "thumbnail_energy_and_utility_338ae605a6_25157c4cd3",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 245,
+            "height": 138,
+            "size": 7.76,
+            "sizeInBytes": 7761,
+            "url": "/uploads/thumbnail_energy_and_utility_338ae605a6_25157c4cd3.jpg"
+          },
+          "small": {
+            "name": "small_energy_and_utility_338ae605a6.jpg",
+            "hash": "small_energy_and_utility_338ae605a6_25157c4cd3",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 500,
+            "height": 281,
+            "size": 22.2,
+            "sizeInBytes": 22199,
+            "url": "/uploads/small_energy_and_utility_338ae605a6_25157c4cd3.jpg"
+          },
+          "medium": {
+            "name": "medium_energy_and_utility_338ae605a6.jpg",
+            "hash": "medium_energy_and_utility_338ae605a6_25157c4cd3",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 750,
+            "height": 422,
+            "size": 39.59,
+            "sizeInBytes": 39585,
+            "url": "/uploads/medium_energy_and_utility_338ae605a6_25157c4cd3.jpg"
+          }
+        },
+        "hash": "energy_and_utility_338ae605a6_25157c4cd3",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 60.22,
+        "url": "/uploads/energy_and_utility_338ae605a6_25157c4cd3.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-07-04T13:01:12.990Z",
+        "updatedAt": "2025-07-15T20:29:35.766Z",
+        "publishedAt": "2025-07-04T13:01:12.992Z"
+      },
+      "CardButton": {
+        "id": 167,
+        "title": "Learn more",
+        "url": null
+      },
+      "caseStudyCarousel": [
+        {
+          "id": 183,
+          "title": "Manual Processes"
+        },
+        {
+          "id": 184,
+          "title": "Step2"
+        },
+        {
+          "id": 185,
+          "title": "Increased Development Velocity"
+        }
+      ],
+      "landing_page": {
+        "id": 12,
+        "documentId": "oqa7198bt1uxwd6aoec07a1v",
+        "createdAt": "2025-07-18T10:54:04.646Z",
+        "updatedAt": "2025-07-20T21:06:49.576Z",
+        "publishedAt": "2025-07-20T21:06:49.656Z"
+      },
+      "case_studies_page": {
+        "id": 2,
+        "documentId": "rts3iv7ln36owol9r20oh3fy",
+        "createdAt": "2025-07-21T11:24:31.328Z",
+        "updatedAt": "2025-07-21T11:24:31.328Z",
+        "publishedAt": "2025-07-21T11:24:31.377Z"
+      }
+    },
+    {
+      "id": 131,
+      "documentId": "usc28fz1ws9k64q74zfzforg",
+      "title": "Empowering Sci Tech with Laboratory Information Management Systems",
+      "description": "quattro research GmbH, a leading provider of Laboratory Information Management Systems (LIMS) for the life sciences, pharmaceutical, and chemical industries, sought to enhance its software development capabilities to meet growing client demands.",
+      "createdAt": "2025-07-04T13:15:23.420Z",
+      "updatedAt": "2025-07-16T08:27:03.108Z",
+      "publishedAt": "2025-07-16T08:27:03.125Z",
+      "slug": "empowering-sci-tech-with-laboratory-information-management-systems",
+      "region": "Pakistan",
+      "technologies": "Reactjs, Nodejs",
+      "caseStudyStatus": "Ongoing",
+      "aboutClient": "quattro research GmbH, a Leading provider of Laboratory Information Management Systems (LIMS) for the life sciences, pharmaceutical, and chemical industries",
+      "order": 1,
+      "showOnTop": true,
+      "category": "scitech",
+      "content": "## 🧪 Project Overview\n\nEstablished in **2004**, **quattro research** specializes in developing intuitive software solutions that support the digitalization of scientific workflows. Their LIMS, including **quattro/CM**, **quattro/LJ**, and **quattro/BR**, are designed to manage and analyze chemical and biological data effectively.\n\nFacing increased demand for their solutions, quattro research needed to scale their development team rapidly without compromising on quality. They turned to **unicrew** to augment their in-house team with skilled developers who could seamlessly integrate and contribute to ongoing projects.\n\n---\n\n## 🚧 Challenge\n\n- **Scalability Needs**: quattro research required additional development resources to accelerate product delivery timelines and support the expansion of functionality in innovative Laboratory Information Management Systems.\n- **User Interface Complexity**: Implementing a robust and responsive UI capable of managing large chemical molecule data sets in a user-friendly way.\n- **Scientific Data Presentation**: Developing a flexible framework to display complex scientific information in customizable grids and forms.\n- **Security Infrastructure**: Ensuring secure access management with modern authentication protocols.\n- **Visualization Capabilities**: Delivering high-performance visualization for large molecule structures.\n\n---\n\n## ✅ Solution\n\n### 01. React-Based UI\n\nImplemented a scalable, user-centric React interface to manage extensive chemical molecule data.\n\n### 02. Configurable Framework\n\nBuilt a dynamic Laboratory Information Management System to display scientific information through customizable grids and forms.\n\n### 03. Secure Authentication\n\nIntegrated OAuth and JWT-based authentication and authorization mechanisms for LIMS robust security.\n\n### 04. Molecule Visualization Services\n\nDelivered advanced visualization tools enabling clear, performant rendering of large molecule structures.\n\n---\n\n## 👨‍💻 Development Approach\n\nunicrew assembled a **cross-functional team** of seasoned developers with deep expertise in:\n\n- `.NET`, `Java`, `PHP`, `Laravel`\n- `JavaScript`, `React`, `Vue`\n\nThe team worked in close collaboration with quattro research’s internal engineers, following **agile best practices** to ensure alignment and consistent delivery.\n\n---\n\n## 🧩 Key Aspects of the LIMS Solution\n\n### 🔹 React-Based UI\n\nunicrew designed and implemented a modern, highly responsive React-based user interface. The UI was engineered specifically to handle the complexity and scale of large chemical molecule data, ensuring optimal performance and an intuitive user experience.\n\n### 🔹 Configurable Scientific Data Framework\n\nunicrew built a **flexible and extensible framework** for displaying scientific information. The system allowed users to configure how data is presented through **dynamic grids and forms**, enabling precise control over data visualization and interaction.\n\n### 🔹 Advanced Authentication and Authorization\n\nSecurity was a top priority. unicrew implemented robust mechanisms using **OAuth** and **JWT** to ensure secure user access and modern identity management compatibility.\n\n### 🔹 Molecule Visualization Services\n\nDeveloped **high-performance visualization tools** to efficiently render and manipulate large molecule structures. This empowered users to visually explore complex chemical data and enhance decision-making.\n\n---\n\n> \"**unicrew's developers integrated seamlessly with our team, demonstrating professionalism and a deep understanding of our needs. Their contributions have been invaluable in accelerating our development processes.**\"  \n> — **Dr. Bernhard Schirm**, Managing Director\n\n[Check full review](#)\n\n---\n\n## 🧰 Related Services\n\n- Dedicated Software Development Team  \n- White Label Web Development  \n- Legacy Software Modernization  \n\n---\n\n## 🏁 Result\n\n- **Increased Development Velocity**: Faster delivery of LIMS key features with unicrew’s integration.\n- **Enhanced Usability**: A modern React-based UI for easier interaction with molecular data.\n- **Scientific Insight Optimization**: Configurable grids/forms allowed precise data manipulation.\n- **Improved Security and Access Control**: OAuth and JWT strengthened authentication infrastructure.\n- **Superior Visualization**: Enhanced clarity for users handling complex molecular structures.\n- **Sustained Collaboration**: A strong ongoing partnership enabling quattro research to evolve confidently.\n",
+      "image": {
+        "id": 152,
+        "documentId": "m97g3r4qcm86j8nzfvw6v95m",
+        "name": "case_studies_3f5653d8aa.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1920,
+        "height": 1127,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_case_studies_3f5653d8aa.jpg",
+            "hash": "thumbnail_case_studies_3f5653d8aa_a8ab59d2ba",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 245,
+            "height": 143,
+            "size": 4.08,
+            "sizeInBytes": 4082,
+            "url": "/uploads/thumbnail_case_studies_3f5653d8aa_a8ab59d2ba.jpg"
+          },
+          "large": {
+            "name": "large_case_studies_3f5653d8aa.jpg",
+            "hash": "large_case_studies_3f5653d8aa_a8ab59d2ba",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 1000,
+            "height": 587,
+            "size": 33.43,
+            "sizeInBytes": 33432,
+            "url": "/uploads/large_case_studies_3f5653d8aa_a8ab59d2ba.jpg"
+          },
+          "medium": {
+            "name": "medium_case_studies_3f5653d8aa.jpg",
+            "hash": "medium_case_studies_3f5653d8aa_a8ab59d2ba",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 750,
+            "height": 440,
+            "size": 21.26,
+            "sizeInBytes": 21260,
+            "url": "/uploads/medium_case_studies_3f5653d8aa_a8ab59d2ba.jpg"
+          },
+          "small": {
+            "name": "small_case_studies_3f5653d8aa.jpg",
+            "hash": "small_case_studies_3f5653d8aa_a8ab59d2ba",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 500,
+            "height": 293,
+            "size": 11.53,
+            "sizeInBytes": 11529,
+            "url": "/uploads/small_case_studies_3f5653d8aa_a8ab59d2ba.jpg"
+          }
+        },
+        "hash": "case_studies_3f5653d8aa_a8ab59d2ba",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 97.37,
+        "url": "/uploads/case_studies_3f5653d8aa_a8ab59d2ba.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-07-04T12:02:47.422Z",
+        "updatedAt": "2025-07-15T20:28:28.746Z",
+        "publishedAt": "2025-07-04T12:02:47.422Z"
+      },
+      "CardButton": {
+        "id": 169,
+        "title": "Learn more",
+        "url": null
+      },
+      "caseStudyCarousel": [
+        {
+          "id": 189,
+          "title": "Manual Processes"
+        },
+        {
+          "id": 190,
+          "title": "Identifying the Application"
+        },
+        {
+          "id": 191,
+          "title": "Increased Development Velocity"
+        }
+      ],
+      "landing_page": {
+        "id": 12,
+        "documentId": "oqa7198bt1uxwd6aoec07a1v",
+        "createdAt": "2025-07-18T10:54:04.646Z",
+        "updatedAt": "2025-07-20T21:06:49.576Z",
+        "publishedAt": "2025-07-20T21:06:49.656Z"
+      },
+      "case_studies_page": {
+        "id": 2,
+        "documentId": "rts3iv7ln36owol9r20oh3fy",
+        "createdAt": "2025-07-21T11:24:31.328Z",
+        "updatedAt": "2025-07-21T11:24:31.328Z",
+        "publishedAt": "2025-07-21T11:24:31.377Z"
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 5
+    }
+  }
+}

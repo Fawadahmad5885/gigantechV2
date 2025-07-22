@@ -1,0 +1,2840 @@
+{
+  "data": [
+    {
+      "id": 12,
+      "documentId": "oqa7198bt1uxwd6aoec07a1v",
+      "createdAt": "2025-07-18T10:54:04.646Z",
+      "updatedAt": "2025-07-20T21:06:49.576Z",
+      "publishedAt": "2025-07-20T21:06:49.656Z",
+      "hero_sections": [
+        {
+          "id": 4,
+          "documentId": "s64rwscujt8ud1t5mewldp65",
+          "title": "Intelligence Redefined with Artificial Intelligence.",
+          "subtitle": "Bringing your ideas to life with cutting-edge AI technology.",
+          "order": 2,
+          "createdAt": "2025-05-28T11:07:09.798Z",
+          "updatedAt": "2025-05-28T11:07:09.798Z",
+          "publishedAt": "2025-05-28T11:07:09.804Z",
+          "image": {
+            "id": 2,
+            "documentId": "rmj5pc1r607uytr78s78av84",
+            "url": "/uploads/carousel_image_3eafb307d8.png",
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_carousel-image.png",
+                "hash": "thumbnail_carousel_image_3eafb307d8",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 245,
+                "height": 88,
+                "size": 59.33,
+                "sizeInBytes": 59328,
+                "url": "/uploads/thumbnail_carousel_image_3eafb307d8.png"
+              },
+              "small": {
+                "name": "small_carousel-image.png",
+                "hash": "small_carousel_image_3eafb307d8",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 500,
+                "height": 180,
+                "size": 223.31,
+                "sizeInBytes": 223308,
+                "url": "/uploads/small_carousel_image_3eafb307d8.png"
+              },
+              "medium": {
+                "name": "medium_carousel-image.png",
+                "hash": "medium_carousel_image_3eafb307d8",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 750,
+                "height": 270,
+                "size": 474.24,
+                "sizeInBytes": 474237,
+                "url": "/uploads/medium_carousel_image_3eafb307d8.png"
+              },
+              "large": {
+                "name": "large_carousel-image.png",
+                "hash": "large_carousel_image_3eafb307d8",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 1000,
+                "height": 360,
+                "size": 811.37,
+                "sizeInBytes": 811371,
+                "url": "/uploads/large_carousel_image_3eafb307d8.png"
+              }
+            }
+          },
+          "video": null,
+          "Button": {
+            "id": 4,
+            "title": "Learn More",
+            "url": "about-us"
+          }
+        },
+        {
+          "id": 5,
+          "documentId": "kbeiexr5sfnu76p8peg7kpfq",
+          "title": "Where technology meets innovation.",
+          "subtitle": "Seamlessly integrating innovation, strategy, and technology to redefine the future.",
+          "order": 1,
+          "createdAt": "2025-05-28T11:05:32.396Z",
+          "updatedAt": "2025-07-17T15:01:11.601Z",
+          "publishedAt": "2025-07-17T15:01:11.679Z",
+          "image": null,
+          "video": {
+            "id": 1,
+            "documentId": "t0q1jivi7hqmdjsvaf694hgq",
+            "url": "/uploads/carousel_video_2db022af8d.mp4",
+            "formats": null
+          },
+          "Button": {
+            "id": 170,
+            "title": "Learn More",
+            "url": "about-us"
+          }
+        }
+      ],
+      "industries_section": {
+        "id": 3,
+        "documentId": "rzxn390nc1j7eltr3twcj0zn",
+        "createdAt": "2025-05-28T11:16:05.911Z",
+        "updatedAt": "2025-07-18T13:42:59.884Z",
+        "publishedAt": "2025-07-18T13:42:59.912Z",
+        "title": "Industries We Work with",
+        "description": "We have collaborated with diverse industries, providing innovative & safety critical solutions that enhance safety, efficiency, and reliability.",
+        "industryCard": [
+          {
+            "id": 82,
+            "title": "Rail Automation",
+            "subtitle": "Advanced Rail Automation Solutions",
+            "description": "We deliver smart automation solutions for rail safety, efficiency & compliance, enabling predictive maintenance, real-time signal monitoring, worker safety, and optimized operations while minimizing downtime and ensuring compliance.",
+            "image": {
+              "id": 4,
+              "documentId": "x6werkzd333vo24qm6mp8jlj",
+              "url": "/uploads/rail_automation_a826a3e425.jpg",
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_rail-automation.jpg",
+                  "hash": "thumbnail_rail_automation_a826a3e425",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 234,
+                  "height": 156,
+                  "size": 9.21,
+                  "sizeInBytes": 9211,
+                  "url": "/uploads/thumbnail_rail_automation_a826a3e425.jpg"
+                },
+                "small": {
+                  "name": "small_rail-automation.jpg",
+                  "hash": "small_rail_automation_a826a3e425",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 334,
+                  "size": 33.21,
+                  "sizeInBytes": 33209,
+                  "url": "/uploads/small_rail_automation_a826a3e425.jpg"
+                },
+                "medium": {
+                  "name": "medium_rail-automation.jpg",
+                  "hash": "medium_rail_automation_a826a3e425",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 500,
+                  "size": 65.53,
+                  "sizeInBytes": 65533,
+                  "url": "/uploads/medium_rail_automation_a826a3e425.jpg"
+                }
+              }
+            }
+          },
+          {
+            "id": 83,
+            "title": "Energy and Utilities",
+            "subtitle": "Next-Gen Energy Management",
+            "description": "Delivering real-time energy management for power generation and distribution. Our systems enable proactive maintenance and efficient resource use, ensuring reliable operation across utility networks.",
+            "image": {
+              "id": 5,
+              "documentId": "or52fur6s8kev6nblukx81xc",
+              "url": "/uploads/energy_and_utility_338ae605a6.jpg",
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_energy-and-utility.jpg",
+                  "hash": "thumbnail_energy_and_utility_338ae605a6",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 234,
+                  "height": 156,
+                  "size": 8.95,
+                  "sizeInBytes": 8948,
+                  "url": "/uploads/thumbnail_energy_and_utility_338ae605a6.jpg"
+                },
+                "small": {
+                  "name": "small_energy-and-utility.jpg",
+                  "hash": "small_energy_and_utility_338ae605a6",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 333,
+                  "size": 33.24,
+                  "sizeInBytes": 33244,
+                  "url": "/uploads/small_energy_and_utility_338ae605a6.jpg"
+                },
+                "medium": {
+                  "name": "medium_energy-and-utility.jpg",
+                  "hash": "medium_energy_and_utility_338ae605a6",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 500,
+                  "size": 64.77,
+                  "sizeInBytes": 64765,
+                  "url": "/uploads/medium_energy_and_utility_338ae605a6.jpg"
+                },
+                "large": {
+                  "name": "large_energy-and-utility.jpg",
+                  "hash": "large_energy_and_utility_338ae605a6",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 1000,
+                  "height": 667,
+                  "size": 99.94,
+                  "sizeInBytes": 99937,
+                  "url": "/uploads/large_energy_and_utility_338ae605a6.jpg"
+                }
+              }
+            }
+          },
+          {
+            "id": 84,
+            "title": "Surveillance Systems",
+            "subtitle": "AI-Driven Assets Security",
+            "description": "Enhancing your assets' theft detection and surveillance with AI-driven systems. Leveraging advanced computer vision, we deliver scalable solutions that protect assets and improve safety in dynamic environments.",
+            "image": {
+              "id": 6,
+              "documentId": "qncwd615pk5ddzkx3u3w567d",
+              "url": "/uploads/automotive_7e8cc08973.jpg",
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_automotive.jpg",
+                  "hash": "thumbnail_automotive_7e8cc08973",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 234,
+                  "height": 156,
+                  "size": 11.12,
+                  "sizeInBytes": 11115,
+                  "url": "/uploads/thumbnail_automotive_7e8cc08973.jpg"
+                },
+                "small": {
+                  "name": "small_automotive.jpg",
+                  "hash": "small_automotive_7e8cc08973",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 333,
+                  "size": 36.36,
+                  "sizeInBytes": 36359,
+                  "url": "/uploads/small_automotive_7e8cc08973.jpg"
+                },
+                "large": {
+                  "name": "large_automotive.jpg",
+                  "hash": "large_automotive_7e8cc08973",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 1000,
+                  "height": 667,
+                  "size": 105.88,
+                  "sizeInBytes": 105875,
+                  "url": "/uploads/large_automotive_7e8cc08973.jpg"
+                },
+                "medium": {
+                  "name": "medium_automotive.jpg",
+                  "hash": "medium_automotive_7e8cc08973",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 500,
+                  "size": 67.36,
+                  "sizeInBytes": 67357,
+                  "url": "/uploads/medium_automotive_7e8cc08973.jpg"
+                }
+              }
+            }
+          },
+          {
+            "id": 85,
+            "title": "Consumer Products",
+            "subtitle": "Smart Digital Consumer Experiences",
+            "description": "Creating engaging digital experiences for consumer brands through cross-platform solutions, offering e-commerce and delivery apps with intuitive design and scalable backend technology for a seamless customer experience.",
+            "image": {
+              "id": 7,
+              "documentId": "eedb8laohj6ggw95bl8tv6il",
+              "url": "/uploads/consumer_products_81b63997af.jpg",
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_consumer-products.jpg",
+                  "hash": "thumbnail_consumer_products_81b63997af",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 234,
+                  "height": 156,
+                  "size": 7.39,
+                  "sizeInBytes": 7391,
+                  "url": "/uploads/thumbnail_consumer_products_81b63997af.jpg"
+                },
+                "medium": {
+                  "name": "medium_consumer-products.jpg",
+                  "hash": "medium_consumer_products_81b63997af",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 500,
+                  "size": 41.89,
+                  "sizeInBytes": 41887,
+                  "url": "/uploads/medium_consumer_products_81b63997af.jpg"
+                },
+                "small": {
+                  "name": "small_consumer-products.jpg",
+                  "hash": "small_consumer_products_81b63997af",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 334,
+                  "size": 22.93,
+                  "sizeInBytes": 22932,
+                  "url": "/uploads/small_consumer_products_81b63997af.jpg"
+                }
+              }
+            }
+          },
+          {
+            "id": 86,
+            "title": "Education",
+            "subtitle": "Innovative Digital Learning",
+            "description": "Transforming education with smart digital solutions for automated grading, management, and interactive learning. Our solutions streamline academic processes and enhance teaching and administration for modern institutions.",
+            "image": {
+              "id": 8,
+              "documentId": "xuhhls061sumtjccahu1gtcf",
+              "url": "/uploads/education_3304f7564e.jpg",
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_education.jpg",
+                  "hash": "thumbnail_education_3304f7564e",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 234,
+                  "height": 156,
+                  "size": 7.72,
+                  "sizeInBytes": 7719,
+                  "url": "/uploads/thumbnail_education_3304f7564e.jpg"
+                },
+                "medium": {
+                  "name": "medium_education.jpg",
+                  "hash": "medium_education_3304f7564e",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 500,
+                  "size": 47.75,
+                  "sizeInBytes": 47747,
+                  "url": "/uploads/medium_education_3304f7564e.jpg"
+                },
+                "small": {
+                  "name": "small_education.jpg",
+                  "hash": "small_education_3304f7564e",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 334,
+                  "size": 25.28,
+                  "sizeInBytes": 25277,
+                  "url": "/uploads/small_education_3304f7564e.jpg"
+                }
+              }
+            }
+          },
+          {
+            "id": 87,
+            "title": "Agriculture",
+            "subtitle": "Innovative AgriTech Solutions",
+            "description": "Revolutionizing agriculture with cutting-edge solutions. Using IoT, AI, and data analytics, we optimize farming operations, boost yields, and promote sustainable practices for a future-ready sector.",
+            "image": {
+              "id": 9,
+              "documentId": "nhq0at4ilhvtpo58barbdrwm",
+              "url": "/uploads/agriculture_548e501fbf.jpg",
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_agriculture.jpg",
+                  "hash": "thumbnail_agriculture_548e501fbf",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 234,
+                  "height": 156,
+                  "size": 9.91,
+                  "sizeInBytes": 9910,
+                  "url": "/uploads/thumbnail_agriculture_548e501fbf.jpg"
+                },
+                "medium": {
+                  "name": "medium_agriculture.jpg",
+                  "hash": "medium_agriculture_548e501fbf",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 500,
+                  "size": 55.43,
+                  "sizeInBytes": 55429,
+                  "url": "/uploads/medium_agriculture_548e501fbf.jpg"
+                },
+                "small": {
+                  "name": "small_agriculture.jpg",
+                  "hash": "small_agriculture_548e501fbf",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 333,
+                  "size": 29.91,
+                  "sizeInBytes": 29912,
+                  "url": "/uploads/small_agriculture_548e501fbf.jpg"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "services_section": {
+        "id": 5,
+        "documentId": "mkn5zw5de424v1tvqcmrgaj2",
+        "createdAt": "2025-05-28T11:21:56.484Z",
+        "updatedAt": "2025-07-18T14:39:28.828Z",
+        "publishedAt": "2025-07-18T14:39:28.856Z",
+        "title": "Our Services",
+        "description": "We provide a comprehensive range of services to help businesses secure their operations, streamline workflows, drive efficiency and support sustainable growth.",
+        "serviceCard": [
+          {
+            "id": 88,
+            "title": "AI Solutions & Machine Learning Development",
+            "subtitle": null,
+            "description": "Enhance automation, decision-making, and efficiency with AI-powered, data-driven solutions tailored to your business.",
+            "image": {
+              "id": 16,
+              "documentId": "wjcwegnua3bpr937gzo7d490",
+              "url": "/uploads/ai_solution_5fe4a8f36b.png",
+              "formats": null
+            }
+          },
+          {
+            "id": 89,
+            "title": "Cloud Engineering, DevOps & Infrastructure",
+            "subtitle": null,
+            "description": "Streamline operations with scalable cloud solutions, automated deployments, and seamless integration.",
+            "image": {
+              "id": 17,
+              "documentId": "koumeh9s1zw103vnryrc3rxi",
+              "url": "/uploads/cloud_23034475c9.png",
+              "formats": null
+            }
+          },
+          {
+            "id": 90,
+            "title": "Embedded Systems & IoT Solutions",
+            "subtitle": null,
+            "description": "Develop safety-critical, intelligent systems enabling real-time monitoring, automation, and secure connectivity.",
+            "image": {
+              "id": 18,
+              "documentId": "njsgiu81oq6k4s7evagiz0lf",
+              "url": "/uploads/embeded_6fb02d6f88.png",
+              "formats": null
+            }
+          },
+          {
+            "id": 91,
+            "title": "Custom Web Application Development",
+            "subtitle": null,
+            "description": "Build secure, scalable, and high-performance web applications designed for optimal business growth and digital transformation.",
+            "image": {
+              "id": 19,
+              "documentId": "vxwc1f78mj2icn3djn6pybg0",
+              "url": "/uploads/web_development_6335ba26e0.png",
+              "formats": null
+            }
+          },
+          {
+            "id": 92,
+            "title": "Mobile App Development & Optimization",
+            "subtitle": null,
+            "description": "Deliver fast, user-friendly mobile experiences with custom-built, performance-optimized, and feature-rich applications.",
+            "image": {
+              "id": 20,
+              "documentId": "lzfjm3dlyxuxa0dod3m9p5e9",
+              "url": "/uploads/mobile_app_development_3c396a108f.png",
+              "formats": null
+            }
+          },
+          {
+            "id": 93,
+            "title": "ISO Certification & Compliance Consulting",
+            "subtitle": null,
+            "description": "Achieve industry compliance with expert consulting, tailored solutions, and end-to-end regulatory certification support.",
+            "image": {
+              "id": 21,
+              "documentId": "shhk1v7w5qools9i4154swba",
+              "url": "/uploads/iso_ae030407a2.png",
+              "formats": null
+            }
+          }
+        ],
+        "backgroundImage": {
+          "id": 158,
+          "documentId": "cc0y3pb7641aa0lebsp5q4nk",
+          "url": "/uploads/services_bg_image_32c7b05602.png",
+          "formats": {
+            "thumbnail": {
+              "name": "thumbnail_services-bg-image.png",
+              "hash": "thumbnail_services_bg_image_32c7b05602",
+              "ext": ".png",
+              "mime": "image/png",
+              "path": null,
+              "width": 155,
+              "height": 156,
+              "size": 9.4,
+              "sizeInBytes": 9395,
+              "url": "/uploads/thumbnail_services_bg_image_32c7b05602.png"
+            }
+          }
+        }
+      },
+      "about_section": {
+        "id": 3,
+        "documentId": "l8smlvfsird8w8dxv0s9uzqb",
+        "createdAt": "2025-05-28T11:09:21.482Z",
+        "updatedAt": "2025-07-20T20:26:06.219Z",
+        "publishedAt": "2025-07-20T20:26:06.257Z",
+        "title": " Drive Innovation with a Partner You can Trust",
+        "description": "At EyraTech, we’re a global technology partner empowering businesses across North America, Europe, and beyond with future-ready solutions in web development, mobile applications, AI, and embedded systems. With a team averaging over 10 years of experience—including top AI specialists and DevOps architects—we bring precision to projects ranging from safety-critical systems to scalable enterprise platforms. Strategically located in Canada, the UK, and Pakistan, our globally connected teams combine technical mastery with a client-first approach, delivering technology that solves complex challenges while driving growth. Let’s build what’s next—together.",
+        "aboutImage": {
+          "id": 3,
+          "documentId": "ojpionzws7z0rce7wa1slh7n",
+          "url": "/uploads/about_us_image_f18869f2a8.jpg"
+        }
+      },
+      "technologies_section": {
+        "id": 3,
+        "documentId": "caxv9m7vxl4k7nkex8g5zozf",
+        "createdAt": "2025-05-28T11:34:51.905Z",
+        "updatedAt": "2025-07-18T15:18:11.079Z",
+        "publishedAt": "2025-07-18T15:18:11.114Z",
+        "title": "Technologies We Use",
+        "description": "We harness a broad spectrum of advanced technologies to engineer\nrobust and scalable software solutions that drive efficiency, security, and long-term business success.",
+        "backgroundImage": null
+      },
+      "technologies": [
+        {
+          "id": 616,
+          "documentId": "urbp9m99gxgp53l2yd2teoxx",
+          "name": "ZigBee",
+          "category": "Embedded Systems",
+          "slug": "zigbee",
+          "createdAt": "2025-07-04T07:07:55.249Z",
+          "updatedAt": "2025-07-04T07:07:55.249Z",
+          "publishedAt": "2025-07-04T07:07:55.253Z",
+          "tooltip": "Wireless technology for IoT",
+          "logo": {
+            "id": 138,
+            "documentId": "kq11rhv9vkoyhrs15dql32tg",
+            "url": "/uploads/zigbee.png"
+          }
+        },
+        {
+          "id": 596,
+          "documentId": "femczalth96bie25ky25llgm",
+          "name": "ARM",
+          "category": "Embedded Systems",
+          "slug": "arm",
+          "createdAt": "2025-07-04T07:07:54.872Z",
+          "updatedAt": "2025-07-04T07:07:54.872Z",
+          "publishedAt": "2025-07-04T07:07:54.876Z",
+          "tooltip": "Advanced RISC Machine architecture",
+          "logo": {
+            "id": 128,
+            "documentId": "xucza891dqnyekspwqgxvbwz",
+            "url": "/uploads/arm.png"
+          }
+        },
+        {
+          "id": 636,
+          "documentId": "if9rnz3nv8138glape2i9pyi",
+          "name": "AWS",
+          "category": "DevOps",
+          "slug": "aws",
+          "createdAt": "2025-07-04T07:07:55.574Z",
+          "updatedAt": "2025-07-04T07:07:55.574Z",
+          "publishedAt": "2025-07-04T07:07:55.577Z",
+          "tooltip": "Amazon Web Services",
+          "logo": {
+            "id": 148,
+            "documentId": "na7maq43j7v7ydnev2l5okvq",
+            "url": "/uploads/aws.svg"
+          }
+        },
+        {
+          "id": 576,
+          "documentId": "anued749rz9brz8qgmiy1qlz",
+          "name": "Android",
+          "category": "Mobile App Development",
+          "slug": "android",
+          "createdAt": "2025-07-04T07:07:54.529Z",
+          "updatedAt": "2025-07-04T07:07:54.529Z",
+          "publishedAt": "2025-07-04T07:07:54.532Z",
+          "tooltip": "Google's mobile operating system",
+          "logo": {
+            "id": 118,
+            "documentId": "kojvl3ae1t1313juortnnn5x",
+            "url": "/uploads/android.png"
+          }
+        },
+        {
+          "id": 628,
+          "documentId": "tlzr2pt6srjslzd096fb3oac",
+          "name": "Ansible",
+          "category": "DevOps",
+          "slug": "ansible",
+          "createdAt": "2025-07-04T07:07:55.458Z",
+          "updatedAt": "2025-07-04T07:07:55.458Z",
+          "publishedAt": "2025-07-04T07:07:55.462Z",
+          "tooltip": "Agentless automation tool for configuration management and orchestration",
+          "logo": {
+            "id": 144,
+            "documentId": "jt2dp2v60vw3zeibgrntwvq0",
+            "url": "/uploads/ansble.png"
+          }
+        },
+        {
+          "id": 644,
+          "documentId": "eyb53fvl3xvanv6trrkrw9fy",
+          "name": "Auto Testing",
+          "category": "Quality Assurance",
+          "slug": "auto-testing",
+          "createdAt": "2025-07-10T22:17:13.289Z",
+          "updatedAt": "2025-07-10T22:17:13.289Z",
+          "publishedAt": "2025-07-10T22:17:13.293Z",
+          "tooltip": "Automated testing for repetitive tasks",
+          "logo": {
+            "id": 162,
+            "documentId": "kshhwpirqkqg8kh0fhnh4ngn",
+            "url": "/uploads/qa.autotesting.png"
+          }
+        },
+        {
+          "id": 634,
+          "documentId": "z9tcwfncd501351qb8h0lnqn",
+          "name": "Azure",
+          "category": "DevOps",
+          "slug": "azure",
+          "createdAt": "2025-07-04T07:07:55.543Z",
+          "updatedAt": "2025-07-04T07:07:55.543Z",
+          "publishedAt": "2025-07-04T07:07:55.548Z",
+          "tooltip": "Microsoft Azure DevOps",
+          "logo": {
+            "id": 147,
+            "documentId": "n50b1qjhtia5squtm9yjms22",
+            "url": "/uploads/azure.svg"
+          }
+        },
+        {
+          "id": 612,
+          "documentId": "lsxsu13ie2g14y0ts76uhqeu",
+          "name": "Arduino",
+          "category": "Embedded Systems",
+          "slug": "arduino",
+          "createdAt": "2025-07-04T07:07:55.173Z",
+          "updatedAt": "2025-07-04T07:07:55.173Z",
+          "publishedAt": "2025-07-04T07:07:55.175Z",
+          "tooltip": "Open-source electronics platform",
+          "logo": {
+            "id": 136,
+            "documentId": "ndkgzbxwc3xpfl5cmcxfyqqk",
+            "url": "/uploads/ardino.png"
+          }
+        },
+        {
+          "id": 614,
+          "documentId": "otfrsq1k7e7kqavjjtpyu0eq",
+          "name": "BLE",
+          "category": "Embedded Systems",
+          "slug": "ble",
+          "createdAt": "2025-07-04T07:07:55.226Z",
+          "updatedAt": "2025-07-04T07:07:55.226Z",
+          "publishedAt": "2025-07-04T07:07:55.230Z",
+          "tooltip": "Bluetooth Low Energy for IoT",
+          "logo": {
+            "id": 137,
+            "documentId": "ops5zyb1b3adr2g1z7t2jak2",
+            "url": "/uploads/ble.png"
+          }
+        },
+        {
+          "id": 606,
+          "documentId": "mt104l5gq9qvbcqqfgjbfihe",
+          "name": "Beaglebone",
+          "category": "Embedded Systems",
+          "slug": "beaglebone",
+          "createdAt": "2025-07-04T07:07:55.073Z",
+          "updatedAt": "2025-07-04T07:07:55.073Z",
+          "publishedAt": "2025-07-04T07:07:55.077Z",
+          "tooltip": "Low-power open-source single-board computer",
+          "logo": {
+            "id": 133,
+            "documentId": "kshg7mpgb4jhd94rr5dbq0fm",
+            "url": "/uploads/beaglebaord-embedded.svg"
+          }
+        },
+        {
+          "id": 592,
+          "documentId": "ydlxrk4ykgrenjy1c4lsc2x3",
+          "name": "C",
+          "category": "Embedded Systems",
+          "slug": "c",
+          "createdAt": "2025-07-04T07:07:54.822Z",
+          "updatedAt": "2025-07-04T07:07:54.822Z",
+          "publishedAt": "2025-07-04T07:07:54.826Z",
+          "tooltip": "Programming language for embedded systems",
+          "logo": {
+            "id": 126,
+            "documentId": "fbp9a5edbkt9ahbsebne648m",
+            "url": "/uploads/c.png"
+          }
+        },
+        {
+          "id": 594,
+          "documentId": "uvtiorzneg6af0abqd7yfo2j",
+          "name": "C++",
+          "category": "Embedded Systems",
+          "slug": "c-plus-plus",
+          "createdAt": "2025-07-04T07:07:54.846Z",
+          "updatedAt": "2025-07-04T07:07:54.846Z",
+          "publishedAt": "2025-07-04T07:07:54.851Z",
+          "tooltip": "Object-oriented programming language for systems programming",
+          "logo": {
+            "id": 127,
+            "documentId": "qup4yn60vawbg6tuby20gqw0",
+            "url": "/uploads/cpp-icon.png"
+          }
+        },
+        {
+          "id": 506,
+          "documentId": "b36k3gen5qqz8gx5yln8902f",
+          "name": "ChromaDB",
+          "category": "Artificial Intelligence",
+          "slug": "chromadb",
+          "createdAt": "2025-07-04T06:57:52.621Z",
+          "updatedAt": "2025-07-04T06:57:52.621Z",
+          "publishedAt": "2025-07-04T06:57:52.625Z",
+          "tooltip": "Embedding database",
+          "logo": {
+            "id": 83,
+            "documentId": "ni2guvfraww7azpzkq69nb2e",
+            "url": "/uploads/chroma.png"
+          }
+        },
+        {
+          "id": 532,
+          "documentId": "f2wq0y6s6ezsdviasnjfxk1k",
+          "name": "Claude",
+          "category": "Artificial Intelligence",
+          "slug": "claude",
+          "createdAt": "2025-07-04T06:57:53.180Z",
+          "updatedAt": "2025-07-04T06:57:53.180Z",
+          "publishedAt": "2025-07-04T06:57:53.185Z",
+          "tooltip": "models by Anthropic",
+          "logo": {
+            "id": 96,
+            "documentId": "dfls2p6f0uhlr1b8jtt8tt8f",
+            "url": "/uploads/claude.png"
+          }
+        },
+        {
+          "id": 526,
+          "documentId": "h7ryfldqlfd1ukqxc3vzx51y",
+          "name": "DeepSeek",
+          "category": "Artificial Intelligence",
+          "slug": "deepseek",
+          "createdAt": "2025-07-04T06:57:53.014Z",
+          "updatedAt": "2025-07-04T06:57:53.014Z",
+          "publishedAt": "2025-07-04T06:57:53.018Z",
+          "tooltip": "Models by DeepSeek",
+          "logo": {
+            "id": 93,
+            "documentId": "kt3ds2mk1goq1b45de5vtmlj",
+            "url": "/uploads/deepseek.png"
+          }
+        },
+        {
+          "id": 562,
+          "documentId": "k15a8ae4dcgc6y8o7sdbmg4k",
+          "name": "Django",
+          "category": "Web Development",
+          "slug": "django",
+          "createdAt": "2025-07-04T07:07:54.337Z",
+          "updatedAt": "2025-07-04T07:07:54.337Z",
+          "publishedAt": "2025-07-04T07:07:54.341Z",
+          "tooltip": "Web framework for Python",
+          "logo": {
+            "id": 111,
+            "documentId": "nawfob0tfjb2agow9g0rg8qx",
+            "url": "/uploads/django.svg"
+          }
+        },
+        {
+          "id": 622,
+          "documentId": "pme3uip2khmb640nkeckw5ty",
+          "name": "Docker",
+          "category": "DevOps",
+          "slug": "docker",
+          "createdAt": "2025-07-04T07:07:55.374Z",
+          "updatedAt": "2025-07-04T07:07:55.374Z",
+          "publishedAt": "2025-07-04T07:07:55.377Z",
+          "tooltip": "Containerization platform for packaging and deploying applications",
+          "logo": {
+            "id": 141,
+            "documentId": "vf0d8i5a7k30naucuuj0ffiz",
+            "url": "/uploads/docker.png"
+          }
+        },
+        {
+          "id": 560,
+          "documentId": "gkf7j1kanlgoq3kv2v9wvhna",
+          "name": "Express JS",
+          "category": "Web Development",
+          "slug": "express-js",
+          "createdAt": "2025-07-04T07:07:54.311Z",
+          "updatedAt": "2025-07-04T07:07:54.311Z",
+          "publishedAt": "2025-07-04T07:07:54.313Z",
+          "tooltip": "Web framework for Node.js",
+          "logo": {
+            "id": 110,
+            "documentId": "yvb602uvfxyoffz89j8514fg",
+            "url": "/uploads/expressjs.svg"
+          }
+        },
+        {
+          "id": 488,
+          "documentId": "z6al49y39a2o9n8un0yt84fl",
+          "name": "FastAPI",
+          "category": "Artificial Intelligence",
+          "slug": "fastapi",
+          "createdAt": "2025-07-04T06:57:52.344Z",
+          "updatedAt": "2025-07-04T06:57:52.344Z",
+          "publishedAt": "2025-07-04T06:57:52.351Z",
+          "tooltip": "High-performance API framework",
+          "logo": {
+            "id": 74,
+            "documentId": "g1rq95lxa0499n1wn926uav0",
+            "url": "/uploads/fast-api.png"
+          }
+        },
+        {
+          "id": 564,
+          "documentId": "jhcbj1yt3eppji3i91ojsxo3",
+          "name": "Flask",
+          "category": "Web Development",
+          "slug": "flask",
+          "createdAt": "2025-07-04T07:07:54.367Z",
+          "updatedAt": "2025-07-04T07:07:54.367Z",
+          "publishedAt": "2025-07-04T07:07:54.370Z",
+          "tooltip": "Lightweight Python web framework",
+          "logo": {
+            "id": 112,
+            "documentId": "p69wjnqp57gd9kdtd0u0chaf",
+            "url": "/uploads/flask.svg"
+          }
+        },
+        {
+          "id": 620,
+          "documentId": "j2e8lotesc4huds7641qheiv",
+          "name": "FreeRTOS",
+          "category": "Embedded Systems",
+          "slug": "freertos",
+          "createdAt": "2025-07-04T07:07:55.301Z",
+          "updatedAt": "2025-07-04T07:07:55.301Z",
+          "publishedAt": "2025-07-04T07:07:55.304Z",
+          "tooltip": "Real-Time Operating System for embedded devices",
+          "logo": {
+            "id": 140,
+            "documentId": "wedb0znuogzsx8kecnsbpov1",
+            "url": "/uploads/rtos.png"
+          }
+        },
+        {
+          "id": 528,
+          "documentId": "a600bhftfemap4ozr0kkfvzt",
+          "name": "Gemini",
+          "category": "Artificial Intelligence",
+          "slug": "gemini",
+          "createdAt": "2025-07-04T06:57:53.128Z",
+          "updatedAt": "2025-07-04T06:57:53.128Z",
+          "publishedAt": "2025-07-04T06:57:53.131Z",
+          "tooltip": "Models by Google",
+          "logo": {
+            "id": 94,
+            "documentId": "pufvcsazaygvlb1q3vjcjc8p",
+            "url": "/uploads/gemini.png"
+          }
+        },
+        {
+          "id": 632,
+          "documentId": "mqnn0jbt16gi783p5tc8o4pn",
+          "name": "Grafana",
+          "category": "DevOps",
+          "slug": "grafana",
+          "createdAt": "2025-07-04T07:07:55.517Z",
+          "updatedAt": "2025-07-04T07:07:55.517Z",
+          "publishedAt": "2025-07-04T07:07:55.520Z",
+          "tooltip": "Observability platform for visualizing metrics, logs, and traces",
+          "logo": {
+            "id": 146,
+            "documentId": "xejeuwe2ahehcl8zqmrb4zts",
+            "url": "/uploads/grafana.png"
+          }
+        },
+        {
+          "id": 520,
+          "documentId": "rilt35jnrr9niy5c64bzggyo",
+          "name": "Hugging Face",
+          "category": "Artificial Intelligence",
+          "slug": "hugging-face",
+          "createdAt": "2025-07-04T06:57:52.934Z",
+          "updatedAt": "2025-07-04T06:57:52.934Z",
+          "publishedAt": "2025-07-04T06:57:52.937Z",
+          "tooltip": "ML model hub",
+          "logo": {
+            "id": 90,
+            "documentId": "a6oa9og0snd3da0t9x329c5t",
+            "url": "/uploads/huggingface.svg"
+          }
+        },
+        {
+          "id": 584,
+          "documentId": "ji9c41j0i5qc89cjfhmrp3rg",
+          "name": "Java",
+          "category": "Mobile App Development",
+          "slug": "java",
+          "createdAt": "2025-07-04T07:07:54.637Z",
+          "updatedAt": "2025-07-04T07:07:54.637Z",
+          "publishedAt": "2025-07-04T07:07:54.639Z",
+          "tooltip": "Popular programming language for Android development",
+          "logo": {
+            "id": 122,
+            "documentId": "urk7q7gc1umxccpr5ul6wxor",
+            "url": "/uploads/java-icon.png"
+          }
+        },
+        {
+          "id": 640,
+          "documentId": "c8np412gtuf8xz35hycohfug",
+          "name": "Jenkins",
+          "category": "Quality Assurance",
+          "slug": "jenkins",
+          "createdAt": "2025-07-10T22:17:13.235Z",
+          "updatedAt": "2025-07-10T22:17:13.235Z",
+          "publishedAt": "2025-07-10T22:17:13.239Z",
+          "tooltip": "Continuous integration and delivery tool",
+          "logo": {
+            "id": 160,
+            "documentId": "o2uydr63fcokjwsxxat9035f",
+            "url": "/uploads/qa.jenkins.png"
+          }
+        },
+        {
+          "id": 492,
+          "documentId": "j8p149spnnkkraitz4heo156",
+          "name": "Keras",
+          "category": "Artificial Intelligence",
+          "slug": "keras",
+          "createdAt": "2025-07-04T06:57:52.408Z",
+          "updatedAt": "2025-07-04T06:57:52.408Z",
+          "publishedAt": "2025-07-04T06:57:52.412Z",
+          "tooltip": "High-level NN API",
+          "logo": {
+            "id": 76,
+            "documentId": "zp5custgonkrqmblpjao0ujb",
+            "url": "/uploads/keras.png"
+          }
+        },
+        {
+          "id": 586,
+          "documentId": "cl9dlq6jjjqz54x4koq03z4v",
+          "name": "Kotlin",
+          "category": "Mobile App Development",
+          "slug": "kotlin",
+          "createdAt": "2025-07-04T07:07:54.662Z",
+          "updatedAt": "2025-07-04T07:07:54.662Z",
+          "publishedAt": "2025-07-04T07:07:54.666Z",
+          "tooltip": "Modern programming language for Android development",
+          "logo": {
+            "id": 123,
+            "documentId": "pwigfjd44ppgv7gryy02djho",
+            "url": "/uploads/kotlin.svg"
+          }
+        },
+        {
+          "id": 624,
+          "documentId": "vv9mk6h7uixapn9i4ac908n8",
+          "name": "Kubernetes",
+          "category": "DevOps",
+          "slug": "kubernetes",
+          "createdAt": "2025-07-04T07:07:55.397Z",
+          "updatedAt": "2025-07-04T07:07:55.397Z",
+          "publishedAt": "2025-07-04T07:07:55.401Z",
+          "tooltip": "Open-source container orchestration system for automating deployment and scaling",
+          "logo": {
+            "id": 142,
+            "documentId": "beynya2x61ag6xjk652l96ku",
+            "url": "/uploads/kuberneter.svg"
+          }
+        },
+        {
+          "id": 524,
+          "documentId": "e8bvlzfilkxy48dreqqrj5go",
+          "name": "LLaMA",
+          "category": "Artificial Intelligence",
+          "slug": "llama",
+          "createdAt": "2025-07-04T06:57:52.986Z",
+          "updatedAt": "2025-07-04T06:57:52.986Z",
+          "publishedAt": "2025-07-04T06:57:52.990Z",
+          "tooltip": "Models by Meta",
+          "logo": {
+            "id": 92,
+            "documentId": "vvehs108o07yl2t9cx6jjztn",
+            "url": "/uploads/llama.png"
+          }
+        },
+        {
+          "id": 508,
+          "documentId": "slahokd662ijz8hwe2tyyoj3",
+          "name": "LangChain",
+          "category": "Artificial Intelligence",
+          "slug": "langchain",
+          "createdAt": "2025-07-04T06:57:52.666Z",
+          "updatedAt": "2025-07-04T06:57:52.666Z",
+          "publishedAt": "2025-07-04T06:57:52.672Z",
+          "tooltip": "LLM app framework",
+          "logo": {
+            "id": 84,
+            "documentId": "srawk49j7t5fx2ibt3g2zuid",
+            "url": "/uploads/long-chain.png"
+          }
+        },
+        {
+          "id": 540,
+          "documentId": "ga2town9vzls4z2bbormlg4j",
+          "name": "LlamaIndex",
+          "category": "Artificial Intelligence",
+          "slug": "llamaindex",
+          "createdAt": "2025-07-04T06:57:53.302Z",
+          "updatedAt": "2025-07-04T06:57:53.302Z",
+          "publishedAt": "2025-07-04T06:57:53.307Z",
+          "tooltip": "Data retrieval framework",
+          "logo": {
+            "id": 100,
+            "documentId": "ypfttcxbszwp6kjpyel4uiz3",
+            "url": "/uploads/llamaindex.png"
+          }
+        },
+        {
+          "id": 558,
+          "documentId": "l10rbon3be4eh2973wvsq6y0",
+          "name": "Loopback io",
+          "category": "Web Development",
+          "slug": "loopback-io",
+          "createdAt": "2025-07-04T07:07:54.289Z",
+          "updatedAt": "2025-07-04T07:07:54.289Z",
+          "publishedAt": "2025-07-04T07:07:54.291Z",
+          "tooltip": "API framework for Node.js",
+          "logo": {
+            "id": 109,
+            "documentId": "f81n1qyluibuu66753ncyoht",
+            "url": "/uploads/loopback-io.png"
+          }
+        },
+        {
+          "id": 588,
+          "documentId": "ds5elxzdva2inaf325qjmvdc",
+          "name": "MAUI",
+          "category": "Mobile App Development",
+          "slug": "maui",
+          "createdAt": "2025-07-04T07:07:54.769Z",
+          "updatedAt": "2025-07-04T07:07:54.769Z",
+          "publishedAt": "2025-07-04T07:07:54.771Z",
+          "tooltip": ".NET Multi-platform App UI",
+          "logo": {
+            "id": 124,
+            "documentId": "b9ko5c8wbcixz26efjwtu8hi",
+            "url": "/uploads/maui.svg"
+          }
+        },
+        {
+          "id": 550,
+          "documentId": "gazhw34ubamzlgisvbb6c41m",
+          "name": "MUI",
+          "category": "Web Development",
+          "slug": "mui",
+          "createdAt": "2025-07-04T07:07:54.182Z",
+          "updatedAt": "2025-07-04T07:07:54.182Z",
+          "publishedAt": "2025-07-04T07:07:54.187Z",
+          "tooltip": "Material-UI for React",
+          "logo": {
+            "id": 105,
+            "documentId": "utuu6j5nhhyfsb7mi0bu74t1",
+            "url": "/uploads/mui.svg"
+          }
+        },
+        {
+          "id": 642,
+          "documentId": "mrm4df25pc6fnniwqh2fined",
+          "name": "Manual Testing",
+          "category": "Quality Assurance",
+          "slug": "manual-testing",
+          "createdAt": "2025-07-10T22:17:13.264Z",
+          "updatedAt": "2025-07-10T22:17:13.264Z",
+          "publishedAt": "2025-07-10T22:17:13.268Z",
+          "tooltip": "Human-driven testing to identify issues",
+          "logo": {
+            "id": 161,
+            "documentId": "xbsu1oeqo8fhnmje29o1x394",
+            "url": "/uploads/qa.manualtesting.png"
+          }
+        },
+        {
+          "id": 498,
+          "documentId": "hitvnha6j4k94c8syplgmzsg",
+          "name": "Matplotlib",
+          "category": "Artificial Intelligence",
+          "slug": "matplotlib",
+          "createdAt": "2025-07-04T06:57:52.503Z",
+          "updatedAt": "2025-07-04T06:57:52.503Z",
+          "publishedAt": "2025-07-04T06:57:52.506Z",
+          "tooltip": "Plotting library",
+          "logo": {
+            "id": 79,
+            "documentId": "fn485i2wjeeejoy19zyhlq4m",
+            "url": "/uploads/matplotlib.svg"
+          }
+        },
+        {
+          "id": 574,
+          "documentId": "m6n6u2ifpe8wsobgzjof73ba",
+          "name": "Memcached",
+          "category": "Web Development",
+          "slug": "memcached",
+          "createdAt": "2025-07-04T07:07:54.507Z",
+          "updatedAt": "2025-07-04T07:07:54.507Z",
+          "publishedAt": "2025-07-04T07:07:54.510Z",
+          "tooltip": "Distributed memory caching system",
+          "logo": {
+            "id": 117,
+            "documentId": "zpxh30hwt2n61iw0nhgaj751",
+            "url": "/uploads/memcached.svg"
+          }
+        },
+        {
+          "id": 598,
+          "documentId": "nhsfg828w9usi4in91lix243",
+          "name": "Microchip",
+          "category": "Embedded Systems",
+          "slug": "microchip",
+          "createdAt": "2025-07-04T07:07:54.899Z",
+          "updatedAt": "2025-07-04T07:07:54.899Z",
+          "publishedAt": "2025-07-04T07:07:54.904Z",
+          "tooltip": "Microcontroller solutions provider",
+          "logo": {
+            "id": 129,
+            "documentId": "vovjdxbzcxqxprixs1rfkvju",
+            "url": "/uploads/microchip-icon.png"
+          }
+        },
+        {
+          "id": 500,
+          "documentId": "q9g1yj0pyboxlz10gomsdnu9",
+          "name": "Milvus",
+          "category": "Artificial Intelligence",
+          "slug": "milvus",
+          "createdAt": "2025-07-04T06:57:52.534Z",
+          "updatedAt": "2025-07-04T06:57:52.534Z",
+          "publishedAt": "2025-07-04T06:57:52.537Z",
+          "tooltip": "Scalable vector DB",
+          "logo": {
+            "id": 80,
+            "documentId": "h56muuzhc8k39c25pp436jkq",
+            "url": "/uploads/milvus.jpg"
+          }
+        },
+        {
+          "id": 566,
+          "documentId": "rfs9x8uh8c6i4fb6vwbdt3eu",
+          "name": "MongoDB",
+          "category": "Web Development",
+          "slug": "mongodb",
+          "createdAt": "2025-07-04T07:07:54.388Z",
+          "updatedAt": "2025-07-04T07:07:54.388Z",
+          "publishedAt": "2025-07-04T07:07:54.392Z",
+          "tooltip": "NoSQL database",
+          "logo": {
+            "id": 113,
+            "documentId": "yrur4zhpj5r6wz0f81egp3v1",
+            "url": "/uploads/mongodb.svg"
+          }
+        },
+        {
+          "id": 608,
+          "documentId": "suxu1ooxx3gxnrq4rrs3ryl4",
+          "name": "Motorolla",
+          "category": "Embedded Systems",
+          "slug": "motorolla",
+          "createdAt": "2025-07-04T07:07:55.100Z",
+          "updatedAt": "2025-07-04T07:07:55.100Z",
+          "publishedAt": "2025-07-04T07:07:55.104Z",
+          "tooltip": "Telecommunication and embedded solutions provider",
+          "logo": {
+            "id": 134,
+            "documentId": "h3acvfra5q6thdvat7mfvdo6",
+            "url": "/uploads/motorola.jpg"
+          }
+        },
+        {
+          "id": 570,
+          "documentId": "f51pdixktwji6z4p27no57gc",
+          "name": "MySQL",
+          "category": "Web Development",
+          "slug": "mysql",
+          "createdAt": "2025-07-04T07:07:54.445Z",
+          "updatedAt": "2025-07-04T07:07:54.445Z",
+          "publishedAt": "2025-07-04T07:07:54.449Z",
+          "tooltip": "Popular relational database",
+          "logo": {
+            "id": 115,
+            "documentId": "n7766zftwdim0rutm5uaezs9",
+            "url": "/uploads/mysql.svg"
+          }
+        },
+        {
+          "id": 518,
+          "documentId": "x7ckh0mcsh22p7kir1qee5uu",
+          "name": "NLP",
+          "category": "Artificial Intelligence",
+          "slug": "nlp",
+          "createdAt": "2025-07-04T06:57:52.906Z",
+          "updatedAt": "2025-07-04T06:57:52.906Z",
+          "publishedAt": "2025-07-04T06:57:52.912Z",
+          "tooltip": "Natural language processing",
+          "logo": {
+            "id": 89,
+            "documentId": "u7fptgdb2zb8vt18ok2klp4l",
+            "url": "/uploads/nlp.png"
+          }
+        },
+        {
+          "id": 556,
+          "documentId": "zrokiqu5e8y7oi0krirpt13l",
+          "name": "NestJS",
+          "category": "Web Development",
+          "slug": "nestjs",
+          "createdAt": "2025-07-04T07:07:54.264Z",
+          "updatedAt": "2025-07-04T07:07:54.264Z",
+          "publishedAt": "2025-07-04T07:07:54.269Z",
+          "tooltip": "Progressive Node.js framework",
+          "logo": {
+            "id": 108,
+            "documentId": "umzs5tm7fjdy49bhje7l71n8",
+            "url": "/uploads/nestjs.png"
+          }
+        },
+        {
+          "id": 548,
+          "documentId": "rbi8xx31qmty66ljt76sfeq4",
+          "name": "NextJS",
+          "category": "Web Development",
+          "slug": "nextjs",
+          "createdAt": "2025-07-04T07:07:54.151Z",
+          "updatedAt": "2025-07-04T07:07:54.151Z",
+          "publishedAt": "2025-07-04T07:07:54.156Z",
+          "tooltip": "React framework for SSR",
+          "logo": {
+            "id": 104,
+            "documentId": "xqsgruylphooqvbbczpj56kr",
+            "url": "/uploads/next-js.png"
+          }
+        },
+        {
+          "id": 554,
+          "documentId": "urh61b8201ezbwqglbzllud0",
+          "name": "Node JS",
+          "category": "Web Development",
+          "slug": "node-js",
+          "createdAt": "2025-07-04T07:07:54.239Z",
+          "updatedAt": "2025-07-04T07:07:54.239Z",
+          "publishedAt": "2025-07-04T07:07:54.243Z",
+          "tooltip": "JavaScript runtime environment",
+          "logo": {
+            "id": 107,
+            "documentId": "rt163ylonh758rmuf1qwg3ng",
+            "url": "/uploads/nodejs.svg"
+          }
+        },
+        {
+          "id": 514,
+          "documentId": "xazplogm7esf2zrsbcuwo22x",
+          "name": "OCR",
+          "category": "Artificial Intelligence",
+          "slug": "ocr",
+          "createdAt": "2025-07-04T06:57:52.840Z",
+          "updatedAt": "2025-07-04T06:57:52.840Z",
+          "publishedAt": "2025-07-04T06:57:52.846Z",
+          "tooltip": "Optical character recognition",
+          "logo": {
+            "id": 87,
+            "documentId": "mds1e1ff369fkp1mxug4kbtk",
+            "url": "/uploads/ocr-image.png"
+          }
+        },
+        {
+          "id": 542,
+          "documentId": "eei49egn1046ntsabf4ojnwc",
+          "name": "Ollama",
+          "category": "Artificial Intelligence",
+          "slug": "ollama",
+          "createdAt": "2025-07-04T06:57:53.346Z",
+          "updatedAt": "2025-07-04T06:57:53.346Z",
+          "publishedAt": "2025-07-04T06:57:53.351Z",
+          "tooltip": "Running open-source LLMs locally",
+          "logo": {
+            "id": 101,
+            "documentId": "clg20y1ctqn813elvqyziiti",
+            "url": "/uploads/ollama.png"
+          }
+        },
+        {
+          "id": 522,
+          "documentId": "ujfav1qrfbatu8cnjxr6z6nj",
+          "name": "OpenAI",
+          "category": "Artificial Intelligence",
+          "slug": "openai",
+          "createdAt": "2025-07-04T06:57:52.962Z",
+          "updatedAt": "2025-07-04T06:57:52.962Z",
+          "publishedAt": "2025-07-04T06:57:52.966Z",
+          "tooltip": "Models by OpenAI",
+          "logo": {
+            "id": 91,
+            "documentId": "e98k21rret6a8uwyzpa52m1y",
+            "url": "/uploads/openai-icon.png"
+          }
+        },
+        {
+          "id": 510,
+          "documentId": "vlgbi2fvnc62c08w3j2puhwd",
+          "name": "OpenCV",
+          "category": "Artificial Intelligence",
+          "slug": "opencv",
+          "createdAt": "2025-07-04T06:57:52.728Z",
+          "updatedAt": "2025-07-04T06:57:52.728Z",
+          "publishedAt": "2025-07-04T06:57:52.736Z",
+          "tooltip": "Computer vision library",
+          "logo": {
+            "id": 85,
+            "documentId": "fvh4l60ceglcptaoahtwe2g8",
+            "url": "/uploads/opencv-icon.png"
+          }
+        },
+        {
+          "id": 534,
+          "documentId": "vg4vbal4xs58p8es92kydt3j",
+          "name": "PE",
+          "category": "Artificial Intelligence",
+          "slug": "pe",
+          "createdAt": "2025-07-04T06:57:53.209Z",
+          "updatedAt": "2025-07-04T06:57:53.209Z",
+          "publishedAt": "2025-07-04T06:57:53.212Z",
+          "tooltip": "LLM prompt engineering",
+          "logo": {
+            "id": 97,
+            "documentId": "nwyswl4r0akzgorzaf80nsul",
+            "url": "/uploads/promptengineering.png"
+          }
+        },
+        {
+          "id": 502,
+          "documentId": "ym796iswrceqg2zhnludktih",
+          "name": "Pinecone",
+          "category": "Artificial Intelligence",
+          "slug": "pinecone",
+          "createdAt": "2025-07-04T06:57:52.563Z",
+          "updatedAt": "2025-07-04T06:57:52.563Z",
+          "publishedAt": "2025-07-04T06:57:52.569Z",
+          "tooltip": "Managed vector DB",
+          "logo": {
+            "id": 81,
+            "documentId": "c9pj1eo56gb0o1eopzwcfh0e",
+            "url": "/uploads/Pinecone.png"
+          }
+        },
+        {
+          "id": 568,
+          "documentId": "peum8tdt41hl7pnre9eb5boe",
+          "name": "PostgreSQL",
+          "category": "Web Development",
+          "slug": "postgresql",
+          "createdAt": "2025-07-04T07:07:54.411Z",
+          "updatedAt": "2025-07-04T07:07:54.411Z",
+          "publishedAt": "2025-07-04T07:07:54.415Z",
+          "tooltip": "Relational database",
+          "logo": {
+            "id": 114,
+            "documentId": "pn3rva4fc5trkmi65fxi4wr0",
+            "url": "/uploads/postgress.svg"
+          }
+        },
+        {
+          "id": 630,
+          "documentId": "uulq01hudd6ke0m54xb2b3so",
+          "name": "Prometheus",
+          "category": "DevOps",
+          "slug": "prometheus",
+          "createdAt": "2025-07-04T07:07:55.481Z",
+          "updatedAt": "2025-07-04T07:07:55.481Z",
+          "publishedAt": "2025-07-04T07:07:55.485Z",
+          "tooltip": "Open-source monitoring and alerting toolkit for metrics collection",
+          "logo": {
+            "id": 145,
+            "documentId": "xpn667qergvnivfg54jebciz",
+            "url": "/uploads/Prometheus-icon.png"
+          }
+        },
+        {
+          "id": 494,
+          "documentId": "g1ltoc4k8nx3vexubmnewg1j",
+          "name": "PyTorch",
+          "category": "Artificial Intelligence",
+          "slug": "pytorch",
+          "createdAt": "2025-07-04T06:57:52.437Z",
+          "updatedAt": "2025-07-04T06:57:52.437Z",
+          "publishedAt": "2025-07-04T06:57:52.443Z",
+          "tooltip": "Facebook ML library",
+          "logo": {
+            "id": 77,
+            "documentId": "x1jxjh3g0jj3f6aoxqo579k2",
+            "url": "/uploads/pytorch.svg"
+          }
+        },
+        {
+          "id": 486,
+          "documentId": "agi98lls8zk1bmo0a2ea6vcm",
+          "name": "Python",
+          "category": "Artificial Intelligence",
+          "slug": "python",
+          "createdAt": "2025-07-04T06:57:52.303Z",
+          "updatedAt": "2025-07-04T06:57:52.303Z",
+          "publishedAt": "2025-07-04T06:57:52.310Z",
+          "tooltip": "Core AI language",
+          "logo": {
+            "id": 73,
+            "documentId": "fs61rop1unruylipuvwgoolu",
+            "url": "/uploads/python.png"
+          }
+        },
+        {
+          "id": 530,
+          "documentId": "h3p6ogpawutlbkb1xjolgi91",
+          "name": "Qwen",
+          "category": "Artificial Intelligence",
+          "slug": "qwen",
+          "createdAt": "2025-07-04T06:57:53.150Z",
+          "updatedAt": "2025-07-04T06:57:53.150Z",
+          "publishedAt": "2025-07-04T06:57:53.154Z",
+          "tooltip": "Models by AliBaba",
+          "logo": {
+            "id": 95,
+            "documentId": "gvyusbnakz97crqllc8vcd0s",
+            "url": "/uploads/qwen.png"
+          }
+        },
+        {
+          "id": 536,
+          "documentId": "kpyhknlzgem1qxl5q81b9miu",
+          "name": "RAG",
+          "category": "Artificial Intelligence",
+          "slug": "rag",
+          "createdAt": "2025-07-04T06:57:53.232Z",
+          "updatedAt": "2025-07-04T06:57:53.232Z",
+          "publishedAt": "2025-07-04T06:57:53.237Z",
+          "tooltip": "Retrieval augmented generation",
+          "logo": {
+            "id": 98,
+            "documentId": "lefx6tp965glypu7nw35ka8q",
+            "url": "/uploads/rag.png"
+          }
+        },
+        {
+          "id": 618,
+          "documentId": "p4ixirbai2oo72hkzryuo234",
+          "name": "Radar",
+          "category": "Embedded Systems",
+          "slug": "radar",
+          "createdAt": "2025-07-04T07:07:55.280Z",
+          "updatedAt": "2025-07-04T07:07:55.280Z",
+          "publishedAt": "2025-07-04T07:07:55.283Z",
+          "tooltip": "Radio detection and ranging system",
+          "logo": {
+            "id": 139,
+            "documentId": "jhusw34p6p2i7m96q5munup2",
+            "url": "/uploads/radar.png"
+          }
+        },
+        {
+          "id": 610,
+          "documentId": "vj9mvh4ok8r3g9wm0xvf5mtc",
+          "name": "Raspberry Pi",
+          "category": "Embedded Systems",
+          "slug": "raspberry-pi",
+          "createdAt": "2025-07-04T07:07:55.149Z",
+          "updatedAt": "2025-07-04T07:07:55.149Z",
+          "publishedAt": "2025-07-04T07:07:55.154Z",
+          "tooltip": "Small and affordable computer for learning",
+          "logo": {
+            "id": 135,
+            "documentId": "tpq2sox96apz852addppy4el",
+            "url": "/uploads/respberry.png"
+          }
+        },
+        {
+          "id": 546,
+          "documentId": "so48ydg0514sf1xeyugz0dod",
+          "name": "React",
+          "category": "Web Development",
+          "slug": "react",
+          "createdAt": "2025-07-04T07:07:54.130Z",
+          "updatedAt": "2025-07-04T07:07:54.130Z",
+          "publishedAt": "2025-07-04T07:07:54.133Z",
+          "tooltip": "Frontend library for UI",
+          "logo": {
+            "id": 103,
+            "documentId": "l4u1v68jfdz7zg0uyqs0g34j",
+            "url": "/uploads/react.png"
+          }
+        },
+        {
+          "id": 590,
+          "documentId": "exnz9et73ab9v1xngkguib5g",
+          "name": "React Native",
+          "category": "Mobile App Development",
+          "slug": "react-native",
+          "createdAt": "2025-07-04T07:07:54.791Z",
+          "updatedAt": "2025-07-04T07:07:54.791Z",
+          "publishedAt": "2025-07-04T07:07:54.796Z",
+          "tooltip": "Cross-platform framework for mobile apps",
+          "logo": {
+            "id": 125,
+            "documentId": "wa2ulzwc32nmvi8h82chpu3d",
+            "url": "/uploads/reactnative.png"
+          }
+        },
+        {
+          "id": 572,
+          "documentId": "ju1nqy0x304finkb9u8bino6",
+          "name": "Redis",
+          "category": "Web Development",
+          "slug": "redis",
+          "createdAt": "2025-07-04T07:07:54.484Z",
+          "updatedAt": "2025-07-04T07:07:54.484Z",
+          "publishedAt": "2025-07-04T07:07:54.488Z",
+          "tooltip": "In-memory data store",
+          "logo": {
+            "id": 116,
+            "documentId": "qehldw1sohtvzyrjktnyn9db",
+            "url": "/uploads/redis.png"
+          }
+        },
+        {
+          "id": 600,
+          "documentId": "diyc3dwoxr25bff1gpesf2va",
+          "name": "Renesas",
+          "category": "Embedded Systems",
+          "slug": "renesas",
+          "createdAt": "2025-07-04T07:07:54.943Z",
+          "updatedAt": "2025-07-04T07:07:54.943Z",
+          "publishedAt": "2025-07-04T07:07:54.947Z",
+          "tooltip": "Manufacturer of semiconductors",
+          "logo": {
+            "id": 130,
+            "documentId": "w2649jgnltq742eueb632af4",
+            "url": "/uploads/renesas.png"
+          }
+        },
+        {
+          "id": 604,
+          "documentId": "jkgqpd6x1kp3otkczu2rl1aj",
+          "name": "STM",
+          "category": "Embedded Systems",
+          "slug": "stm",
+          "createdAt": "2025-07-04T07:07:55.030Z",
+          "updatedAt": "2025-07-04T07:07:55.030Z",
+          "publishedAt": "2025-07-04T07:07:55.036Z",
+          "tooltip": "STMicroelectronics - semiconductor solutions",
+          "logo": {
+            "id": 132,
+            "documentId": "cci8hiuc5v4lkv63zd60r694",
+            "url": "/uploads/stm.png"
+          }
+        },
+        {
+          "id": 496,
+          "documentId": "eohox7lja2c2wzingwsarayy",
+          "name": "Scikit",
+          "category": "Artificial Intelligence",
+          "slug": "scikit",
+          "createdAt": "2025-07-04T06:57:52.474Z",
+          "updatedAt": "2025-07-04T06:57:52.474Z",
+          "publishedAt": "2025-07-04T06:57:52.478Z",
+          "tooltip": "Classical ML library",
+          "logo": {
+            "id": 78,
+            "documentId": "yjmaqz36u58kkzjxsaqh3e5n",
+            "url": "/uploads/scikit.png"
+          }
+        },
+        {
+          "id": 638,
+          "documentId": "d346vk3cuwzj4yct7vkw7cda",
+          "name": "Selenium",
+          "category": "Quality Assurance",
+          "slug": "selenium",
+          "createdAt": "2025-07-10T22:17:13.193Z",
+          "updatedAt": "2025-07-10T22:17:13.193Z",
+          "publishedAt": "2025-07-10T22:17:13.205Z",
+          "tooltip": "Automated testing tool for web applications",
+          "logo": {
+            "id": 159,
+            "documentId": "g9eg0lh7qb2jb6uetpg44u80",
+            "url": "/uploads/qa.selenium.png"
+          }
+        },
+        {
+          "id": 602,
+          "documentId": "ifnnzdp46az0q36sjcuwoobq",
+          "name": "SiLabs",
+          "category": "Embedded Systems",
+          "slug": "silabs",
+          "createdAt": "2025-07-04T07:07:54.972Z",
+          "updatedAt": "2025-07-04T07:07:54.972Z",
+          "publishedAt": "2025-07-04T07:07:54.977Z",
+          "tooltip": "Silicon Labs - IoT solutions",
+          "logo": {
+            "id": 131,
+            "documentId": "eg6lxe29c6cn3ljd4389pzv1",
+            "url": "/uploads/silab-image.png"
+          }
+        },
+        {
+          "id": 582,
+          "documentId": "ext5knnri0d6y6d9f7eybtmf",
+          "name": "Storyboard",
+          "category": "Mobile App Development",
+          "slug": "storyboard",
+          "createdAt": "2025-07-04T07:07:54.606Z",
+          "updatedAt": "2025-07-04T07:07:54.606Z",
+          "publishedAt": "2025-07-04T07:07:54.609Z",
+          "tooltip": "Interface builder for iOS apps",
+          "logo": {
+            "id": 121,
+            "documentId": "fow39kcj7mhzqicakljcsagz",
+            "url": "/uploads/storyboard.svg"
+          }
+        },
+        {
+          "id": 580,
+          "documentId": "tvd98ta0dxy2sd834op13nrh",
+          "name": "SwiftUI",
+          "category": "Mobile App Development",
+          "slug": "swiftui",
+          "createdAt": "2025-07-04T07:07:54.581Z",
+          "updatedAt": "2025-07-04T07:07:54.581Z",
+          "publishedAt": "2025-07-04T07:07:54.586Z",
+          "tooltip": "Declarative UI framework for Apple platforms",
+          "logo": {
+            "id": 120,
+            "documentId": "fq8zmgrcxdpnvn84wr5d8xve",
+            "url": "/uploads/swiftui.png"
+          }
+        },
+        {
+          "id": 516,
+          "documentId": "f4fb5e8qyurwel41ofwcbqqp",
+          "name": "TTS",
+          "category": "Artificial Intelligence",
+          "slug": "tts",
+          "createdAt": "2025-07-04T06:57:52.875Z",
+          "updatedAt": "2025-07-04T06:57:52.875Z",
+          "publishedAt": "2025-07-04T06:57:52.879Z",
+          "tooltip": "Text-to-speech",
+          "logo": {
+            "id": 88,
+            "documentId": "hydwsow4wbvcvq16xjvxtywg",
+            "url": "/uploads/tts.png"
+          }
+        },
+        {
+          "id": 552,
+          "documentId": "pfaz1wqh16tgtco87axjvjnk",
+          "name": "Tailwind CSS",
+          "category": "Web Development",
+          "slug": "tailwind-css",
+          "createdAt": "2025-07-04T07:07:54.212Z",
+          "updatedAt": "2025-07-04T07:07:54.212Z",
+          "publishedAt": "2025-07-04T07:07:54.217Z",
+          "tooltip": "Utility-first CSS framework",
+          "logo": {
+            "id": 106,
+            "documentId": "i5zpuespdfkir7arthkrarog",
+            "url": "/uploads/tailwindcss.svg"
+          }
+        },
+        {
+          "id": 490,
+          "documentId": "ib0m8ff73szqt3xqrnnyx0k5",
+          "name": "TensorFlow",
+          "category": "Artificial Intelligence",
+          "slug": "tensorflow",
+          "createdAt": "2025-07-04T06:57:52.376Z",
+          "updatedAt": "2025-07-04T06:57:52.376Z",
+          "publishedAt": "2025-07-04T06:57:52.380Z",
+          "tooltip": "Google ML framework",
+          "logo": {
+            "id": 75,
+            "documentId": "hnrnfsk6zsirsluxddt8kerz",
+            "url": "/uploads/tensor-flow-image.png"
+          }
+        },
+        {
+          "id": 626,
+          "documentId": "i0fsfkmuc0mui4k4lkmoowkq",
+          "name": "Terraform",
+          "category": "DevOps",
+          "slug": "terraform",
+          "createdAt": "2025-07-04T07:07:55.435Z",
+          "updatedAt": "2025-07-04T07:07:55.435Z",
+          "publishedAt": "2025-07-04T07:07:55.438Z",
+          "tooltip": "Infrastructure-as-Code (IaC) tool for provisioning multi-cloud resources",
+          "logo": {
+            "id": 143,
+            "documentId": "y1djohg2otofqbnyu17z4n8m",
+            "url": "/uploads/terraform.png"
+          }
+        },
+        {
+          "id": 538,
+          "documentId": "s9i22wgrk3wstqujtngkjmu6",
+          "name": "Transformers",
+          "category": "Artificial Intelligence",
+          "slug": "transformers",
+          "createdAt": "2025-07-04T06:57:53.278Z",
+          "updatedAt": "2025-07-04T06:57:53.278Z",
+          "publishedAt": "2025-07-04T06:57:53.281Z",
+          "tooltip": "Library for NLP transformer models",
+          "logo": {
+            "id": 99,
+            "documentId": "y6kl7vizm3ec80rb1hnu4cw7",
+            "url": "/uploads/huggingface.svg"
+          }
+        },
+        {
+          "id": 544,
+          "documentId": "d0tb9b6w5gknr7dinm51h7su",
+          "name": "TypeScript",
+          "category": "Web Development",
+          "slug": "typescript",
+          "createdAt": "2025-07-04T07:07:54.099Z",
+          "updatedAt": "2025-07-04T07:07:54.099Z",
+          "publishedAt": "2025-07-04T07:07:54.104Z",
+          "tooltip": "Strongly typed JavaScript",
+          "logo": {
+            "id": 102,
+            "documentId": "xsfuhkmf4k97rxj9gj3zgrg8",
+            "url": "/uploads/typescript.svg"
+          }
+        },
+        {
+          "id": 512,
+          "documentId": "eu09qw4271i0fr4ip0h8w4jy",
+          "name": "VLM",
+          "category": "Artificial Intelligence",
+          "slug": "vlm",
+          "createdAt": "2025-07-04T06:57:52.799Z",
+          "updatedAt": "2025-07-04T06:57:52.799Z",
+          "publishedAt": "2025-07-04T06:57:52.803Z",
+          "tooltip": "Vision-language model",
+          "logo": {
+            "id": 86,
+            "documentId": "nogqjm8cqp8o5trcigc945d1",
+            "url": "/uploads/vlm.jpg"
+          }
+        },
+        {
+          "id": 504,
+          "documentId": "ua3uple7ip01hswg9o7y9p0h",
+          "name": "Weaviate",
+          "category": "Artificial Intelligence",
+          "slug": "weaviate",
+          "createdAt": "2025-07-04T06:57:52.592Z",
+          "updatedAt": "2025-07-04T06:57:52.592Z",
+          "publishedAt": "2025-07-04T06:57:52.596Z",
+          "tooltip": "Hybrid vector search",
+          "logo": {
+            "id": 82,
+            "documentId": "iid352p0izaqlmq74iesg4ol",
+            "url": "/uploads/weaviate.png"
+          }
+        },
+        {
+          "id": 578,
+          "documentId": "ee7f6wjhykvb6i878woi43as",
+          "name": "iOS",
+          "category": "Mobile App Development",
+          "slug": "ios",
+          "createdAt": "2025-07-04T07:07:54.555Z",
+          "updatedAt": "2025-07-04T07:07:54.555Z",
+          "publishedAt": "2025-07-04T07:07:54.559Z",
+          "tooltip": "Apple's mobile operating system",
+          "logo": {
+            "id": 119,
+            "documentId": "ems6fl97r3pz9d9bodun4090",
+            "url": "/uploads/ios.svg"
+          }
+        }
+      ],
+      "contact_section": {
+        "id": 4,
+        "documentId": "oufmpfk024nj9mtlu6me5t8i",
+        "createdAt": "2025-05-28T11:33:42.635Z",
+        "updatedAt": "2025-07-20T20:37:25.718Z",
+        "publishedAt": "2025-07-20T20:37:25.740Z",
+        "title": "Let’s Build Your Digital Success Story",
+        "description": "With decades of expertise and hundreds of future-ready solutions delivered globally, EyraTech combines technical mastery and industry insights to turn complex challenges into growth. Partner with a team trusted by enterprises worldwide—where technology meets innovation.",
+        "contactForm": {
+          "id": 4,
+          "Input": [
+            {
+              "id": 25,
+              "label": "First Name"
+            },
+            {
+              "id": 26,
+              "label": "Last Name"
+            },
+            {
+              "id": 27,
+              "label": "Email Address"
+            },
+            {
+              "id": 28,
+              "label": "Company Name"
+            },
+            {
+              "id": 29,
+              "label": "Country"
+            },
+            {
+              "id": 30,
+              "label": "How did you hear about us?"
+            },
+            {
+              "id": 31,
+              "label": "Which service interests you?"
+            },
+            {
+              "id": 32,
+              "label": "How can we help?"
+            }
+          ],
+          "inputOptions": [
+            {
+              "id": 16,
+              "label": "Advertisement",
+              "value": "Ads"
+            },
+            {
+              "id": 17,
+              "label": "Search Engine",
+              "value": "SE"
+            },
+            {
+              "id": 18,
+              "label": "Social Media",
+              "value": "SM"
+            },
+            {
+              "id": 19,
+              "label": "Email Marketing",
+              "value": "EM"
+            },
+            {
+              "id": 20,
+              "label": "Other",
+              "value": "Ot"
+            }
+          ],
+          "serviceTitles": [
+            {
+              "id": 19,
+              "title": "AI & ML Development"
+            },
+            {
+              "id": 20,
+              "title": "Cloud Engineering"
+            },
+            {
+              "id": 21,
+              "title": "Embedded Systems"
+            },
+            {
+              "id": 22,
+              "title": "Web Development"
+            },
+            {
+              "id": 23,
+              "title": "Mobile App Development"
+            },
+            {
+              "id": 24,
+              "title": "ISO Certification"
+            }
+          ]
+        },
+        "footerSteps": {
+          "id": 4,
+          "firstStep": "An expert contacts you after having analyzed your requirements",
+          "secondStep": "If needed, we sign an NDA to ensure the highest privacy level",
+          "thirdStep": "We submit a comprehensive project proposal with estimates, timelines, CVs, etc."
+        }
+      },
+      "clients_section": {
+        "id": 4,
+        "documentId": "md1q8oqdwrsjnaocm7e3bp4z",
+        "createdAt": "2025-05-28T11:19:18.988Z",
+        "updatedAt": "2025-07-14T12:24:31.172Z",
+        "publishedAt": "2025-07-14T12:24:31.188Z",
+        "display": false,
+        "Client": [
+          {
+            "id": 19,
+            "url": "https://www.tektracking.com",
+            "alt": "Tektracking - Railway technology solutions provider",
+            "clientLogo": {
+              "id": 10,
+              "documentId": "t55j9dqkjjgpv311ou99tnff",
+              "url": "/uploads/tektracking_a7aba2cf05.png"
+            }
+          },
+          {
+            "id": 20,
+            "url": "https://www.cattron.com",
+            "alt": "Cattron - Industrial remote control and automation solutions",
+            "clientLogo": {
+              "id": 11,
+              "documentId": "ssuq743dn1xcksw00yv2unyq",
+              "url": "/uploads/cattron_logo_4ec627e904.png"
+            }
+          },
+          {
+            "id": 21,
+            "url": "https://www.milleringenuity.com",
+            "alt": "Miller Ingenuity - Innovative safety solutions for rail and transportation",
+            "clientLogo": {
+              "id": 12,
+              "documentId": "wqkne9p63yvon0xadaj0nm52",
+              "url": "/uploads/miller_logo_37e185e73c.svg"
+            }
+          },
+          {
+            "id": 22,
+            "url": "https://tracsis.com/",
+            "alt": "Tracsis - Transportation analytics and software solutions",
+            "clientLogo": {
+              "id": 13,
+              "documentId": "cig9cr51k81lu6ifl7aizcpz",
+              "url": "/uploads/tracsis_1655616089.png"
+            }
+          },
+          {
+            "id": 23,
+            "url": "https://gigantech.io",
+            "alt": "Gigantech Solution - AI and software development company",
+            "clientLogo": {
+              "id": 14,
+              "documentId": "g9p0785dinodwjjazhb8wsch",
+              "url": "/uploads/gigantech_logo_058d7716af.png"
+            }
+          },
+          {
+            "id": 24,
+            "url": "https://uk.linkedin.com/company/smachstack",
+            "alt": "SmachStack - Cloud and DevOps technology company",
+            "clientLogo": {
+              "id": 15,
+              "documentId": "ms4ugjdy0v4w60jtca71whau",
+              "url": "/uploads/smachstack_73af19e137.png"
+            }
+          }
+        ]
+      },
+      "case_studies_hero": {
+        "id": 3,
+        "documentId": "zep9ifdcigkhxppymk8ghmve",
+        "createdAt": "2025-06-30T11:08:07.938Z",
+        "updatedAt": "2025-06-30T11:55:11.143Z",
+        "publishedAt": "2025-06-30T11:55:11.157Z",
+        "title": "Case Studies",
+        "description": "Discover how our technology solutions have propelled businesses to new heights. Through collaboration, innovation, and a tailored approach, we’ve helped our clients overcome complex challenges, streamline operations, and unlock new opportunities for growth.",
+        "image": {
+          "id": 39,
+          "documentId": "t7x8840qq38ibi3d5efwheno",
+          "url": "/uploads/case_studies_bg_cfe0184754.jpg",
+          "formats": {
+            "thumbnail": {
+              "name": "thumbnail_case-studies-bg.jpg",
+              "hash": "thumbnail_case_studies_bg_cfe0184754",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "path": null,
+              "width": 234,
+              "height": 156,
+              "size": 5.55,
+              "sizeInBytes": 5546,
+              "url": "/uploads/thumbnail_case_studies_bg_cfe0184754.jpg"
+            },
+            "large": {
+              "name": "large_case-studies-bg.jpg",
+              "hash": "large_case_studies_bg_cfe0184754",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "path": null,
+              "width": 1000,
+              "height": 667,
+              "size": 41.55,
+              "sizeInBytes": 41545,
+              "url": "/uploads/large_case_studies_bg_cfe0184754.jpg"
+            },
+            "medium": {
+              "name": "medium_case-studies-bg.jpg",
+              "hash": "medium_case_studies_bg_cfe0184754",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "path": null,
+              "width": 750,
+              "height": 500,
+              "size": 27.95,
+              "sizeInBytes": 27954,
+              "url": "/uploads/medium_case_studies_bg_cfe0184754.jpg"
+            },
+            "small": {
+              "name": "small_case-studies-bg.jpg",
+              "hash": "small_case_studies_bg_cfe0184754",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "path": null,
+              "width": 500,
+              "height": 333,
+              "size": 15.8,
+              "sizeInBytes": 15801,
+              "url": "/uploads/small_case_studies_bg_cfe0184754.jpg"
+            }
+          }
+        }
+      },
+      "case_study_cards": [
+        {
+          "id": 131,
+          "documentId": "usc28fz1ws9k64q74zfzforg",
+          "title": "Empowering Sci Tech with Laboratory Information Management Systems",
+          "description": "quattro research GmbH, a leading provider of Laboratory Information Management Systems (LIMS) for the life sciences, pharmaceutical, and chemical industries, sought to enhance its software development capabilities to meet growing client demands.",
+          "createdAt": "2025-07-04T13:15:23.420Z",
+          "updatedAt": "2025-07-16T08:27:03.108Z",
+          "publishedAt": "2025-07-16T08:27:03.125Z",
+          "slug": "empowering-sci-tech-with-laboratory-information-management-systems",
+          "region": "Pakistan",
+          "technologies": "Reactjs, Nodejs",
+          "caseStudyStatus": "Ongoing",
+          "aboutClient": "quattro research GmbH, a Leading provider of Laboratory Information Management Systems (LIMS) for the life sciences, pharmaceutical, and chemical industries",
+          "order": 1,
+          "showOnTop": true,
+          "category": "scitech",
+          "content": "## 🧪 Project Overview\n\nEstablished in **2004**, **quattro research** specializes in developing intuitive software solutions that support the digitalization of scientific workflows. Their LIMS, including **quattro/CM**, **quattro/LJ**, and **quattro/BR**, are designed to manage and analyze chemical and biological data effectively.\n\nFacing increased demand for their solutions, quattro research needed to scale their development team rapidly without compromising on quality. They turned to **unicrew** to augment their in-house team with skilled developers who could seamlessly integrate and contribute to ongoing projects.\n\n---\n\n## 🚧 Challenge\n\n- **Scalability Needs**: quattro research required additional development resources to accelerate product delivery timelines and support the expansion of functionality in innovative Laboratory Information Management Systems.\n- **User Interface Complexity**: Implementing a robust and responsive UI capable of managing large chemical molecule data sets in a user-friendly way.\n- **Scientific Data Presentation**: Developing a flexible framework to display complex scientific information in customizable grids and forms.\n- **Security Infrastructure**: Ensuring secure access management with modern authentication protocols.\n- **Visualization Capabilities**: Delivering high-performance visualization for large molecule structures.\n\n---\n\n## ✅ Solution\n\n### 01. React-Based UI\n\nImplemented a scalable, user-centric React interface to manage extensive chemical molecule data.\n\n### 02. Configurable Framework\n\nBuilt a dynamic Laboratory Information Management System to display scientific information through customizable grids and forms.\n\n### 03. Secure Authentication\n\nIntegrated OAuth and JWT-based authentication and authorization mechanisms for LIMS robust security.\n\n### 04. Molecule Visualization Services\n\nDelivered advanced visualization tools enabling clear, performant rendering of large molecule structures.\n\n---\n\n## 👨‍💻 Development Approach\n\nunicrew assembled a **cross-functional team** of seasoned developers with deep expertise in:\n\n- `.NET`, `Java`, `PHP`, `Laravel`\n- `JavaScript`, `React`, `Vue`\n\nThe team worked in close collaboration with quattro research’s internal engineers, following **agile best practices** to ensure alignment and consistent delivery.\n\n---\n\n## 🧩 Key Aspects of the LIMS Solution\n\n### 🔹 React-Based UI\n\nunicrew designed and implemented a modern, highly responsive React-based user interface. The UI was engineered specifically to handle the complexity and scale of large chemical molecule data, ensuring optimal performance and an intuitive user experience.\n\n### 🔹 Configurable Scientific Data Framework\n\nunicrew built a **flexible and extensible framework** for displaying scientific information. The system allowed users to configure how data is presented through **dynamic grids and forms**, enabling precise control over data visualization and interaction.\n\n### 🔹 Advanced Authentication and Authorization\n\nSecurity was a top priority. unicrew implemented robust mechanisms using **OAuth** and **JWT** to ensure secure user access and modern identity management compatibility.\n\n### 🔹 Molecule Visualization Services\n\nDeveloped **high-performance visualization tools** to efficiently render and manipulate large molecule structures. This empowered users to visually explore complex chemical data and enhance decision-making.\n\n---\n\n> \"**unicrew's developers integrated seamlessly with our team, demonstrating professionalism and a deep understanding of our needs. Their contributions have been invaluable in accelerating our development processes.**\"  \n> — **Dr. Bernhard Schirm**, Managing Director\n\n[Check full review](#)\n\n---\n\n## 🧰 Related Services\n\n- Dedicated Software Development Team  \n- White Label Web Development  \n- Legacy Software Modernization  \n\n---\n\n## 🏁 Result\n\n- **Increased Development Velocity**: Faster delivery of LIMS key features with unicrew’s integration.\n- **Enhanced Usability**: A modern React-based UI for easier interaction with molecular data.\n- **Scientific Insight Optimization**: Configurable grids/forms allowed precise data manipulation.\n- **Improved Security and Access Control**: OAuth and JWT strengthened authentication infrastructure.\n- **Superior Visualization**: Enhanced clarity for users handling complex molecular structures.\n- **Sustained Collaboration**: A strong ongoing partnership enabling quattro research to evolve confidently.\n",
+          "image": {
+            "id": 152,
+            "documentId": "m97g3r4qcm86j8nzfvw6v95m",
+            "url": "/uploads/case_studies_3f5653d8aa_a8ab59d2ba.jpg",
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_case_studies_3f5653d8aa.jpg",
+                "hash": "thumbnail_case_studies_3f5653d8aa_a8ab59d2ba",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 245,
+                "height": 143,
+                "size": 4.08,
+                "sizeInBytes": 4082,
+                "url": "/uploads/thumbnail_case_studies_3f5653d8aa_a8ab59d2ba.jpg"
+              },
+              "large": {
+                "name": "large_case_studies_3f5653d8aa.jpg",
+                "hash": "large_case_studies_3f5653d8aa_a8ab59d2ba",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 1000,
+                "height": 587,
+                "size": 33.43,
+                "sizeInBytes": 33432,
+                "url": "/uploads/large_case_studies_3f5653d8aa_a8ab59d2ba.jpg"
+              },
+              "medium": {
+                "name": "medium_case_studies_3f5653d8aa.jpg",
+                "hash": "medium_case_studies_3f5653d8aa_a8ab59d2ba",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 750,
+                "height": 440,
+                "size": 21.26,
+                "sizeInBytes": 21260,
+                "url": "/uploads/medium_case_studies_3f5653d8aa_a8ab59d2ba.jpg"
+              },
+              "small": {
+                "name": "small_case_studies_3f5653d8aa.jpg",
+                "hash": "small_case_studies_3f5653d8aa_a8ab59d2ba",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 500,
+                "height": 293,
+                "size": 11.53,
+                "sizeInBytes": 11529,
+                "url": "/uploads/small_case_studies_3f5653d8aa_a8ab59d2ba.jpg"
+              }
+            }
+          }
+        },
+        {
+          "id": 129,
+          "documentId": "wv30rvbucw80k8usnis1z220",
+          "title": "Accounting Software Integration & Automation for a Financial Advisory Company",
+          "description": "The new system has demonstrated impeccable performance during testing by managing large transactions and growing user accounts.",
+          "createdAt": "2025-07-04T13:07:02.619Z",
+          "updatedAt": "2025-07-16T08:26:16.116Z",
+          "publishedAt": "2025-07-16T08:26:16.130Z",
+          "slug": "accounting-software-integration-and-automation-for-a-financial-advisory-company-1",
+          "region": "UK",
+          "technologies": "NLP MySQL ASP.NET C#",
+          "caseStudyStatus": "Ongoing",
+          "aboutClient": "Financial Advisory Company",
+          "order": 2,
+          "showOnTop": false,
+          "category": "Fintech",
+          "content": "## 🧪 Project Overview\n\nEstablished in **2004**, **quattro research** specializes in developing intuitive software solutions that support the digitalization of scientific workflows. Their LIMS, including **quattro/CM**, **quattro/LJ**, and **quattro/BR**, are designed to manage and analyze chemical and biological data effectively.\n\nFacing increased demand for their solutions, quattro research needed to scale their development team rapidly without compromising on quality. They turned to **unicrew** to augment their in-house team with skilled developers who could seamlessly integrate and contribute to ongoing projects.\n\n---\n\n## 🚧 Challenge\n\n- **Scalability Needs**: quattro research required additional development resources to accelerate product delivery timelines and support the expansion of functionality in innovative Laboratory Information Management Systems.\n- **User Interface Complexity**: Implementing a robust and responsive UI capable of managing large chemical molecule data sets in a user-friendly way.\n- **Scientific Data Presentation**: Developing a flexible framework to display complex scientific information in customizable grids and forms.\n- **Security Infrastructure**: Ensuring secure access management with modern authentication protocols.\n- **Visualization Capabilities**: Delivering high-performance visualization for large molecule structures.\n\n---\n\n## ✅ Solution\n\n### 01. React-Based UI\n\nImplemented a scalable, user-centric React interface to manage extensive chemical molecule data.\n\n### 02. Configurable Framework\n\nBuilt a dynamic Laboratory Information Management System to display scientific information through customizable grids and forms.\n\n### 03. Secure Authentication\n\nIntegrated OAuth and JWT-based authentication and authorization mechanisms for LIMS robust security.\n\n### 04. Molecule Visualization Services\n\nDelivered advanced visualization tools enabling clear, performant rendering of large molecule structures.\n\n---\n\n## 👨‍💻 Development Approach\n\nunicrew assembled a **cross-functional team** of seasoned developers with deep expertise in:\n\n- `.NET`, `Java`, `PHP`, `Laravel`\n- `JavaScript`, `React`, `Vue`\n\nThe team worked in close collaboration with quattro research’s internal engineers, following **agile best practices** to ensure alignment and consistent delivery.\n\n---\n\n## 🧩 Key Aspects of the LIMS Solution\n\n### 🔹 React-Based UI\n\nunicrew designed and implemented a modern, highly responsive React-based user interface. The UI was engineered specifically to handle the complexity and scale of large chemical molecule data, ensuring optimal performance and an intuitive user experience.\n\n### 🔹 Configurable Scientific Data Framework\n\nunicrew built a **flexible and extensible framework** for displaying scientific information. The system allowed users to configure how data is presented through **dynamic grids and forms**, enabling precise control over data visualization and interaction.\n\n### 🔹 Advanced Authentication and Authorization\n\nSecurity was a top priority. unicrew implemented robust mechanisms using **OAuth** and **JWT** to ensure secure user access and modern identity management compatibility.\n\n### 🔹 Molecule Visualization Services\n\nDeveloped **high-performance visualization tools** to efficiently render and manipulate large molecule structures. This empowered users to visually explore complex chemical data and enhance decision-making.\n\n---\n\n> \"**unicrew's developers integrated seamlessly with our team, demonstrating professionalism and a deep understanding of our needs. Their contributions have been invaluable in accelerating our development processes.**\"  \n> — **Dr. Bernhard Schirm**, Managing Director\n\n[Check full review](#)\n\n---\n\n## 🧰 Related Services\n\n- Dedicated Software Development Team  \n- White Label Web Development  \n- Legacy Software Modernization  \n\n---\n\n## 🏁 Result\n\n- **Increased Development Velocity**: Faster delivery of LIMS key features with unicrew’s integration.\n- **Enhanced Usability**: A modern React-based UI for easier interaction with molecular data.\n- **Scientific Insight Optimization**: Configurable grids/forms allowed precise data manipulation.\n- **Improved Security and Access Control**: OAuth and JWT strengthened authentication infrastructure.\n- **Superior Visualization**: Enhanced clarity for users handling complex molecular structures.\n- **Sustained Collaboration**: A strong ongoing partnership enabling quattro research to evolve confidently.\n",
+          "image": {
+            "id": 153,
+            "documentId": "eeprggfmr7dernyw4bvl8to4",
+            "url": "/uploads/energy_and_utility_338ae605a6_25157c4cd3.jpg",
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_energy_and_utility_338ae605a6.jpg",
+                "hash": "thumbnail_energy_and_utility_338ae605a6_25157c4cd3",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 245,
+                "height": 138,
+                "size": 7.76,
+                "sizeInBytes": 7761,
+                "url": "/uploads/thumbnail_energy_and_utility_338ae605a6_25157c4cd3.jpg"
+              },
+              "small": {
+                "name": "small_energy_and_utility_338ae605a6.jpg",
+                "hash": "small_energy_and_utility_338ae605a6_25157c4cd3",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 500,
+                "height": 281,
+                "size": 22.2,
+                "sizeInBytes": 22199,
+                "url": "/uploads/small_energy_and_utility_338ae605a6_25157c4cd3.jpg"
+              },
+              "medium": {
+                "name": "medium_energy_and_utility_338ae605a6.jpg",
+                "hash": "medium_energy_and_utility_338ae605a6_25157c4cd3",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 750,
+                "height": 422,
+                "size": 39.59,
+                "sizeInBytes": 39585,
+                "url": "/uploads/medium_energy_and_utility_338ae605a6_25157c4cd3.jpg"
+              }
+            }
+          }
+        },
+        {
+          "id": 119,
+          "documentId": "tvrwhikn9qq81rgvjvsill8c",
+          "title": "Cloud Migration of Booking Platform for Hotels and Hotel Networks",
+          "description": "By leveraging unicrew’s expertise, the client successfully addressed their challenges and achieved their objectives, emerging as a more cost-efficient, reliable, and scalable platform for hotel bookings.",
+          "createdAt": "2025-07-04T13:18:23.682Z",
+          "updatedAt": "2025-07-15T19:56:22.846Z",
+          "publishedAt": "2025-07-15T19:56:22.873Z",
+          "slug": "platform-for-hotels-1",
+          "region": "UK",
+          "technologies": "Microsoft Orleans Docker Azure Terraform",
+          "caseStudyStatus": "Ongoing",
+          "aboutClient": "SaaS for hotels",
+          "order": 3,
+          "showOnTop": false,
+          "category": "Hospitality",
+          "content": "## 🧪 Project Overview\n\nEstablished in **2004**, **quattro research** specializes in developing intuitive software solutions that support the digitalization of scientific workflows. Their LIMS, including **quattro/CM**, **quattro/LJ**, and **quattro/BR**, are designed to manage and analyze chemical and biological data effectively.\n\nFacing increased demand for their solutions, quattro research needed to scale their development team rapidly without compromising on quality. They turned to **unicrew** to augment their in-house team with skilled developers who could seamlessly integrate and contribute to ongoing projects.\n\n---\n\n## 🚧 Challenge\n\n- **Scalability Needs**: quattro research required additional development resources to accelerate product delivery timelines and support the expansion of functionality in innovative Laboratory Information Management Systems.\n- **User Interface Complexity**: Implementing a robust and responsive UI capable of managing large chemical molecule data sets in a user-friendly way.\n- **Scientific Data Presentation**: Developing a flexible framework to display complex scientific information in customizable grids and forms.\n- **Security Infrastructure**: Ensuring secure access management with modern authentication protocols.\n- **Visualization Capabilities**: Delivering high-performance visualization for large molecule structures.\n\n---\n\n## ✅ Solution\n\n### 01. React-Based UI\n\nImplemented a scalable, user-centric React interface to manage extensive chemical molecule data.\n\n### 02. Configurable Framework\n\nBuilt a dynamic Laboratory Information Management System to display scientific information through customizable grids and forms.\n\n### 03. Secure Authentication\n\nIntegrated OAuth and JWT-based authentication and authorization mechanisms for LIMS robust security.\n\n### 04. Molecule Visualization Services\n\nDelivered advanced visualization tools enabling clear, performant rendering of large molecule structures.\n\n---\n\n## 👨‍💻 Development Approach\n\nunicrew assembled a **cross-functional team** of seasoned developers with deep expertise in:\n\n- `.NET`, `Java`, `PHP`, `Laravel`\n- `JavaScript`, `React`, `Vue`\n\nThe team worked in close collaboration with quattro research’s internal engineers, following **agile best practices** to ensure alignment and consistent delivery.\n\n---\n\n## 🧩 Key Aspects of the LIMS Solution\n\n### 🔹 React-Based UI\n\nunicrew designed and implemented a modern, highly responsive React-based user interface. The UI was engineered specifically to handle the complexity and scale of large chemical molecule data, ensuring optimal performance and an intuitive user experience.\n\n### 🔹 Configurable Scientific Data Framework\n\nunicrew built a **flexible and extensible framework** for displaying scientific information. The system allowed users to configure how data is presented through **dynamic grids and forms**, enabling precise control over data visualization and interaction.\n\n### 🔹 Advanced Authentication and Authorization\n\nSecurity was a top priority. unicrew implemented robust mechanisms using **OAuth** and **JWT** to ensure secure user access and modern identity management compatibility.\n\n### 🔹 Molecule Visualization Services\n\nDeveloped **high-performance visualization tools** to efficiently render and manipulate large molecule structures. This empowered users to visually explore complex chemical data and enhance decision-making.\n\n---\n\n> \"**unicrew's developers integrated seamlessly with our team, demonstrating professionalism and a deep understanding of our needs. Their contributions have been invaluable in accelerating our development processes.**\"  \n> — **Dr. Bernhard Schirm**, Managing Director\n\n[Check full review](#)\n\n---\n\n## 🧰 Related Services\n\n- Dedicated Software Development Team  \n- White Label Web Development  \n- Legacy Software Modernization  \n\n---\n\n## 🏁 Result\n\n- **Increased Development Velocity**: Faster delivery of LIMS key features with unicrew’s integration.\n- **Enhanced Usability**: A modern React-based UI for easier interaction with molecular data.\n- **Scientific Insight Optimization**: Configurable grids/forms allowed precise data manipulation.\n- **Improved Security and Access Control**: OAuth and JWT strengthened authentication infrastructure.\n- **Superior Visualization**: Enhanced clarity for users handling complex molecular structures.\n- **Sustained Collaboration**: A strong ongoing partnership enabling quattro research to evolve confidently.\n",
+          "image": {
+            "id": 151,
+            "documentId": "okvsuef15x11ah8qa8641mpt",
+            "url": "/uploads/thumbnail_case_studies_3f5653d8aa_a8d78d8737.jpg",
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_thumbnail_case_studies_3f5653d8aa.jpg",
+                "hash": "thumbnail_thumbnail_case_studies_3f5653d8aa_a8d78d8737",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 245,
+                "height": 138,
+                "size": 6.53,
+                "sizeInBytes": 6534,
+                "url": "/uploads/thumbnail_thumbnail_case_studies_3f5653d8aa_a8d78d8737.jpg"
+              },
+              "small": {
+                "name": "small_thumbnail_case_studies_3f5653d8aa.jpg",
+                "hash": "small_thumbnail_case_studies_3f5653d8aa_a8d78d8737",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 500,
+                "height": 281,
+                "size": 19.72,
+                "sizeInBytes": 19719,
+                "url": "/uploads/small_thumbnail_case_studies_3f5653d8aa_a8d78d8737.jpg"
+              },
+              "medium": {
+                "name": "medium_thumbnail_case_studies_3f5653d8aa.jpg",
+                "hash": "medium_thumbnail_case_studies_3f5653d8aa_a8d78d8737",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 750,
+                "height": 422,
+                "size": 34.6,
+                "sizeInBytes": 34605,
+                "url": "/uploads/medium_thumbnail_case_studies_3f5653d8aa_a8d78d8737.jpg"
+              }
+            }
+          }
+        },
+        {
+          "id": 127,
+          "documentId": "w7zh6bze84a2qrcqml49y6vk",
+          "title": "Development of hybrid events software",
+          "description": "Our client - meta-fusion GmbH, a company supporting the hybrid meetings and digital processing of congresses and conferences for 18 years, disrupted the market with the Digital-Congress-Resources Suit (DCR Suit)",
+          "createdAt": "2025-07-16T08:19:27.644Z",
+          "updatedAt": "2025-07-16T08:19:27.644Z",
+          "publishedAt": "2025-07-16T08:19:27.660Z",
+          "slug": "development-of-hybrid-events-software",
+          "region": "Germany",
+          "technologies": "Germany",
+          "caseStudyStatus": "Delivered",
+          "aboutClient": "meta-fusion GmbH",
+          "order": 6,
+          "showOnTop": false,
+          "category": "Entertainment",
+          "content": "## 🧪 Project Overview\n\n![quattro research logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_placeholder_image.png/600px-Logo_placeholder_image.png)\n\nFounded in **2004**, **quattro research** develops intuitive software that empowers digital scientific workflows. Their **Laboratory Information Management Systems (LIMS)** — such as **quattro/CM**, **quattro/LJ**, and **quattro/BR** — manage and analyze complex chemical and biological data.\n\n---\n\n![Team Collaboration](https://images.unsplash.com/photo-1632179002215-f5c8d5dcf35b)\n\nTo scale quickly and meet growing client demand, quattro research partnered with **unicrew** to strengthen their engineering team with skilled developers who could integrate seamlessly and boost project velocity.\n\n---\n\n## 🚧 Key Challenges\n\n![Challenges](https://images.unsplash.com/photo-1573164713347-df1e1f69a3f2)\n\n- **Scalability Requirements** – Needed to scale fast without lowering code quality.\n- **Complex UI Needs** – Required a responsive UI for large molecular datasets.\n- **Scientific Data Presentation** – Flexible visualization in dynamic grids and forms.\n- **Modern Security Protocols** – Needed secure access management (OAuth, JWT).\n- **High-Performance Rendering** – For complex molecule structure visualization.\n\n---\n\n## ✅ Solution\n\n### 🔹 React-Based UI\n\n![React UI](https://images.unsplash.com/photo-1581091012184-5c2bca6f3bb6)\n\nDesigned and implemented a performant, intuitive React frontend for handling complex molecule data structures.\n\n---\n\n### 🔹 Configurable Data Framework\n\n![Grid System](https://images.unsplash.com/photo-1645051915681-183d5f30ef0a)\n\nDeveloped a flexible framework allowing scientists to customize data views using dynamic **grids** and **forms**.\n\n---\n\n### 🔹 Secure Authentication\n\n![Security](https://unicrew.com/wp-content/uploads/hybrid2-min.png)\n\nIntegrated **OAuth** and **JWT** for robust and modern authentication & authorization standards.\n\n---\n\n### 🔹 Molecule Visualization\n\n![Molecule Viewer](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Caffeine_3D_ball.png/640px-Caffeine_3D_ball.png)\n\nDelivered advanced visualization tools for rendering large and complex molecule structures efficiently.\n\n---\n\n## 👥 Collaboration Snapshot\n\n![Unicrew Team](https://images.unsplash.com/photo-1581091870622-df42a3f9808b)\n\n**unicrew** assembled a full-stack development team with expertise in:\n- `.NET`, `Java`, `PHP`, `Laravel`\n- `JavaScript`, `React`, `Vue`\n\nThey worked in **agile sprints** alongside quattro research’s internal team to maintain alignment, speed, and flexibility.\n\n---\n\n## 🎯 Results\n\n![Success](https://images.unsplash.com/photo-1581093588401-99a6f43db2a9)\n\n- **⚡ Faster Development** – Accelerated product delivery timelines.\n- **🎨 Better Usability** – UI tailored for scientific users.\n- **🔐 Improved Security** – OAuth and JWT integration.\n- **🔬 Enhanced Visualization** – Clarity in molecule data exploration.\n- **🤝 Ongoing Partnership** – Sustained collaboration with quattro research.\n\n---\n\n> _\"unicrew's developers integrated seamlessly with our team, demonstrating professionalism and a deep understanding of our needs. Their contributions have been invaluable.\"_  \n> — **Dr. Bernhard Schirm**, Managing Director\n\n[🔗 View Full Review](https://example.com/review)\n\n---\n\n## 🛠 Related Services\n\n- ✅ Dedicated Software Development Teams  \n- ✅ White Label Web Development  \n- ✅ Legacy Software Modernization\n",
+          "image": {
+            "id": 171,
+            "documentId": "fc6v16qvapnw62rgo58t9ztg",
+            "url": "/uploads/last_case_study_6929d5eead.jpg",
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_last-case-study.jpg",
+                "hash": "thumbnail_last_case_study_6929d5eead",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 245,
+                "height": 140,
+                "size": 82.86,
+                "sizeInBytes": 82863,
+                "url": "/uploads/thumbnail_last_case_study_6929d5eead.jpg"
+              },
+              "small": {
+                "name": "small_last-case-study.jpg",
+                "hash": "small_last_case_study_6929d5eead",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 500,
+                "height": 286,
+                "size": 313.91,
+                "sizeInBytes": 313907,
+                "url": "/uploads/small_last_case_study_6929d5eead.jpg"
+              },
+              "medium": {
+                "name": "medium_last-case-study.jpg",
+                "hash": "medium_last_case_study_6929d5eead",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 750,
+                "height": 429,
+                "size": 680.17,
+                "sizeInBytes": 680170,
+                "url": "/uploads/medium_last_case_study_6929d5eead.jpg"
+              },
+              "large": {
+                "name": "large_last-case-study.jpg",
+                "hash": "large_last_case_study_6929d5eead",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 1000,
+                "height": 571,
+                "size": 1184.29,
+                "sizeInBytes": 1184291,
+                "url": "/uploads/large_last_case_study_6929d5eead.jpg"
+              }
+            }
+          }
+        },
+        {
+          "id": 125,
+          "documentId": "cwlodzy0171l1cte8rtrjm0s",
+          "title": "Software Outsourcing Company",
+          "description": "NCoreSoft is a rapidly growing private Offshore Software Outsourcing Company with a wide collection of designers and developers. Our philosophy of delivering fresh websites, mobile applications, designs, custom softwares sets us apart. ",
+          "createdAt": "2025-07-13T21:35:32.996Z",
+          "updatedAt": "2025-07-16T07:41:35.260Z",
+          "publishedAt": "2025-07-16T07:41:35.302Z",
+          "slug": "software-outsourcing-company",
+          "region": null,
+          "technologies": null,
+          "caseStudyStatus": null,
+          "aboutClient": null,
+          "order": 6,
+          "showOnTop": false,
+          "category": "Automotive",
+          "content": null,
+          "image": {
+            "id": 169,
+            "documentId": "yqfb39kmf6vv9c3dtuzwdj9t",
+            "url": "/uploads/img24_1af3604f78.jpg",
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_img24.jpg",
+                "hash": "thumbnail_img24_1af3604f78",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 245,
+                "height": 138,
+                "size": 7.25,
+                "sizeInBytes": 7250,
+                "url": "/uploads/thumbnail_img24_1af3604f78.jpg"
+              },
+              "medium": {
+                "name": "medium_img24.jpg",
+                "hash": "medium_img24_1af3604f78",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 750,
+                "height": 422,
+                "size": 39.13,
+                "sizeInBytes": 39133,
+                "url": "/uploads/medium_img24_1af3604f78.jpg"
+              },
+              "small": {
+                "name": "small_img24.jpg",
+                "hash": "small_img24_1af3604f78",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 500,
+                "height": 281,
+                "size": 21.76,
+                "sizeInBytes": 21756,
+                "url": "/uploads/small_img24_1af3604f78.jpg"
+              }
+            }
+          }
+        }
+      ],
+      "news_blogs_and_event": {
+        "id": 2,
+        "documentId": "obs8bn239949n0j0u436qbt8",
+        "title": "News Blogs & Events",
+        "description": "We love reading, researching, and writing a lot of stuff about technology, current trends, and other technology-related things. Explore our writings where we have shared our technological insights.",
+        "createdAt": "2025-07-14T07:57:03.327Z",
+        "updatedAt": "2025-07-14T07:57:03.327Z",
+        "publishedAt": "2025-07-14T07:57:03.336Z",
+        "image": {
+          "id": 167,
+          "documentId": "pac87bw2e2yy678ph1h3sowu",
+          "url": "/uploads/custom_software_b37894096e.jpg",
+          "formats": {
+            "thumbnail": {
+              "name": "thumbnail_custom-software.jpg",
+              "hash": "thumbnail_custom_software_b37894096e",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "path": null,
+              "width": 234,
+              "height": 156,
+              "size": 5.34,
+              "sizeInBytes": 5336,
+              "url": "/uploads/thumbnail_custom_software_b37894096e.jpg"
+            },
+            "medium": {
+              "name": "medium_custom-software.jpg",
+              "hash": "medium_custom_software_b37894096e",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "path": null,
+              "width": 750,
+              "height": 500,
+              "size": 24.38,
+              "sizeInBytes": 24376,
+              "url": "/uploads/medium_custom_software_b37894096e.jpg"
+            },
+            "small": {
+              "name": "small_custom-software.jpg",
+              "hash": "small_custom_software_b37894096e",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "path": null,
+              "width": 500,
+              "height": 334,
+              "size": 16.02,
+              "sizeInBytes": 16018,
+              "url": "/uploads/small_custom_software_b37894096e.jpg"
+            }
+          }
+        }
+      },
+      "news_items": [
+        {
+          "id": 39,
+          "documentId": "pzlfpjsy3sb4dfh1ge4kheyl",
+          "title": "AI in Travel Industry-Use Cases, Example & Benefits",
+          "slug": "ai-in-travel-industry-use-cases-example-and-benefits",
+          "type": "blog",
+          "author": "John Smith",
+          "date": "2025-07-11",
+          "content": "## 🧪 Project Overview\n\n![quattro research logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_placeholder_image.png/600px-Logo_placeholder_image.png)\n\nFounded in **2004**, **quattro research** develops intuitive software that empowers digital scientific workflows. Their **Laboratory Information Management Systems (LIMS)** — such as **quattro/CM**, **quattro/LJ**, and **quattro/BR** — manage and analyze complex chemical and biological data.\n\n---\n\n![Team Collaboration](https://images.unsplash.com/photo-1632179002215-f5c8d5dcf35b)\n\nTo scale quickly and meet growing client demand, quattro research partnered with **unicrew** to strengthen their engineering team with skilled developers who could integrate seamlessly and boost project velocity.\n\n---\n\n## 🚧 Key Challenges\n\n![Challenges](https://images.unsplash.com/photo-1573164713347-df1e1f69a3f2)\n\n- **Scalability Requirements** – Needed to scale fast without lowering code quality.\n- **Complex UI Needs** – Required a responsive UI for large molecular datasets.\n- **Scientific Data Presentation** – Flexible visualization in dynamic grids and forms.\n- **Modern Security Protocols** – Needed secure access management (OAuth, JWT).\n- **High-Performance Rendering** – For complex molecule structure visualization.\n\n---\n\n## ✅ Solution\n\n### 🔹 React-Based UI\n\n![React UI](https://images.unsplash.com/photo-1581091012184-5c2bca6f3bb6)\n\nDesigned and implemented a performant, intuitive React frontend for handling complex molecule data structures.\n\n---\n\n### 🔹 Configurable Data Framework\n\n![Grid System](https://images.unsplash.com/photo-1645051915681-183d5f30ef0a)\n\nDeveloped a flexible framework allowing scientists to customize data views using dynamic **grids** and **forms**.\n\n---\n\n### 🔹 Secure Authentication\n\n![Security](https://miro.medium.com/v2/resize:fit:720/format:webp/0*PRZcNPDVe2z5n7kO)\n\nIntegrated **OAuth** and **JWT** for robust and modern authentication & authorization standards.\n\n---\n\n### 🔹 Molecule Visualization\n\n![Molecule Viewer](https://miro.medium.com/v2/resize:fit:720/format:webp/0*PRZcNPDVe2z5n7kO)\n\nDelivered advanced visualization tools for rendering large and complex molecule structures efficiently.\n\n---\n\n## 👥 Collaboration Snapshot\n\n![Unicrew Team](https://images.unsplash.com/photo-1581091870622-df42a3f9808b)\n\n**unicrew** assembled a full-stack development team with expertise in:\n- `.NET`, `Java`, `PHP`, `Laravel`\n- `JavaScript`, `React`, `Vue`\n\nThey worked in **agile sprints** alongside quattro research’s internal team to maintain alignment, speed, and flexibility.\n\n---\n\n## 🎯 Results\n\n![Success](https://images.unsplash.com/photo-1581093588401-99a6f43db2a9)\n\n- **⚡ Faster Development** – Accelerated product delivery timelines.\n- **🎨 Better Usability** – UI tailored for scientific users.\n- **🔐 Improved Security** – OAuth and JWT integration.\n- **🔬 Enhanced Visualization** – Clarity in molecule data exploration.\n- **🤝 Ongoing Partnership** – Sustained collaboration with quattro research.\n\n---\n\n> _\"unicrew's developers integrated seamlessly with our team, demonstrating professionalism and a deep understanding of our needs. Their contributions have been invaluable.\"_  \n> — **Dr. Bernhard Schirm**, Managing Director\n\n[🔗 View Full Review](https://example.com/review)\n\n---\n\n## 🛠 Related Services\n\n- ✅ Dedicated Software Development Teams  \n- ✅ White Label Web Development  \n- ✅ Legacy Software Modernization\n",
+          "publishedDate": "2025-07-11",
+          "createdAt": "2025-07-11T08:45:50.526Z",
+          "updatedAt": "2025-07-16T07:47:59.730Z",
+          "publishedAt": "2025-07-16T07:47:59.743Z",
+          "description": "This blog explores practical use cases for integrating AI tools into development workflows, showing how they can complement developers’ expertise.  Learn how these assistants can help with tasks like cod",
+          "readminutes": 19,
+          "image": {
+            "id": 164,
+            "documentId": "skfmubiurn3hesv4fny6iygx",
+            "url": "/uploads/Chatbots_0bd37d5e4b.jpg",
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_Chatbots.jpg",
+                "hash": "thumbnail_Chatbots_0bd37d5e4b",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 245,
+                "height": 138,
+                "size": 5.18,
+                "sizeInBytes": 5180,
+                "url": "/uploads/thumbnail_Chatbots_0bd37d5e4b.jpg"
+              },
+              "large": {
+                "name": "large_Chatbots.jpg",
+                "hash": "large_Chatbots_0bd37d5e4b",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 1000,
+                "height": 562,
+                "size": 23.29,
+                "sizeInBytes": 23292,
+                "url": "/uploads/large_Chatbots_0bd37d5e4b.jpg"
+              },
+              "small": {
+                "name": "small_Chatbots.jpg",
+                "hash": "small_Chatbots_0bd37d5e4b",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 500,
+                "height": 281,
+                "size": 11.04,
+                "sizeInBytes": 11038,
+                "url": "/uploads/small_Chatbots_0bd37d5e4b.jpg"
+              },
+              "medium": {
+                "name": "medium_Chatbots.jpg",
+                "hash": "medium_Chatbots_0bd37d5e4b",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 750,
+                "height": 422,
+                "size": 16.91,
+                "sizeInBytes": 16912,
+                "url": "/uploads/medium_Chatbots_0bd37d5e4b.jpg"
+              }
+            }
+          }
+        },
+        {
+          "id": 43,
+          "documentId": "s2t26pcu1nwbcyyx5jvscl5k",
+          "title": "Emerging UX patterns in Generative AI experiences",
+          "slug": "emerging-ux-patterns-in-generative-ai-experiences",
+          "type": "event",
+          "author": "John Smith",
+          "date": "2025-07-25",
+          "content": "## 🧪 Project Overview\n\n![quattro research logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_placeholder_image.png/600px-Logo_placeholder_image.png)\n\nFounded in **2004**, **quattro research** develops intuitive software that empowers digital scientific workflows. Their **Laboratory Information Management Systems (LIMS)** — such as **quattro/CM**, **quattro/LJ**, and **quattro/BR** — manage and analyze complex chemical and biological data.\n\n---\n\n![Team Collaboration](https://images.unsplash.com/photo-1632179002215-f5c8d5dcf35b)\n\nTo scale quickly and meet growing client demand, quattro research partnered with **unicrew** to strengthen their engineering team with skilled developers who could integrate seamlessly and boost project velocity.\n\n---\n\n## 🚧 Key Challenges\n\n![Challenges](https://images.unsplash.com/photo-1573164713347-df1e1f69a3f2)\n\n- **Scalability Requirements** – Needed to scale fast without lowering code quality.\n- **Complex UI Needs** – Required a responsive UI for large molecular datasets.\n- **Scientific Data Presentation** – Flexible visualization in dynamic grids and forms.\n- **Modern Security Protocols** – Needed secure access management (OAuth, JWT).\n- **High-Performance Rendering** – For complex molecule structure visualization.\n\n---\n\n## ✅ Solution\n\n### 🔹 React-Based UI\n\n![React UI](https://images.unsplash.com/photo-1581091012184-5c2bca6f3bb6)\n\nDesigned and implemented a performant, intuitive React frontend for handling complex molecule data structures.\n\n---\n\n### 🔹 Configurable Data Framework\n\n![Grid System](https://images.unsplash.com/photo-1645051915681-183d5f30ef0a)\n\nDeveloped a flexible framework allowing scientists to customize data views using dynamic **grids** and **forms**.\n\n---\n\n### 🔹 Secure Authentication\n\n![Security](https://miro.medium.com/v2/resize:fit:720/format:webp/0*PRZcNPDVe2z5n7kO)\n\nIntegrated **OAuth** and **JWT** for robust and modern authentication & authorization standards.\n\n---\n\n### 🔹 Molecule Visualization\n\n![Molecule Viewer](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*r4LX9nRswR0aMsae2wrG5A.jpeg)\n\nDelivered advanced visualization tools for rendering large and complex molecule structures efficiently.\n\n---\n\n## 👥 Collaboration Snapshot\n\n![Unicrew Team](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*r4LX9nRswR0aMsae2wrG5A.jpeg)\n\n**unicrew** assembled a full-stack development team with expertise in:\n- `.NET`, `Java`, `PHP`, `Laravel`\n- `JavaScript`, `React`, `Vue`\n\nThey worked in **agile sprints** alongside quattro research’s internal team to maintain alignment, speed, and flexibility.\n\n---\n\n## 🎯 Results\n\n![Success](https://images.unsplash.com/photo-1581093588401-99a6f43db2a9)\n\n- **⚡ Faster Development** – Accelerated product delivery timelines.\n- **🎨 Better Usability** – UI tailored for scientific users.\n- **🔐 Improved Security** – OAuth and JWT integration.\n- **🔬 Enhanced Visualization** – Clarity in molecule data exploration.\n- **🤝 Ongoing Partnership** – Sustained collaboration with quattro research.\n\n---\n\n> _\"unicrew's developers integrated seamlessly with our team, demonstrating professionalism and a deep understanding of our needs. Their contributions have been invaluable.\"_  \n> — **Dr. Bernhard Schirm**, Managing Director\n\n[🔗 View Full Review](https://example.com/review)\n\n---\n\n## 🛠 Related Services\n\n- ✅ Dedicated Software Development Teams  \n- ✅ White Label Web Development  \n- ✅ Legacy Software Modernization\n",
+          "publishedDate": "2025-07-21",
+          "createdAt": "2025-07-11T11:48:10.779Z",
+          "updatedAt": "2025-07-16T08:01:12.688Z",
+          "publishedAt": "2025-07-16T08:01:12.699Z",
+          "description": "This article is not about coffee; it’s about how user interactions change and adapt, how generative AI.",
+          "readminutes": 3,
+          "image": {
+            "id": 163,
+            "documentId": "ka2ny8ll4z795ym5aaoxqu4g",
+            "url": "/uploads/Chatbots_60e5e966f7.jpg",
+            "formats": null
+          }
+        },
+        {
+          "id": 44,
+          "documentId": "quu0dutqq3a259n3yhcnbmp5",
+          "title": "He Rewrote Everything in Rust — Then We Got Fired",
+          "slug": "he-rewrote-everything-in-rust-then-we-got-fired",
+          "type": "news",
+          "author": null,
+          "date": "2025-07-14",
+          "content": "## 🧪 Project Overview\n\n![quattro research logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_placeholder_image.png/600px-Logo_placeholder_image.png)\n\nFounded in **2004**, **quattro research** develops intuitive software that empowers digital scientific workflows. Their **Laboratory Information Management Systems (LIMS)** — such as **quattro/CM**, **quattro/LJ**, and **quattro/BR** — manage and analyze complex chemical and biological data.\n\n---\n\n![Team Collaboration](https://images.unsplash.com/photo-1632179002215-f5c8d5dcf35b)\n\nTo scale quickly and meet growing client demand, quattro research partnered with **unicrew** to strengthen their engineering team with skilled developers who could integrate seamlessly and boost project velocity.\n\n---\n\n## 🚧 Key Challenges\n\n![Challenges](https://images.unsplash.com/photo-1573164713347-df1e1f69a3f2)\n\n- **Scalability Requirements** – Needed to scale fast without lowering code quality.\n- **Complex UI Needs** – Required a responsive UI for large molecular datasets.\n- **Scientific Data Presentation** – Flexible visualization in dynamic grids and forms.\n- **Modern Security Protocols** – Needed secure access management (OAuth, JWT).\n- **High-Performance Rendering** – For complex molecule structure visualization.\n\n---\n\n## ✅ Solution\n\n### 🔹 React-Based UI\n\n![React UI](https://images.unsplash.com/photo-1581091012184-5c2bca6f3bb6)\n\nDesigned and implemented a performant, intuitive React frontend for handling complex molecule data structures.\n\n---\n\n### 🔹 Configurable Data Framework\n\n![Grid System](https://images.unsplash.com/photo-1645051915681-183d5f30ef0a)\n\nDeveloped a flexible framework allowing scientists to customize data views using dynamic **grids** and **forms**.\n\n---\n\n### 🔹 Secure Authentication\n\n![Security](https://images.unsplash.com/photo-1607746882042-944635dfe10e)\n\nIntegrated **OAuth** and **JWT** for robust and modern authentication & authorization standards.\n\n---\n\n### 🔹 Molecule Visualization\n\n![Molecule Viewer](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Caffeine_3D_ball.png/640px-Caffeine_3D_ball.png)\n\nDelivered advanced visualization tools for rendering large and complex molecule structures efficiently.\n\n---\n\n## 👥 Collaboration Snapshot\n\n![Unicrew Team](https://images.unsplash.com/photo-1581091870622-df42a3f9808b)\n\n**unicrew** assembled a full-stack development team with expertise in:\n- `.NET`, `Java`, `PHP`, `Laravel`\n- `JavaScript`, `React`, `Vue`\n\nThey worked in **agile sprints** alongside quattro research’s internal team to maintain alignment, speed, and flexibility.\n\n---\n\n## 🎯 Results\n\n![Success](https://images.unsplash.com/photo-1581093588401-99a6f43db2a9)\n\n- **⚡ Faster Development** – Accelerated product delivery timelines.\n- **🎨 Better Usability** – UI tailored for scientific users.\n- **🔐 Improved Security** – OAuth and JWT integration.\n- **🔬 Enhanced Visualization** – Clarity in molecule data exploration.\n- **🤝 Ongoing Partnership** – Sustained collaboration with quattro research.\n\n---\n\n> _\"unicrew's developers integrated seamlessly with our team, demonstrating professionalism and a deep understanding of our needs. Their contributions have been invaluable.\"_  \n> — **Dr. Bernhard Schirm**, Managing Director\n\n[🔗 View Full Review](https://example.com/review)\n\n---\n\n## 🛠 Related Services\n\n- ✅ Dedicated Software Development Teams  \n- ✅ White Label Web Development  \n- ✅ Legacy Software Modernization\n",
+          "publishedDate": "2025-07-12",
+          "createdAt": "2025-07-11T14:10:40.011Z",
+          "updatedAt": "2025-07-16T08:01:40.460Z",
+          "publishedAt": "2025-07-16T08:01:40.473Z",
+          "description": "Some mornings, we’d all be staring at Datadog dashboards watching a queue backlog climb past 10k messages.",
+          "readminutes": 6,
+          "image": {
+            "id": 167,
+            "documentId": "pac87bw2e2yy678ph1h3sowu",
+            "url": "/uploads/custom_software_b37894096e.jpg",
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_custom-software.jpg",
+                "hash": "thumbnail_custom_software_b37894096e",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 5.34,
+                "sizeInBytes": 5336,
+                "url": "/uploads/thumbnail_custom_software_b37894096e.jpg"
+              },
+              "medium": {
+                "name": "medium_custom-software.jpg",
+                "hash": "medium_custom_software_b37894096e",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 750,
+                "height": 500,
+                "size": 24.38,
+                "sizeInBytes": 24376,
+                "url": "/uploads/medium_custom_software_b37894096e.jpg"
+              },
+              "small": {
+                "name": "small_custom-software.jpg",
+                "hash": "small_custom_software_b37894096e",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 500,
+                "height": 334,
+                "size": 16.02,
+                "sizeInBytes": 16018,
+                "url": "/uploads/small_custom_software_b37894096e.jpg"
+              }
+            }
+          }
+        },
+        {
+          "id": 32,
+          "documentId": "qklq8c1chcw52u906ni12062",
+          "title": "How Leading Brands Succeed with Digital Commerce?",
+          "slug": "how-leading-brands-succeed-with-digital-commerce",
+          "type": "event",
+          "author": "John Smith",
+          "date": "2025-07-11",
+          "content": "## Exploring the Role of AI in Modern Web Development\n\n**Estimated Read Time: 6 min**\n\n---\n\n### Introduction\n\nArtificial Intelligence (AI) is no longer a futuristic concept—it's a present-day powerhouse reshaping the way developers build, test, and optimize websites and applications. From intelligent code suggestions to automated design improvements, AI is streamlining workflows and enhancing user experiences across the web.\n\n---\n\n### How AI Is Transforming Web Development\n\nHere are some ways AI is driving change in the web dev space:\n\n- **Smart Code Assistance**: Tools like GitHub Copilot and Tabnine use AI to suggest code in real-time, reducing development time and minimizing bugs.\n- **Automated Testing**: AI-driven tools can simulate user behavior and detect UI or logic bugs more effectively than traditional testing frameworks.\n- **Personalized UX**: AI helps personalize content, layouts, and recommendations based on user data, improving engagement and retention.\n\n---\n\n### Popular AI Tools for Developers\n\n- **ChatGPT API** – for natural language processing tasks\n- **DeepCode** – for intelligent code review\n- **Uizard** – for converting wireframes into code\n- **Vercel AI SDK** – for building AI-powered React/Next.js apps\n\n---\n\n### Challenges and Considerations\n\nDespite its benefits, AI in web development comes with challenges:\n\n- **Ethical concerns** around data usage\n- **Over-reliance** on AI-generated code without full understanding\n- **Lack of transparency** in decision-making processes\n\nDevelopers must balance automation with critical thinking and stay informed on evolving AI ethics and best practices.\n\n---\n\n### Conclusion\n\nAI is not replacing web developers—it’s empowering them. By embracing AI tools and understanding their limitations, developers can build smarter, faster, and more intuitive digital experiences for the future.\n\n---\n\n### Tags\n\n`#AI` `#WebDevelopment` `#MachineLearning` `#Frontend` `#DeveloperTools`\n\n### References\n\n- [GitHub Copilot](https://github.com/features/copilot)\n- [Vercel AI SDK](https://sdk.vercel.ai/)\n- [Uizard](https://uizard.io/)\n- [OpenAI API](https://platform.openai.com/)",
+          "publishedDate": "2025-07-11",
+          "createdAt": "2025-07-11T08:49:59.152Z",
+          "updatedAt": "2025-07-11T14:15:22.903Z",
+          "publishedAt": "2025-07-11T14:15:22.915Z",
+          "description": "nd advanced camera features like Low Light Boost. It also deprecates older technologies like WebSQL, making way for more modern solutions like IndexedDB.  ### Is Android 15 released?  V",
+          "readminutes": null,
+          "image": {
+            "id": 165,
+            "documentId": "mmsrlvc1cz99dahztth807tp",
+            "url": "/uploads/news1_1b1d627477.jpg",
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_news1.jpg",
+                "hash": "thumbnail_news1_1b1d627477",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 245,
+                "height": 138,
+                "size": 5.35,
+                "sizeInBytes": 5350,
+                "url": "/uploads/thumbnail_news1_1b1d627477.jpg"
+              },
+              "large": {
+                "name": "large_news1.jpg",
+                "hash": "large_news1_1b1d627477",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 1000,
+                "height": 562,
+                "size": 29.77,
+                "sizeInBytes": 29774,
+                "url": "/uploads/large_news1_1b1d627477.jpg"
+              },
+              "small": {
+                "name": "small_news1.jpg",
+                "hash": "small_news1_1b1d627477",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 500,
+                "height": 281,
+                "size": 13.37,
+                "sizeInBytes": 13372,
+                "url": "/uploads/small_news1_1b1d627477.jpg"
+              },
+              "medium": {
+                "name": "medium_news1.jpg",
+                "hash": "medium_news1_1b1d627477",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 750,
+                "height": 422,
+                "size": 22.24,
+                "sizeInBytes": 22240,
+                "url": "/uploads/medium_news1_1b1d627477.jpg"
+              }
+            }
+          }
+        },
+        {
+          "id": 33,
+          "documentId": "qfv4x7z7o6pfuq5rwe484fee",
+          "title": "Real Impact with Solid Tech",
+          "slug": "real-impact-with-solid-tech",
+          "type": "event",
+          "author": "John Smith",
+          "date": "2025-07-19",
+          "content": "### What’s new with Android 15?  Android 15 introduces enhanced privacy controls, new APIs for better performance and user experience, and advanced camera features like Low Light Boost. It also deprecates older technologies like WebSQL, making way for more modern solutions like IndexedDB.  ### Is Android 15 released?  Various developer previews and beta versions of Android 15 have been released so far. The final launch is expected to occur sometime in the fall of 2024.  ### How does Android 15 address app compatibility and backward compatibility issues?  Android 15 includes several measures to ensure app compatibility and backward compatibility, such as detailed documentation on behavior changes and new features.  Google also provides tools like the Android Compatibility Test Suite (CTS) to help developers test their apps against the latest Android version.  This ensures that apps remain functional and performant on the new platform while still supporting older versions where necessary.  ### What are the benefits of the improved camera APIs in Android 15 for app developers?  The improved camera APIs in Android 15 provide developers with greater control over camera hardware, allowing for features like real-time effects, improved HDR processing, and better integration with machine learning algorithms.  These capabilities enable developers to create more sophisticated camera experiences, such as advanced photo and video editing features or augmented reality applications.  ### How does Android 15 improve app performance on older devices?  Android 15 includes several optimizations aimed at enhancing app performance on older devices.  These improvements include more efficient memory management and optimized rendering pipelines, which help apps run more smoothly even on hardware with limited resources.  Developers can leverage these optimizations to ensure their apps provide a consistent experience across a wide range of devices.  ---  ### References  - [https://android-developers.googleblog.com/2024/02/first-developer-preview-android15.html](https://android-developers.googleblog.com/2024/02/first-developer-preview-android15.html)   - [https://developer.android.com/about/versions/15/features](https://developer.android.com/about/versions/15/features)   - [https://android-developers.googleblog.com](https://android-developers.googleblog.com)   - [https://developer.android.com](https://developer.android.com)  ",
+          "publishedDate": "2025-07-11",
+          "createdAt": "2025-07-11T08:42:46.052Z",
+          "updatedAt": "2025-07-13T22:20:22.325Z",
+          "publishedAt": "2025-07-13T22:20:22.348Z",
+          "description": "Is Android 15 released?  Various developer previews and beta versions of Android 15 have been released so far. The final launch is ",
+          "readminutes": null,
+          "image": {
+            "id": 156,
+            "documentId": "t57pbuvdfho6u9bn7i6fhuzf",
+            "url": "/uploads/news2_3c6c533a21.jpg",
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_news2.jpg",
+                "hash": "thumbnail_news2_3c6c533a21",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 245,
+                "height": 138,
+                "size": 4.44,
+                "sizeInBytes": 4438,
+                "url": "/uploads/thumbnail_news2_3c6c533a21.jpg"
+              },
+              "large": {
+                "name": "large_news2.jpg",
+                "hash": "large_news2_3c6c533a21",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 1000,
+                "height": 562,
+                "size": 19.55,
+                "sizeInBytes": 19550,
+                "url": "/uploads/large_news2_3c6c533a21.jpg"
+              },
+              "small": {
+                "name": "small_news2.jpg",
+                "hash": "small_news2_3c6c533a21",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 500,
+                "height": 281,
+                "size": 9.69,
+                "sizeInBytes": 9690,
+                "url": "/uploads/small_news2_3c6c533a21.jpg"
+              },
+              "medium": {
+                "name": "medium_news2.jpg",
+                "hash": "medium_news2_3c6c533a21",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 750,
+                "height": 422,
+                "size": 15.01,
+                "sizeInBytes": 15012,
+                "url": "/uploads/medium_news2_3c6c533a21.jpg"
+              }
+            }
+          }
+        },
+        {
+          "id": 36,
+          "documentId": "expnrtf2v1e9su6ymbk1uxyg",
+          "title": "This new IDE from Google is an absolute game changer",
+          "slug": "this-new-ide-from-google-is-an-absolute-game-changer",
+          "type": "news",
+          "author": "John Smith",
+          "date": "2025-07-16",
+          "content": "## What’s new with Android 15?\nAndroid 15 introduces enhanced privacy controls, new APIs for better performance and user experience, and advanced camera features like **Low Light Boost**. It also deprecates older technologies like **WebSQL**, making way for more modern solutions like **IndexedDB**.\n## Is Android 15 released?\nVarious developer previews and beta versions of Android 15 have been released so far. The final launch is expected to occur sometime in the **fall of 2024**.\n\n## How does Android 15 address app compatibility and backward compatibility issues?\nAndroid 15 includes several measures to ensure app compatibility and backward compatibility, such as:\n- Detailed documentation on behavior changes\n- New feature support\n- Tools like the **Android Compatibility Test Suite (CTS)**\n\nThese ensure that apps remain functional and performant on the new platform while still supporting older versions where necessary.\n\n## What are the benefits of the improved camera APIs in Android 15 for app developers?\nThe improved camera APIs provide:\n- Greater control over camera hardware\n- Real-time effects\n- Improved HDR processing\n- Better integration with machine learning algorithms\n\nThese capabilities help developers create advanced camera experiences like:\n\n- Augmented reality applications\n- Advanced photo/video editing features\n## How does Android 15 improve app performance on older devices?\nAndroid 15 offers:\n- Optimized memory management\n- Enhanced rendering pipelines\n\nThese improvements ensure apps run smoothly even on devices with limited hardware resources.\n\n---\n\n## References\n\n- [First Android 15 Developer Preview](https://android-developers.googleblog.com/2024/02/first-developer-preview-android15.html)\n- [Android 15 Features Overview](https://developer.android.com/about/versions/15/features)\n- [Android Developers Blog](https://android-developers.googleblog.com)\n- [Android Developers Official Site](https://developer.android.com)\n",
+          "publishedDate": "2025-07-09",
+          "createdAt": "2025-07-11T12:23:49.379Z",
+          "updatedAt": "2025-07-16T07:39:19.794Z",
+          "publishedAt": "2025-07-16T07:39:19.814Z",
+          "description": "This new IDE from Google is seriously revolutionary.",
+          "readminutes": 8,
+          "image": {
+            "id": 166,
+            "documentId": "j6dmgyoz5rygwyyu4tyav4ns",
+            "url": "/uploads/representation_user_experience_interface_design_1200x800_fedb475fc5.webp",
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_representation-user-experience-interface-design-1200x800.webp",
+                "hash": "thumbnail_representation_user_experience_interface_design_1200x800_fedb475fc5",
+                "ext": ".webp",
+                "mime": "image/webp",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 6.51,
+                "sizeInBytes": 6506,
+                "url": "/uploads/thumbnail_representation_user_experience_interface_design_1200x800_fedb475fc5.webp"
+              },
+              "large": {
+                "name": "large_representation-user-experience-interface-design-1200x800.webp",
+                "hash": "large_representation_user_experience_interface_design_1200x800_fedb475fc5",
+                "ext": ".webp",
+                "mime": "image/webp",
+                "path": null,
+                "width": 1000,
+                "height": 667,
+                "size": 38.38,
+                "sizeInBytes": 38380,
+                "url": "/uploads/large_representation_user_experience_interface_design_1200x800_fedb475fc5.webp"
+              },
+              "medium": {
+                "name": "medium_representation-user-experience-interface-design-1200x800.webp",
+                "hash": "medium_representation_user_experience_interface_design_1200x800_fedb475fc5",
+                "ext": ".webp",
+                "mime": "image/webp",
+                "path": null,
+                "width": 750,
+                "height": 500,
+                "size": 27.71,
+                "sizeInBytes": 27706,
+                "url": "/uploads/medium_representation_user_experience_interface_design_1200x800_fedb475fc5.webp"
+              },
+              "small": {
+                "name": "small_representation-user-experience-interface-design-1200x800.webp",
+                "hash": "small_representation_user_experience_interface_design_1200x800_fedb475fc5",
+                "ext": ".webp",
+                "mime": "image/webp",
+                "path": null,
+                "width": 500,
+                "height": 333,
+                "size": 16.8,
+                "sizeInBytes": 16804,
+                "url": "/uploads/small_representation_user_experience_interface_design_1200x800_fedb475fc5.webp"
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 1
+    }
+  }
+}

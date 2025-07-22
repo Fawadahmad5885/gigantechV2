@@ -1,0 +1,71 @@
+{
+  "data": {
+    "id": 2,
+    "documentId": "zchuekswc4702z98x9nz26el",
+    "createdAt": "2025-05-28T11:26:36.790Z",
+    "updatedAt": "2025-05-28T11:26:36.790Z",
+    "publishedAt": "2025-05-28T11:26:36.802Z",
+    "homeMetaData": {
+      "id": 2,
+      "metaTitle": "EyraTech | Innovative Software Solutions",
+      "metaDescription": "EyraTech is a software company specializing in delivering innovative solutions tailored to your business needs. Explore our services and industries we serve.",
+      "keyWords": "EyraTech, software solutions, business software, custom software development, technology consulting, IT services",
+      "metaImage": {
+        "id": 22,
+        "documentId": "l4qk50vke4loe73hp7b0wat6",
+        "name": "favicon.ico",
+        "alternativeText": null,
+        "caption": null,
+        "width": 32,
+        "height": 32,
+        "formats": null,
+        "hash": "favicon_6d074dc29a",
+        "ext": ".ico",
+        "mime": "image/x-icon",
+        "size": 0.96,
+        "url": "/uploads/favicon_6d074dc29a.ico",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-05-28T11:25:36.116Z",
+        "updatedAt": "2025-05-28T11:25:36.116Z",
+        "publishedAt": "2025-05-28T11:25:36.116Z"
+      },
+      "openGraphImage": {
+        "id": 23,
+        "documentId": "mwt8kdp7pcu4f742n9di83vg",
+        "name": "eyratech-logo.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 256,
+        "height": 45,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_eyratech-logo.png",
+            "hash": "thumbnail_eyratech_logo_4bac54e79f",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 245,
+            "height": 43,
+            "size": 19.55,
+            "sizeInBytes": 19550,
+            "url": "/uploads/thumbnail_eyratech_logo_4bac54e79f.png"
+          }
+        },
+        "hash": "eyratech_logo_4bac54e79f",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 6.94,
+        "url": "/uploads/eyratech_logo_4bac54e79f.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-05-28T11:26:33.701Z",
+        "updatedAt": "2025-05-28T11:27:31.601Z",
+        "publishedAt": "2025-05-28T11:26:33.701Z"
+      }
+    }
+  },
+  "meta": {}
+}
