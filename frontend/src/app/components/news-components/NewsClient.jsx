@@ -113,9 +113,9 @@ const NewsClient = ({
   };
 
   return (
-    <div className="bg-gray-100 lg:pt-[90px]">
+    <div className="bg-gray-100 ">
       {/* Hero Section for News Page */}
-     <div className="relative w-full h-[70vh] min-h-[340px] bg-cover bg-center bg-no-repeat">
+     <div className="relative w-full h-[100vh] min-h-[340px] bg-cover bg-center bg-no-repeat">
         <Image
           src={imageUrl}
           alt={title || "Case Study Background"}
@@ -147,7 +147,7 @@ const NewsClient = ({
       <div ref={newsRef} className="py-16">
         <div className="component-width mx-auto ">
           {/* News Cards */}
-          <div className="grid grid-cols-1 mt-10 mx-auto component-width md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+          <div className="grid grid-cols-1 mt-10 mx-auto component-width  md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
             {paginatedData.map((item) => (
               <NewsCard key={item.id} item={item} />
             ))}

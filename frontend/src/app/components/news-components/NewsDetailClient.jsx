@@ -1,26 +1,25 @@
-// news-components/NewsDetailClient.jsx
 "use client";
 import React from "react";
 import ReactMarkdown from "react-markdown";
 import { scroller } from "react-scroll";
 import Contact from "@/app/components/contact/Contact";
 import CustomButton from "@/app/components/about-page-components/CustomButton";
-import { Calendar, User, Tag } from "lucide-react";
+import { Calendar, User} from "lucide-react";
+import Image from "next/image";
+import { getStrapiMedia } from "@/lib/api";
 
 const NewsDetailClient = ({
   newsArticle,
   contactSectionHeader,
   contactForm,
 }) => {
-  const STRAPI_URL = process.env.NEXT_PUBLIC_STRAPI_API_URL;
-  const imageUrl =
-    newsArticle.image?.formats?.large?.url ||
-    newsArticle.image?.url ||
-    newsArticle.featuredImage?.formats?.large?.url ||
+const imageUrl = 
+    newsArticle.image?.data?.attributes?.url ||  // Strapi v4 format
+    newsArticle.image?.url ||                    // Local data format
+    newsArticle.featuredImage?.data?.attributes?.url ||
     newsArticle.featuredImage?.url;
-  const fullImageUrl = imageUrl?.startsWith("/")
-    ? `${STRAPI_URL}${imageUrl}`
-    : imageUrl;
+
+  const fullImageUrl = imageUrl ? getStrapiMedia(imageUrl) : null;
 
   const scrollToSection = (sectionId) => {
     scroller.scrollTo(sectionId, {
@@ -40,16 +39,19 @@ const NewsDetailClient = ({
 
   return (
     <div className="pt-[90px]">
-      {/* Hero Section with Background Image */}
       <div
         className="relative w-full h-[70vh] min-h-[340px] bg-cover bg-center bg-no-repeat"
-        style={{
-          backgroundImage: fullImageUrl
-            ? `url(${fullImageUrl})`
-            : "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-        }}
       >
-        {/* Gradient Overlay */}
+          {fullImageUrl && (
+          <Image
+            src={fullImageUrl}
+            alt={newsArticle.title || "News article"}
+            fill
+            className="object-cover"
+            priority
+            sizes="100vw"
+          />
+        )}
         <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/60 to-black/40"></div>
 
         {/* Hero Content */}

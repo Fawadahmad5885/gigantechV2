@@ -34,7 +34,6 @@ export default function CaseStudiesClient({
           fill
           className="object-cover animate-zoom-loop"
           priority
-          sizes="100vw"
         />
         <div className="absolute inset-0 flex flex-col justify-center component-width mx-auto items-start text-white max-lg:px-6 lg:mt-24">
           <div className="text-start font-poppins">

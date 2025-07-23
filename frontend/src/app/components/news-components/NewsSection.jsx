@@ -71,12 +71,12 @@ const { title, description, } = headerData
             <div className="absolute left-1/2 transform -translate-x-1/2">
               {showViewAll && (
                 <Link
-                  href="/news-and-blogs"
-                  className="inline-flex items-center px-8 max-sm:pl-0 py-3 text-primaryColor text-lg font-medium rounded-lg transition-colors duration-300 group"
-                >
-                  <span>View All </span>
-                  <ArrowRight className="w-5 h-5 ml-2 transform group-hover:translate-x-1 transition-transform duration-300" />
-                </Link>
+              href="/news-and-blogs"
+              className="inline-flex items-center px-8 py-3 text-textColor hover:text-secondaryColor text-lg font-medium rounded-lg transition-colors duration-300 group"
+            >
+              <span>View All </span>
+              <ArrowRight className="w-5 h-5 ml-2 transform group-hover:translate-x-1 transition-transform duration-300" />
+            </Link>
               )}
             </div>
             

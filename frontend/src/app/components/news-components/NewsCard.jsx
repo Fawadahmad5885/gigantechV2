@@ -20,7 +20,7 @@ const NewsCard = ({ item }) => {
     : imageUrl;
 
   return (
-    <Link key={item.id} href={`/news-and-blogs/${item.slug}`} className="flex h-full ">
+    <Link key={item.id} href={`/news-and-blogs/${item.slug}`} className="flex h-full max-lg:mx-5 ">
       <article className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-all duration-300 group flex flex-col h-[500px] relative">
         {/* Featured Image */}
         <div className="relative h-48">
@@ -105,7 +105,7 @@ const NewsCard = ({ item }) => {
           <div className="flex justify-center items-center text-sm mt-auto">
             <div
               // href={`/case-studies/${item.slug}`}
-              className="inline-flex items-center py-1  text-textColor group-hover:text-primaryColor   rounded-lg transition-colors duration-300 group"
+              className="inline-flex items-center py-1  text-textColor group-hover:text-secondaryColor   rounded-lg transition-colors duration-300 group"
             >
               <span>Read more</span>
               <ArrowRight className="w-5 h-5 ml-2 transform group-hover:translate-x-1 transition-transform duration-300" />

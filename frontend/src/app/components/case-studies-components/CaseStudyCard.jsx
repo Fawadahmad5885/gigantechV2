@@ -17,7 +17,7 @@ const CaseStudyCard = ({
 
   return (
     <Link
-    data-aos="fade-up"
+      data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1000"
       key={slug}
       href={`/case-studies/${slug}`}
@@ -47,7 +47,7 @@ const CaseStudyCard = ({
         <div className="flex flex-row justify-between items-center">
 
            <p
-          className={`text-primaryColor medium text-left ${
+          className={`text-secondaryColor  medium text-left ${
             isFeatured ? "mb-4 text-lg" : "mb-2 text-base"
           } poppins-font`}
           >
@@ -71,7 +71,7 @@ const CaseStudyCard = ({
         </p>
 
         <div
-          className="inline-flex items-center   text-gray-900  group-hover:text-primaryColor   rounded-lg transition-colors duration-300 group"
+          className="inline-flex items-center   text-gray-900  group-hover:text-secondaryColor   rounded-lg transition-colors duration-300 group"
         >
           <span>Read more</span>
           <ArrowRight className="w-5 h-5 ml-2 transform group-hover:translate-x-1 transition-transform duration-300" />

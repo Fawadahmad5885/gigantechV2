@@ -89,7 +89,7 @@ export default function CaseStudyMain({
                 <h1 className="text-gray-700 text-left text-sm md:text-base lg:text-lg">
                   Industry
                 </h1>
-                <p className="font-medium text-xl lg:text-2xl xl:text-xl text-primaryColor ">
+                <p className="font-medium text-xl lg:text-2xl xl:text-xl text-secondaryColor ">
                   {category}
                 </p>
               </div>
@@ -99,7 +99,7 @@ export default function CaseStudyMain({
                 <h1 className="text-gray-700 text-left text-sm md:text-base lg:text-lg ">
                   Region
                 </h1>
-                <p className="font-medium text-xl lg:text-2xl xl:text-xl text-primaryColor">
+                <p className="font-medium text-xl lg:text-2xl xl:text-xl text-secondaryColor">
                   {region}
                 </p>
               </div>
@@ -109,7 +109,7 @@ export default function CaseStudyMain({
                 <h1 className="text-gray-700 text-left text-sm md:text-base lg:text-lg">
                   Status
                 </h1>
-                <p className="font-medium text-xl lg:text-2xl xl:text-xl text-primaryColor">
+                <p className="font-medium text-xl lg:text-2xl xl:text-xl text-secondaryColor">
                   {caseStudyStatus}
                 </p>
               </div>
@@ -119,7 +119,7 @@ export default function CaseStudyMain({
                 <h1 className="text-gray-700 text-left text-sm md:text-base lg:text-lg     ">
                   Technologies
                 </h1>
-                <p className="font-medium text-xl lg:text-2xl xl:text-xl text-primaryColor ">
+                <p className="font-medium text-xl lg:text-2xl xl:text-xl text-secondaryColor ">
                   {technologies}
                 </p>
               </div>
@@ -130,7 +130,7 @@ export default function CaseStudyMain({
         {/* Descripition */}
         <div className="">
           <div className="flex flex-col justify-center component-width mx-auto items-start max-lg:px-6 pt-12">
-            <h1 className="font-semibold text-xl lg:text-2xl xl:text-2xl text-primaryColor">
+            <h1 className="font-semibold text-xl lg:text-2xl xl:text-2xl text-secondaryColor">
               Client
             </h1>
             <p className=" prose md:w-1/2  w-full lg:w-1/3 text-gray-700 text-left text-sm md:text-base lg:text-lg whitespace-pre-wrap  mt-4 ">

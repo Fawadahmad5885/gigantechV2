@@ -57,7 +57,7 @@ const { title, description, } = headerData
       data-aos-duration="1000"
             style={{ boxShadow: '1px 1px 5px 0px #6b6b6b50' }}
               key={index}
-              className="bg-gray-100   rounded-lg overflow-hidden cursor-pointer transition-all duration-500 group"
+              className="   rounded-lg overflow-hidden cursor-pointer transition-all duration-500 group"
             >
               {/* Horizontal Card Layout */}
               <Link href={`/case-studies/${item.slug}`} className="flex flex-col border-black sm:flex-row h-full">
@@ -92,10 +92,10 @@ const { title, description, } = headerData
                   {/* Learn More Button - Right Aligned with Amazing Animation */}
                   <div className="mt-auto flex justify-end">
                     <div
-                      className="inline-flex items-center   text-textColor mt-2   group-hover:text-primaryColor   rounded-lg transition-colors duration-300 group"
+                      className="inline-flex items-center   text-textColor mt-2   group-hover:text-secondaryColor   rounded-lg transition-colors duration-300 group"
                     >
                       <span className="text-base">Read more</span>
-                      <ArrowRight className="w-5 h-5 ml-2 text-textColor group-hover:text-primaryColor  transform group-hover:translate-x-1 transition-transform duration-300" />
+                      <ArrowRight className="w-5 h-5 ml-2 text-textColor group-hover:text-secondaryColor  transform group-hover:translate-x-1 transition-transform duration-300" />
                     </div>
                   </div>
                 </div>
@@ -107,7 +107,7 @@ const { title, description, } = headerData
           <div className="text-center mt-8">
             <Link
               href="/case-studies"
-              className="inline-flex items-center px-8 py-3 text-textColor hover:text-primaryColor text-lg font-medium rounded-lg transition-colors duration-300 group"
+              className="inline-flex items-center px-8 py-3 text-textColor hover:text-secondaryColor text-lg font-medium rounded-lg transition-colors duration-300 group"
             >
               <span>View All </span>
               <ArrowRight className="w-5 h-5 ml-2 transform group-hover:translate-x-1 transition-transform duration-300" />

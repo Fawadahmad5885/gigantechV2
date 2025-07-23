@@ -33,7 +33,7 @@ function IndustriesCard({ img, title, subtitle, desc }) {
               <h4 className="text-gray-700 font-semibold text-center leading-10 font-poppins text-lg">
                 {title}
               </h4>
-              <h5 className="text-primaryColor italic font-medium text-left leading-10 poppins-font text-base">
+              <h5 className="text-secondaryColor italic font-medium text-left leading-10 poppins-font text-base">
                 {subtitle}
               </h5>
               {/* Short Description */}
