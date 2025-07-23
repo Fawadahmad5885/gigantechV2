@@ -9,10 +9,10 @@ export default function videoSitemap() {
       priority: 0.8,
       videos: [
         {
-          title: "Eyratech hero section video",
+          title: "SmachStack hero section video",
           thumbnail_loc: `${getBaseUrl()}/preview.png`,
           description:
-            "A  video demonstrating eyratech solution.",
+            "A  video demonstrating SmachStack solution.",
           content_loc: `${getBaseUrl()}/chatdocsVideo.mp4`,
           upload_date: "2025-05-07",
         },

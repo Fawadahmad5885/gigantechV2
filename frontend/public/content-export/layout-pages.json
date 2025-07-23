@@ -51,78 +51,15 @@
         ]
       },
       "footer_section": {
-        "id": 6,
+        "id": 8,
         "documentId": "nhcc3m9fqzrd5e2xw59noyt2",
         "createdAt": "2025-05-28T11:39:21.661Z",
-        "updatedAt": "2025-07-22T13:54:19.154Z",
-        "publishedAt": "2025-07-22T13:54:19.167Z",
+        "updatedAt": "2025-07-23T08:49:08.262Z",
+        "publishedAt": "2025-07-23T08:49:08.281Z",
         "description": "Over a decade of expertise,\ndelivering future-ready solutions\nworldwide.",
         "officesCard": [
           {
-            "id": 16,
-            "heading": "SmachStack Corporation (Canada)",
-            "subHeading": "Global Headquarters & Business Development",
-            "location": "Arfa Kareem Tower, Nishtar Town, Lahore, Pakistan",
-            "mobileNumber": "+1 (844) 539 902",
-            "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1474.2797783535889!2d74.34112189940284!3d31.475711238440244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39190427303d1d9b%3A0x98af47ff5799036e!2zQXJmYSBJVCBUb3dlciDYp9ix2YHYuSDYotim24wg2bnbjCDZudin2YjYsQ!5e0!3m2!1sen!2s!4v1741868771027!5m2!1sen!2s",
-            "flagImage": {
-              "id": 25,
-              "documentId": "d4qj8h9nixfa79gdic6lcmtt",
-              "url": "/uploads/canada_flag_3e1fddf246.png",
-              "formats": {
-                "thumbnail": {
-                  "name": "thumbnail_canada-flag.png",
-                  "hash": "thumbnail_canada_flag_3e1fddf246",
-                  "ext": ".png",
-                  "mime": "image/png",
-                  "path": null,
-                  "width": 245,
-                  "height": 123,
-                  "size": 3.74,
-                  "sizeInBytes": 3737,
-                  "url": "/uploads/thumbnail_canada_flag_3e1fddf246.png"
-                },
-                "large": {
-                  "name": "large_canada-flag.png",
-                  "hash": "large_canada_flag_3e1fddf246",
-                  "ext": ".png",
-                  "mime": "image/png",
-                  "path": null,
-                  "width": 1000,
-                  "height": 500,
-                  "size": 19.44,
-                  "sizeInBytes": 19442,
-                  "url": "/uploads/large_canada_flag_3e1fddf246.png"
-                },
-                "medium": {
-                  "name": "medium_canada-flag.png",
-                  "hash": "medium_canada_flag_3e1fddf246",
-                  "ext": ".png",
-                  "mime": "image/png",
-                  "path": null,
-                  "width": 750,
-                  "height": 375,
-                  "size": 15.18,
-                  "sizeInBytes": 15178,
-                  "url": "/uploads/medium_canada_flag_3e1fddf246.png"
-                },
-                "small": {
-                  "name": "small_canada-flag.png",
-                  "hash": "small_canada_flag_3e1fddf246",
-                  "ext": ".png",
-                  "mime": "image/png",
-                  "path": null,
-                  "width": 500,
-                  "height": 250,
-                  "size": 9.1,
-                  "sizeInBytes": 9104,
-                  "url": "/uploads/small_canada_flag_3e1fddf246.png"
-                }
-              }
-            }
-          },
-          {
-            "id": 17,
+            "id": 21,
             "heading": "SmachStack Pvt. Ltd. (Pakistan)",
             "subHeading": "Research & Innovation Hub",
             "location": "Arfa Kareem Tower, Nishtar Town, Lahore, Pakistan",
@@ -185,7 +122,7 @@
             }
           },
           {
-            "id": 18,
+            "id": 22,
             "heading": "SmachStack(UK)",
             "subHeading": "Cloud & DevOps Center",
             "location": "Arfa Kareem Tower, Nishtar Town, Lahore, Pakistan",

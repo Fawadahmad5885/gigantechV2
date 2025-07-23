@@ -34,35 +34,22 @@
       "openGraphImage": {
         "id": 23,
         "documentId": "mwt8kdp7pcu4f742n9di83vg",
-        "name": "SmachStack-logo.png",
+        "name": "eyratech-logo.png",
         "alternativeText": null,
         "caption": null,
-        "width": 256,
-        "height": 45,
-        "formats": {
-          "thumbnail": {
-            "name": "thumbnail_SmachStack-logo.png",
-            "hash": "thumbnail_SmachStack_logo_4bac54e79f",
-            "ext": ".png",
-            "mime": "image/png",
-            "path": null,
-            "width": 245,
-            "height": 43,
-            "size": 19.55,
-            "sizeInBytes": 19550,
-            "url": "/uploads/thumbnail_SmachStack_logo_4bac54e79f.png"
-          }
-        },
-        "hash": "SmachStack_logo_4bac54e79f",
+        "width": 150,
+        "height": 32,
+        "formats": {},
+        "hash": "eyratech_logo_4bac54e79f",
         "ext": ".png",
         "mime": "image/png",
-        "size": 6.94,
-        "url": "/uploads/SmachStack_logo_4bac54e79f.png",
+        "size": 1.14,
+        "url": "/uploads/eyratech_logo_4bac54e79f.png",
         "previewUrl": null,
         "provider": "local",
         "provider_metadata": null,
         "createdAt": "2025-05-28T11:26:33.701Z",
-        "updatedAt": "2025-05-28T11:27:31.601Z",
+        "updatedAt": "2025-07-23T08:40:37.826Z",
         "publishedAt": "2025-05-28T11:26:33.701Z"
       }
     }

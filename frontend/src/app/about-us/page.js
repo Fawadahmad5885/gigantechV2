@@ -39,7 +39,7 @@ export async function generateMetadata() {
         },
       ],
       card: "summary_large_image",
-      creator: "EyraTech",
+      creator: "SmachStack",
     },
     canonicalUrl: `${getBaseUrl()}/about`,
   };

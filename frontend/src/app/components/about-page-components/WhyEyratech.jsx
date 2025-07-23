@@ -31,7 +31,7 @@ const WhyEyraTech = () => {
   return (
     <div className="my-[5%] mx-3 text-center">
       <h2 className="text-2xl md:text-3xl  lg:text-[40px] text-textColor mb-[15px]">
-        Why EyraTech
+        Why SmachStack
       </h2>
       <p className="text-lg text-textColor text-center max-md:text-justify lg:w-1/2 mx-auto">
         We only hire the best tech resources for our team that shorten

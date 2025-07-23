@@ -32,7 +32,7 @@ function Industries({headerData}) {
     <div className="h-auto py-[5%] bg-gray-100" id="industries">
       <div className="">
         <div className="px-5 md:px-[50px] font-poppins  text-center">
-          <h2 className="heading-text text-textColor">
+          <h2 className="heading-text text-textColor  ">
             {title}
           </h2>
           <p className="section-description">

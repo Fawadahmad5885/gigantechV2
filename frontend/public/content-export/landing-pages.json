@@ -8,94 +8,94 @@
       "publishedAt": "2025-07-20T21:06:49.656Z",
       "hero_sections": [
         {
-          "id": 6,
+          "id": 7,
           "documentId": "s64rwscujt8ud1t5mewldp65",
           "title": "Intelligence Redefined with Artificial Intelligence.",
           "subtitle": "Bringing your ideas to life with cutting-edge AI technology.",
           "order": 2,
           "createdAt": "2025-05-28T11:07:09.798Z",
-          "updatedAt": "2025-07-22T14:05:09.613Z",
-          "publishedAt": "2025-07-22T14:05:09.625Z",
-          "image": {
-            "id": 2,
-            "documentId": "rmj5pc1r607uytr78s78av84",
-            "url": "/uploads/carousel_image_3eafb307d8.png",
-            "formats": {
-              "thumbnail": {
-                "name": "thumbnail_carousel-image.png",
-                "hash": "thumbnail_carousel_image_3eafb307d8",
-                "ext": ".png",
-                "mime": "image/png",
-                "path": null,
-                "width": 245,
-                "height": 138,
-                "size": 74.22,
-                "sizeInBytes": 74220,
-                "url": "/uploads/thumbnail_carousel_image_3eafb307d8.png"
-              },
-              "small": {
-                "name": "small_carousel-image.png",
-                "hash": "small_carousel_image_3eafb307d8",
-                "ext": ".png",
-                "mime": "image/png",
-                "path": null,
-                "width": 500,
-                "height": 281,
-                "size": 263.49,
-                "sizeInBytes": 263490,
-                "url": "/uploads/small_carousel_image_3eafb307d8.png"
-              },
-              "medium": {
-                "name": "medium_carousel-image.png",
-                "hash": "medium_carousel_image_3eafb307d8",
-                "ext": ".png",
-                "mime": "image/png",
-                "path": null,
-                "width": 750,
-                "height": 422,
-                "size": 566.85,
-                "sizeInBytes": 566846,
-                "url": "/uploads/medium_carousel_image_3eafb307d8.png"
-              },
-              "large": {
-                "name": "large_carousel-image.png",
-                "hash": "large_carousel_image_3eafb307d8",
-                "ext": ".png",
-                "mime": "image/png",
-                "path": null,
-                "width": 1000,
-                "height": 563,
-                "size": 990.42,
-                "sizeInBytes": 990416,
-                "url": "/uploads/large_carousel_image_3eafb307d8.png"
-              }
-            }
+          "updatedAt": "2025-07-23T08:59:43.548Z",
+          "publishedAt": "2025-07-23T08:59:43.580Z",
+          "image": null,
+          "video": {
+            "id": 173,
+            "documentId": "n2c5wd0upwqi264e2slseyx0",
+            "url": "/uploads/Blue_Tech_Futuristic_Artificial_Intelligence_Video_688614124f.mp4",
+            "formats": null
           },
-          "video": null,
           "Button": {
-            "id": 175,
+            "id": 176,
             "title": "Learn More",
             "url": "about-us"
           }
         },
         {
-          "id": 5,
+          "id": 8,
           "documentId": "kbeiexr5sfnu76p8peg7kpfq",
           "title": "Where technology meets innovation.",
           "subtitle": "Seamlessly integrating innovation, strategy, and technology to redefine the future.",
           "order": 1,
           "createdAt": "2025-05-28T11:05:32.396Z",
-          "updatedAt": "2025-07-17T15:01:11.601Z",
-          "publishedAt": "2025-07-17T15:01:11.679Z",
-          "image": null,
-          "video": {
-            "id": 1,
-            "documentId": "t0q1jivi7hqmdjsvaf694hgq",
-            "url": "/uploads/carousel_video_2db022af8d.mp4",
-            "formats": null
+          "updatedAt": "2025-07-23T09:00:26.167Z",
+          "publishedAt": "2025-07-23T09:00:26.204Z",
+          "image": {
+            "id": 174,
+            "documentId": "djnorelq8w7r0cozhs9shxre",
+            "url": "/uploads/team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78.jpg",
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_team-government-spies-meeting-cia-headquarters-monitor-surveillance.jpg",
+                "hash": "thumbnail_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 245,
+                "height": 138,
+                "size": 5.6,
+                "sizeInBytes": 5602,
+                "url": "/uploads/thumbnail_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78.jpg"
+              },
+              "large": {
+                "name": "large_team-government-spies-meeting-cia-headquarters-monitor-surveillance.jpg",
+                "hash": "large_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 1000,
+                "height": 563,
+                "size": 42.7,
+                "sizeInBytes": 42702,
+                "url": "/uploads/large_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78.jpg"
+              },
+              "medium": {
+                "name": "medium_team-government-spies-meeting-cia-headquarters-monitor-surveillance.jpg",
+                "hash": "medium_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 750,
+                "height": 422,
+                "size": 27.4,
+                "sizeInBytes": 27396,
+                "url": "/uploads/medium_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78.jpg"
+              },
+              "small": {
+                "name": "small_team-government-spies-meeting-cia-headquarters-monitor-surveillance.jpg",
+                "hash": "small_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 500,
+                "height": 281,
+                "size": 15.35,
+                "sizeInBytes": 15349,
+                "url": "/uploads/small_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78.jpg"
+              }
+            }
           },
+          "video": null,
           "Button": {
-            "id": 170,
+            "id": 177,
             "title": "Learn More",
             "url": "about-us"
           }
@@ -1845,7 +1845,7 @@
         "updatedAt": "2025-07-20T20:37:25.718Z",
         "publishedAt": "2025-07-20T20:37:25.740Z",
         "title": "Let’s Build Your Digital Success Story",
-        "description": "With decades of expertise and hundreds of future-ready solutions delivered globally, EyraTech combines technical mastery and industry insights to turn complex challenges into growth. Partner with a team trusted by enterprises worldwide—where technology meets innovation.",
+        "description": "With decades of expertise and hundreds of future-ready solutions delivered globally, SmachStack combines technical mastery and industry insights to turn complex challenges into growth. Partner with a team trusted by enterprises worldwide—where technology meets innovation.",
         "contactForm": {
           "id": 4,
           "Input": [
@@ -2409,13 +2409,13 @@
         }
       ],
       "news_blogs_and_event": {
-        "id": 2,
+        "id": 3,
         "documentId": "obs8bn239949n0j0u436qbt8",
         "title": "News Blogs & Events",
         "description": "We love reading, researching, and writing a lot of stuff about technology, current trends, and other technology-related things. Explore our writings where we have shared our technological insights.",
         "createdAt": "2025-07-14T07:57:03.327Z",
-        "updatedAt": "2025-07-14T07:57:03.327Z",
-        "publishedAt": "2025-07-14T07:57:03.336Z",
+        "updatedAt": "2025-07-23T08:46:54.781Z",
+        "publishedAt": "2025-07-23T08:46:54.793Z",
         "image": {
           "id": 167,
           "documentId": "pac87bw2e2yy678ph1h3sowu",
@@ -2425,37 +2425,49 @@
               "name": "thumbnail_custom-software.jpg",
               "hash": "thumbnail_custom_software_b37894096e",
               "ext": ".jpg",
-              "mime": "image/jpeg",
+              "mime": "image/png",
               "path": null,
-              "width": 234,
-              "height": 156,
-              "size": 5.34,
-              "sizeInBytes": 5336,
+              "width": 245,
+              "height": 138,
+              "size": 81.75,
+              "sizeInBytes": 81754,
               "url": "/uploads/thumbnail_custom_software_b37894096e.jpg"
-            },
-            "medium": {
-              "name": "medium_custom-software.jpg",
-              "hash": "medium_custom_software_b37894096e",
-              "ext": ".jpg",
-              "mime": "image/jpeg",
-              "path": null,
-              "width": 750,
-              "height": 500,
-              "size": 24.38,
-              "sizeInBytes": 24376,
-              "url": "/uploads/medium_custom_software_b37894096e.jpg"
             },
             "small": {
               "name": "small_custom-software.jpg",
               "hash": "small_custom_software_b37894096e",
               "ext": ".jpg",
-              "mime": "image/jpeg",
+              "mime": "image/png",
               "path": null,
               "width": 500,
-              "height": 334,
-              "size": 16.02,
-              "sizeInBytes": 16018,
+              "height": 281,
+              "size": 290.44,
+              "sizeInBytes": 290438,
               "url": "/uploads/small_custom_software_b37894096e.jpg"
+            },
+            "medium": {
+              "name": "medium_custom-software.jpg",
+              "hash": "medium_custom_software_b37894096e",
+              "ext": ".jpg",
+              "mime": "image/png",
+              "path": null,
+              "width": 750,
+              "height": 422,
+              "size": 617.24,
+              "sizeInBytes": 617235,
+              "url": "/uploads/medium_custom_software_b37894096e.jpg"
+            },
+            "large": {
+              "name": "large_custom-software.jpg",
+              "hash": "large_custom_software_b37894096e",
+              "ext": ".jpg",
+              "mime": "image/png",
+              "path": null,
+              "width": 1000,
+              "height": 563,
+              "size": 1079.41,
+              "sizeInBytes": 1079411,
+              "url": "/uploads/large_custom_software_b37894096e.jpg"
             }
           }
         }
@@ -2552,65 +2564,6 @@
             "documentId": "ka2ny8ll4z795ym5aaoxqu4g",
             "url": "/uploads/Chatbots_60e5e966f7.jpg",
             "formats": null
-          }
-        },
-        {
-          "id": 44,
-          "documentId": "quu0dutqq3a259n3yhcnbmp5",
-          "title": "He Rewrote Everything in Rust — Then We Got Fired",
-          "slug": "he-rewrote-everything-in-rust-then-we-got-fired",
-          "type": "news",
-          "author": null,
-          "date": "2025-07-14",
-          "content": "## 🧪 Project Overview\n\n![quattro research logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_placeholder_image.png/600px-Logo_placeholder_image.png)\n\nFounded in **2004**, **quattro research** develops intuitive software that empowers digital scientific workflows. Their **Laboratory Information Management Systems (LIMS)** — such as **quattro/CM**, **quattro/LJ**, and **quattro/BR** — manage and analyze complex chemical and biological data.\n\n---\n\n![Team Collaboration](https://images.unsplash.com/photo-1632179002215-f5c8d5dcf35b)\n\nTo scale quickly and meet growing client demand, quattro research partnered with **unicrew** to strengthen their engineering team with skilled developers who could integrate seamlessly and boost project velocity.\n\n---\n\n## 🚧 Key Challenges\n\n![Challenges](https://images.unsplash.com/photo-1573164713347-df1e1f69a3f2)\n\n- **Scalability Requirements** – Needed to scale fast without lowering code quality.\n- **Complex UI Needs** – Required a responsive UI for large molecular datasets.\n- **Scientific Data Presentation** – Flexible visualization in dynamic grids and forms.\n- **Modern Security Protocols** – Needed secure access management (OAuth, JWT).\n- **High-Performance Rendering** – For complex molecule structure visualization.\n\n---\n\n## ✅ Solution\n\n### 🔹 React-Based UI\n\n![React UI](https://images.unsplash.com/photo-1581091012184-5c2bca6f3bb6)\n\nDesigned and implemented a performant, intuitive React frontend for handling complex molecule data structures.\n\n---\n\n### 🔹 Configurable Data Framework\n\n![Grid System](https://images.unsplash.com/photo-1645051915681-183d5f30ef0a)\n\nDeveloped a flexible framework allowing scientists to customize data views using dynamic **grids** and **forms**.\n\n---\n\n### 🔹 Secure Authentication\n\n![Security](https://images.unsplash.com/photo-1607746882042-944635dfe10e)\n\nIntegrated **OAuth** and **JWT** for robust and modern authentication & authorization standards.\n\n---\n\n### 🔹 Molecule Visualization\n\n![Molecule Viewer](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Caffeine_3D_ball.png/640px-Caffeine_3D_ball.png)\n\nDelivered advanced visualization tools for rendering large and complex molecule structures efficiently.\n\n---\n\n## 👥 Collaboration Snapshot\n\n![Unicrew Team](https://images.unsplash.com/photo-1581091870622-df42a3f9808b)\n\n**unicrew** assembled a full-stack development team with expertise in:\n- `.NET`, `Java`, `PHP`, `Laravel`\n- `JavaScript`, `React`, `Vue`\n\nThey worked in **agile sprints** alongside quattro research’s internal team to maintain alignment, speed, and flexibility.\n\n---\n\n## 🎯 Results\n\n![Success](https://images.unsplash.com/photo-1581093588401-99a6f43db2a9)\n\n- **⚡ Faster Development** – Accelerated product delivery timelines.\n- **🎨 Better Usability** – UI tailored for scientific users.\n- **🔐 Improved Security** – OAuth and JWT integration.\n- **🔬 Enhanced Visualization** – Clarity in molecule data exploration.\n- **🤝 Ongoing Partnership** – Sustained collaboration with quattro research.\n\n---\n\n> _\"unicrew's developers integrated seamlessly with our team, demonstrating professionalism and a deep understanding of our needs. Their contributions have been invaluable.\"_  \n> — **Dr. Bernhard Schirm**, Managing Director\n\n[🔗 View Full Review](https://example.com/review)\n\n---\n\n## 🛠 Related Services\n\n- ✅ Dedicated Software Development Teams  \n- ✅ White Label Web Development  \n- ✅ Legacy Software Modernization\n",
-          "publishedDate": "2025-07-12",
-          "createdAt": "2025-07-11T14:10:40.011Z",
-          "updatedAt": "2025-07-16T08:01:40.460Z",
-          "publishedAt": "2025-07-16T08:01:40.473Z",
-          "description": "Some mornings, we’d all be staring at Datadog dashboards watching a queue backlog climb past 10k messages.",
-          "readminutes": 6,
-          "image": {
-            "id": 167,
-            "documentId": "pac87bw2e2yy678ph1h3sowu",
-            "url": "/uploads/custom_software_b37894096e.jpg",
-            "formats": {
-              "thumbnail": {
-                "name": "thumbnail_custom-software.jpg",
-                "hash": "thumbnail_custom_software_b37894096e",
-                "ext": ".jpg",
-                "mime": "image/jpeg",
-                "path": null,
-                "width": 234,
-                "height": 156,
-                "size": 5.34,
-                "sizeInBytes": 5336,
-                "url": "/uploads/thumbnail_custom_software_b37894096e.jpg"
-              },
-              "medium": {
-                "name": "medium_custom-software.jpg",
-                "hash": "medium_custom_software_b37894096e",
-                "ext": ".jpg",
-                "mime": "image/jpeg",
-                "path": null,
-                "width": 750,
-                "height": 500,
-                "size": 24.38,
-                "sizeInBytes": 24376,
-                "url": "/uploads/medium_custom_software_b37894096e.jpg"
-              },
-              "small": {
-                "name": "small_custom-software.jpg",
-                "hash": "small_custom_software_b37894096e",
-                "ext": ".jpg",
-                "mime": "image/jpeg",
-                "path": null,
-                "width": 500,
-                "height": 334,
-                "size": 16.02,
-                "sizeInBytes": 16018,
-                "url": "/uploads/small_custom_software_b37894096e.jpg"
-              }
-            }
           }
         },
         {

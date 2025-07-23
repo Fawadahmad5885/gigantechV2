@@ -43,7 +43,7 @@ function Footer({ footerData, services, industries }) {
   return (
     <div className="bg-gray-100 shadow-lg">
       {/* Footer 1st section - Offices */}
-      <div className="relative grid grid-cols-1 lg:grid-cols-3 first-footer-bg max-lg:px-8 py-8 lg:max-w-[940px] xl:max-w-[1200px] 2xl:max-w-[1346px] lg:mx-auto xl:py-8 xl:px-0 mx-auto">
+      <div className="relative grid grid-cols-1 lg:grid-cols-2 first-footer-bg max-lg:px-8 py-8 component-width  lg:mx-auto xl:py-8 xl:px-0 mx-auto">
         {officesCards.map((office) => (
           <div key={`${office.id}-${office.heading}`} className="flex flex-col max-md:mb-8">
             <div className="flex flex-row items-center gap-2">

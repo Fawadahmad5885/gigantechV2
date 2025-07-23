@@ -171,7 +171,9 @@ export default function Header({headerData}) {
                   onClick={() => handleNavigation(item)}
                 >
                   {item.Label}
+                  <span className="block h-[2px] bg-secondaryColor mt-[1px] w-1/2"></span>
                 </li>
+                
               ))}
             </ul>
           </nav>

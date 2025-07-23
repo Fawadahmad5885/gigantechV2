@@ -10,7 +10,7 @@ function ServicesCard({ service }) {
   return (
     <div
       data-aos="fade-up"
-      data-aos-anchor-placement="top-bottom"
+      data-aos-anchor-placement="top-bottom" 
       data-aos-duration="1000"
       className="group rounded-2xl p-[30px] flex flex-row-reverse bg-white services-card hover:scale-105 transition-all duration-300 ease-in-out "
     >

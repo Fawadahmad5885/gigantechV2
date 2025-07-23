@@ -52,6 +52,9 @@ const { title, description, } = headerData
         <div className="grid grid-cols-1 component-width mx-auto lg:grid-cols-2 gap-6 mb-4  lg:mb-12">
           {caseStudiesToDisplay.map((item,index) => (
             <div
+              data-aos="fade-up"
+      data-aos-anchor-placement="top-bottom"
+      data-aos-duration="1000"
             style={{ boxShadow: '1px 1px 5px 0px #6b6b6b50' }}
               key={index}
               className="bg-gray-100   rounded-lg overflow-hidden cursor-pointer transition-all duration-500 group"
