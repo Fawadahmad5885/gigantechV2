@@ -118,7 +118,7 @@ function Technologies({ headerData, technologies }) {
 
       {/* Technology Swiper */}
       {currentTools.length > 0 && (
-        <div className="component-width max-lg:px-6 flex mx-auto flex-col mt-8 md:mt-16">
+        <div  className="component-width max-lg:px-6 flex mx-auto flex-col mt-8 md:mt-16">
           <Swiper
             key={selectedCategory}
             spaceBetween={10}
@@ -133,13 +133,15 @@ function Technologies({ headerData, technologies }) {
             modules={[Grid, Pagination]}
             grid={{ rows: 2, fill: "row" }}
             pagination={{ clickable: true, el: ".custom-swiper-pagination" }}
-            className="w-full pb-4"
+            className="w-full pb-4" data-aos="fade-up"
+      data-aos-anchor-placement="top-bottom"
+      data-aos-duration="1000"
           >
             {currentTools.map((tool) => (
               <SwiperSlide key={tool.name}>
                 <Tippy content={tool.tooltip}>
-                  <div className="flex flex-col items-center">
-                    <div className="flex items-center justify-center w-[80px] h-[80px] bg-white p-2">
+                  <div  className="flex flex-col items-center ">
+                    <div className="flex items-center justify-center w-[80px] h-[80px] p-2 rounded-lg shadow-md bg-gradient-to-br from-primaryColor/20 to-tertiaryColor/10">
                       <Image
                         alt={tool.name}
                         width={80}

@@ -7,43 +7,43 @@
       "updatedAt": "2025-07-21T10:53:44.419Z",
       "publishedAt": "2025-07-21T10:53:44.436Z",
       "header_section": {
-        "id": 6,
+        "id": 15,
         "documentId": "r0n4wxqv3q928g7v845yaln4",
         "createdAt": "2025-07-21T10:31:43.257Z",
-        "updatedAt": "2025-07-22T15:05:50.719Z",
-        "publishedAt": "2025-07-22T15:05:50.774Z",
+        "updatedAt": "2025-07-24T18:43:56.636Z",
+        "publishedAt": "2025-07-24T18:43:56.655Z",
         "logo": {
-          "id": 172,
-          "documentId": "vmq46q6hvjalt60ja41l34pn",
-          "url": "/uploads/eyratech_logo_6b8bda2eee.png"
+          "id": 175,
+          "documentId": "bhsdngkd5r2qkx4rusyrzkea",
+          "url": "/uploads/Smach_Stach_3_cddc45da0b.png"
         },
         "navItems": [
           {
-            "id": 42,
+            "id": 92,
             "Label": "Industries",
             "SectionId": "industries",
             "linkType": "section"
           },
           {
-            "id": 43,
+            "id": 93,
             "Label": "Services",
             "SectionId": "services",
             "linkType": "section"
           },
           {
-            "id": 44,
+            "id": 94,
             "Label": "Case Studies",
             "SectionId": "case-studies",
             "linkType": "page"
           },
           {
-            "id": 45,
+            "id": 95,
             "Label": "News & Blogs",
             "SectionId": "news-and-blogs",
             "linkType": "page"
           },
           {
-            "id": 46,
+            "id": 96,
             "Label": "About",
             "SectionId": "about-us",
             "linkType": "page"
@@ -51,15 +51,15 @@
         ]
       },
       "footer_section": {
-        "id": 8,
+        "id": 11,
         "documentId": "nhcc3m9fqzrd5e2xw59noyt2",
         "createdAt": "2025-05-28T11:39:21.661Z",
-        "updatedAt": "2025-07-23T08:49:08.262Z",
-        "publishedAt": "2025-07-23T08:49:08.281Z",
+        "updatedAt": "2025-07-24T18:44:31.180Z",
+        "publishedAt": "2025-07-24T18:44:31.207Z",
         "description": "Over a decade of expertise,\ndelivering future-ready solutions\nworldwide.",
         "officesCard": [
           {
-            "id": 21,
+            "id": 27,
             "heading": "SmachStack Pvt. Ltd. (Pakistan)",
             "subHeading": "Research & Innovation Hub",
             "location": "Arfa Kareem Tower, Nishtar Town, Lahore, Pakistan",
@@ -122,7 +122,7 @@
             }
           },
           {
-            "id": 22,
+            "id": 28,
             "heading": "SmachStack(UK)",
             "subHeading": "Cloud & DevOps Center",
             "location": "Arfa Kareem Tower, Nishtar Town, Lahore, Pakistan",
@@ -186,9 +186,9 @@
           }
         ],
         "whiteLogo": {
-          "id": 168,
-          "documentId": "bmt2ugi91mt9rvd8sw9gzox7",
-          "url": "/uploads/eyratech_white_logo_aa275daabd.png"
+          "id": 176,
+          "documentId": "bet1fvenqkzmktagr369kqc8",
+          "url": "/uploads/Smach_Stach_4_ce3b5bacab.png"
         }
       },
       "services_lists": [

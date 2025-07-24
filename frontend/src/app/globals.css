@@ -264,7 +264,7 @@ height: auto!important;
 }
 
 .swiper-pagination-bullet {
-  background-color: #1e98cc!important; 
+  background-color: #3a3838!important; 
   width: 30px !important;
   height: 10px;
   border-radius: 2px !important;
@@ -272,7 +272,7 @@ height: auto!important;
 }
 
 .swiper-pagination-bullet-active {
-  background-color: #105085 !important; 
+  background-color: #E52121 !important; 
 }
 
 .services-card, .services-card:hover{

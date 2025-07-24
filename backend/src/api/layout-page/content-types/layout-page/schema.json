@@ -23,11 +23,6 @@
       "target": "api::services-list.services-list",
       "mappedBy": "layout_page"
     },
-    "header": {
-      "type": "relation",
-      "relation": "oneToOne",
-      "target": "api::header.header"
-    },
     "footer_section": {
       "type": "relation",
       "relation": "oneToOne",

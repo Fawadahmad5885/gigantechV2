@@ -149,17 +149,16 @@ export default function Header({headerData}) {
 
       {/* Desktop Header */}
       <div className="component-width lg:mx-auto relative hidden lg:flex w-full py-6">
-        <div className="flex w-full flex-row justify-between">
+        <div className="flex w-full flex-row justify-between p-2">
           {logoUrl && (
            <Image
               src={logoUrl}
               quality={100}
-              width={240}
-            height={120}
+              fill
               onClick={() => window.location.replace("/")}
               alt="EyraTech Logo"
               style={{ objectFit: "contain" }}
-              className="h-[40px] cursor-pointer max-w-fit z-50"
+              className="h-[40px] p-2  cursor-pointer max-w-fit z-50"
             />
           )}
           <nav className="flex-grow flex justify-end items-center">

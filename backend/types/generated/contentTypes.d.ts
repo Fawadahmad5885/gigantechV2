@@ -865,36 +865,6 @@ export interface ApiHeaderSectionHeaderSection
   };
 }
 
-export interface ApiHeaderHeader extends Struct.CollectionTypeSchema {
-  collectionName: 'headers';
-  info: {
-    description: '';
-    displayName: 'Header';
-    pluralName: 'headers';
-    singularName: 'header';
-  };
-  options: {
-    draftAndPublish: true;
-  };
-  attributes: {
-    createdAt: Schema.Attribute.DateTime;
-    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
-      Schema.Attribute.Private;
-    locale: Schema.Attribute.String & Schema.Attribute.Private;
-    localizations: Schema.Attribute.Relation<
-      'oneToMany',
-      'api::header.header'
-    > &
-      Schema.Attribute.Private;
-    logo: Schema.Attribute.Media<'images' | 'files' | 'videos' | 'audios'>;
-    navBar: Schema.Attribute.Component<'elements.navigation-items', true>;
-    publishedAt: Schema.Attribute.DateTime;
-    updatedAt: Schema.Attribute.DateTime;
-    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
-      Schema.Attribute.Private;
-  };
-}
-
 export interface ApiHeroSectionHeroSection extends Struct.CollectionTypeSchema {
   collectionName: 'hero_sections';
   info: {
@@ -1122,7 +1092,6 @@ export interface ApiLayoutPageLayoutPage extends Struct.CollectionTypeSchema {
       'oneToOne',
       'api::footer-section.footer-section'
     >;
-    header: Schema.Attribute.Relation<'oneToOne', 'api::header.header'>;
     header_section: Schema.Attribute.Relation<
       'oneToOne',
       'api::header-section.header-section'
@@ -1983,7 +1952,6 @@ declare module '@strapi/strapi' {
       'api::contact-section.contact-section': ApiContactSectionContactSection;
       'api::footer-section.footer-section': ApiFooterSectionFooterSection;
       'api::header-section.header-section': ApiHeaderSectionHeaderSection;
-      'api::header.header': ApiHeaderHeader;
       'api::hero-section.hero-section': ApiHeroSectionHeroSection;
       'api::home-meta.home-meta': ApiHomeMetaHomeMeta;
       'api::industries-list.industries-list': ApiIndustriesListIndustriesList;

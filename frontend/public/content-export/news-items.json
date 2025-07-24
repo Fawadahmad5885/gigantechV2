@@ -1,224 +1,6 @@
 {
   "data": [
     {
-      "id": 32,
-      "documentId": "qklq8c1chcw52u906ni12062",
-      "title": "How Leading Brands Succeed with Digital Commerce?",
-      "slug": "how-leading-brands-succeed-with-digital-commerce",
-      "type": "event",
-      "author": "John Smith",
-      "date": "2025-07-11",
-      "content": "## Exploring the Role of AI in Modern Web Development\n\n**Estimated Read Time: 6 min**\n\n---\n\n### Introduction\n\nArtificial Intelligence (AI) is no longer a futuristic concept—it's a present-day powerhouse reshaping the way developers build, test, and optimize websites and applications. From intelligent code suggestions to automated design improvements, AI is streamlining workflows and enhancing user experiences across the web.\n\n---\n\n### How AI Is Transforming Web Development\n\nHere are some ways AI is driving change in the web dev space:\n\n- **Smart Code Assistance**: Tools like GitHub Copilot and Tabnine use AI to suggest code in real-time, reducing development time and minimizing bugs.\n- **Automated Testing**: AI-driven tools can simulate user behavior and detect UI or logic bugs more effectively than traditional testing frameworks.\n- **Personalized UX**: AI helps personalize content, layouts, and recommendations based on user data, improving engagement and retention.\n\n---\n\n### Popular AI Tools for Developers\n\n- **ChatGPT API** – for natural language processing tasks\n- **DeepCode** – for intelligent code review\n- **Uizard** – for converting wireframes into code\n- **Vercel AI SDK** – for building AI-powered React/Next.js apps\n\n---\n\n### Challenges and Considerations\n\nDespite its benefits, AI in web development comes with challenges:\n\n- **Ethical concerns** around data usage\n- **Over-reliance** on AI-generated code without full understanding\n- **Lack of transparency** in decision-making processes\n\nDevelopers must balance automation with critical thinking and stay informed on evolving AI ethics and best practices.\n\n---\n\n### Conclusion\n\nAI is not replacing web developers—it’s empowering them. By embracing AI tools and understanding their limitations, developers can build smarter, faster, and more intuitive digital experiences for the future.\n\n---\n\n### Tags\n\n`#AI` `#WebDevelopment` `#MachineLearning` `#Frontend` `#DeveloperTools`\n\n### References\n\n- [GitHub Copilot](https://github.com/features/copilot)\n- [Vercel AI SDK](https://sdk.vercel.ai/)\n- [Uizard](https://uizard.io/)\n- [OpenAI API](https://platform.openai.com/)",
-      "createdAt": "2025-07-11T08:49:59.152Z",
-      "updatedAt": "2025-07-11T14:15:22.903Z",
-      "publishedAt": "2025-07-11T14:15:22.915Z",
-      "description": "nd advanced camera features like Low Light Boost. It also deprecates older technologies like WebSQL, making way for more modern solutions like IndexedDB.  ### Is Android 15 released?  V",
-      "readminutes": null,
-      "image": {
-        "id": 165,
-        "documentId": "mmsrlvc1cz99dahztth807tp",
-        "name": "news1.jpg",
-        "alternativeText": null,
-        "caption": null,
-        "width": 2048,
-        "height": 1152,
-        "formats": {
-          "thumbnail": {
-            "name": "thumbnail_news1.jpg",
-            "hash": "thumbnail_news1_1b1d627477",
-            "ext": ".jpg",
-            "mime": "image/jpeg",
-            "path": null,
-            "width": 245,
-            "height": 138,
-            "size": 5.35,
-            "sizeInBytes": 5350,
-            "url": "/uploads/thumbnail_news1_1b1d627477.jpg"
-          },
-          "large": {
-            "name": "large_news1.jpg",
-            "hash": "large_news1_1b1d627477",
-            "ext": ".jpg",
-            "mime": "image/jpeg",
-            "path": null,
-            "width": 1000,
-            "height": 562,
-            "size": 29.77,
-            "sizeInBytes": 29774,
-            "url": "/uploads/large_news1_1b1d627477.jpg"
-          },
-          "small": {
-            "name": "small_news1.jpg",
-            "hash": "small_news1_1b1d627477",
-            "ext": ".jpg",
-            "mime": "image/jpeg",
-            "path": null,
-            "width": 500,
-            "height": 281,
-            "size": 13.37,
-            "sizeInBytes": 13372,
-            "url": "/uploads/small_news1_1b1d627477.jpg"
-          },
-          "medium": {
-            "name": "medium_news1.jpg",
-            "hash": "medium_news1_1b1d627477",
-            "ext": ".jpg",
-            "mime": "image/jpeg",
-            "path": null,
-            "width": 750,
-            "height": 422,
-            "size": 22.24,
-            "sizeInBytes": 22240,
-            "url": "/uploads/medium_news1_1b1d627477.jpg"
-          }
-        },
-        "hash": "news1_1b1d627477",
-        "ext": ".jpg",
-        "mime": "image/jpeg",
-        "size": 62.11,
-        "url": "/uploads/news1_1b1d627477.jpg",
-        "previewUrl": null,
-        "provider": "local",
-        "provider_metadata": null,
-        "createdAt": "2025-07-11T08:50:17.442Z",
-        "updatedAt": "2025-07-11T08:50:17.442Z",
-        "publishedAt": "2025-07-11T08:50:17.442Z"
-      },
-      "tags": [
-        {
-          "id": 65,
-          "tag": "Digital Commerce"
-        },
-        {
-          "id": 66,
-          "tag": "Finance"
-        }
-      ],
-      "landing_page": {
-        "id": 12,
-        "documentId": "oqa7198bt1uxwd6aoec07a1v",
-        "createdAt": "2025-07-18T10:54:04.646Z",
-        "updatedAt": "2025-07-20T21:06:49.576Z",
-        "publishedAt": "2025-07-20T21:06:49.656Z"
-      },
-      "news_blogs_page": {
-        "id": 2,
-        "documentId": "nu3k1p1j3fb17ruz02w0drg0",
-        "createdAt": "2025-07-21T11:28:13.677Z",
-        "updatedAt": "2025-07-21T11:28:13.677Z",
-        "publishedAt": "2025-07-21T11:28:13.713Z"
-      }
-    },
-    {
-      "id": 33,
-      "documentId": "qfv4x7z7o6pfuq5rwe484fee",
-      "title": "Real Impact with Solid Tech",
-      "slug": "real-impact-with-solid-tech",
-      "type": "event",
-      "author": "John Smith",
-      "date": "2025-07-19",
-      "content": "### What’s new with Android 15?  Android 15 introduces enhanced privacy controls, new APIs for better performance and user experience, and advanced camera features like Low Light Boost. It also deprecates older technologies like WebSQL, making way for more modern solutions like IndexedDB.  ### Is Android 15 released?  Various developer previews and beta versions of Android 15 have been released so far. The final launch is expected to occur sometime in the fall of 2024.  ### How does Android 15 address app compatibility and backward compatibility issues?  Android 15 includes several measures to ensure app compatibility and backward compatibility, such as detailed documentation on behavior changes and new features.  Google also provides tools like the Android Compatibility Test Suite (CTS) to help developers test their apps against the latest Android version.  This ensures that apps remain functional and performant on the new platform while still supporting older versions where necessary.  ### What are the benefits of the improved camera APIs in Android 15 for app developers?  The improved camera APIs in Android 15 provide developers with greater control over camera hardware, allowing for features like real-time effects, improved HDR processing, and better integration with machine learning algorithms.  These capabilities enable developers to create more sophisticated camera experiences, such as advanced photo and video editing features or augmented reality applications.  ### How does Android 15 improve app performance on older devices?  Android 15 includes several optimizations aimed at enhancing app performance on older devices.  These improvements include more efficient memory management and optimized rendering pipelines, which help apps run more smoothly even on hardware with limited resources.  Developers can leverage these optimizations to ensure their apps provide a consistent experience across a wide range of devices.  ---  ### References  - [https://android-developers.googleblog.com/2024/02/first-developer-preview-android15.html](https://android-developers.googleblog.com/2024/02/first-developer-preview-android15.html)   - [https://developer.android.com/about/versions/15/features](https://developer.android.com/about/versions/15/features)   - [https://android-developers.googleblog.com](https://android-developers.googleblog.com)   - [https://developer.android.com](https://developer.android.com)  ",
-      "createdAt": "2025-07-11T08:42:46.052Z",
-      "updatedAt": "2025-07-13T22:20:22.325Z",
-      "publishedAt": "2025-07-13T22:20:22.348Z",
-      "description": "Is Android 15 released?  Various developer previews and beta versions of Android 15 have been released so far. The final launch is ",
-      "readminutes": null,
-      "image": {
-        "id": 156,
-        "documentId": "t57pbuvdfho6u9bn7i6fhuzf",
-        "name": "news2.jpg",
-        "alternativeText": null,
-        "caption": null,
-        "width": 2048,
-        "height": 1152,
-        "formats": {
-          "thumbnail": {
-            "name": "thumbnail_news2.jpg",
-            "hash": "thumbnail_news2_3c6c533a21",
-            "ext": ".jpg",
-            "mime": "image/jpeg",
-            "path": null,
-            "width": 245,
-            "height": 138,
-            "size": 4.44,
-            "sizeInBytes": 4438,
-            "url": "/uploads/thumbnail_news2_3c6c533a21.jpg"
-          },
-          "large": {
-            "name": "large_news2.jpg",
-            "hash": "large_news2_3c6c533a21",
-            "ext": ".jpg",
-            "mime": "image/jpeg",
-            "path": null,
-            "width": 1000,
-            "height": 562,
-            "size": 19.55,
-            "sizeInBytes": 19550,
-            "url": "/uploads/large_news2_3c6c533a21.jpg"
-          },
-          "small": {
-            "name": "small_news2.jpg",
-            "hash": "small_news2_3c6c533a21",
-            "ext": ".jpg",
-            "mime": "image/jpeg",
-            "path": null,
-            "width": 500,
-            "height": 281,
-            "size": 9.69,
-            "sizeInBytes": 9690,
-            "url": "/uploads/small_news2_3c6c533a21.jpg"
-          },
-          "medium": {
-            "name": "medium_news2.jpg",
-            "hash": "medium_news2_3c6c533a21",
-            "ext": ".jpg",
-            "mime": "image/jpeg",
-            "path": null,
-            "width": 750,
-            "height": 422,
-            "size": 15.01,
-            "sizeInBytes": 15012,
-            "url": "/uploads/medium_news2_3c6c533a21.jpg"
-          }
-        },
-        "hash": "news2_3c6c533a21",
-        "ext": ".jpg",
-        "mime": "image/jpeg",
-        "size": 40.64,
-        "url": "/uploads/news2_3c6c533a21.jpg",
-        "previewUrl": null,
-        "provider": "local",
-        "provider_metadata": null,
-        "createdAt": "2025-07-10T08:31:48.164Z",
-        "updatedAt": "2025-07-10T08:31:48.164Z",
-        "publishedAt": "2025-07-10T08:31:48.164Z"
-      },
-      "tags": [
-        {
-          "id": 67,
-          "tag": "BLOCKCHAIN"
-        },
-        {
-          "id": 68,
-          "tag": "ML"
-        }
-      ],
-      "landing_page": {
-        "id": 12,
-        "documentId": "oqa7198bt1uxwd6aoec07a1v",
-        "createdAt": "2025-07-18T10:54:04.646Z",
-        "updatedAt": "2025-07-20T21:06:49.576Z",
-        "publishedAt": "2025-07-20T21:06:49.656Z"
-      },
-      "news_blogs_page": {
-        "id": 2,
-        "documentId": "nu3k1p1j3fb17ruz02w0drg0",
-        "createdAt": "2025-07-21T11:28:13.677Z",
-        "updatedAt": "2025-07-21T11:28:13.677Z",
-        "publishedAt": "2025-07-21T11:28:13.713Z"
-      }
-    },
-    {
       "id": 36,
       "documentId": "expnrtf2v1e9su6ymbk1uxyg",
       "title": "This new IDE from Google is an absolute game changer",
@@ -320,11 +102,11 @@
         "publishedAt": "2025-07-20T21:06:49.656Z"
       },
       "news_blogs_page": {
-        "id": 2,
+        "id": 3,
         "documentId": "nu3k1p1j3fb17ruz02w0drg0",
         "createdAt": "2025-07-21T11:28:13.677Z",
-        "updatedAt": "2025-07-21T11:28:13.677Z",
-        "publishedAt": "2025-07-21T11:28:13.713Z"
+        "updatedAt": "2025-07-24T08:18:36.208Z",
+        "publishedAt": "2025-07-24T08:18:36.284Z"
       }
     },
     {
@@ -429,11 +211,11 @@
         "publishedAt": "2025-07-20T21:06:49.656Z"
       },
       "news_blogs_page": {
-        "id": 2,
+        "id": 3,
         "documentId": "nu3k1p1j3fb17ruz02w0drg0",
         "createdAt": "2025-07-21T11:28:13.677Z",
-        "updatedAt": "2025-07-21T11:28:13.677Z",
-        "publishedAt": "2025-07-21T11:28:13.713Z"
+        "updatedAt": "2025-07-24T08:18:36.208Z",
+        "publishedAt": "2025-07-24T08:18:36.284Z"
       }
     },
     {
@@ -489,11 +271,11 @@
         "publishedAt": "2025-07-20T21:06:49.656Z"
       },
       "news_blogs_page": {
-        "id": 2,
+        "id": 3,
         "documentId": "nu3k1p1j3fb17ruz02w0drg0",
         "createdAt": "2025-07-21T11:28:13.677Z",
-        "updatedAt": "2025-07-21T11:28:13.677Z",
-        "publishedAt": "2025-07-21T11:28:13.713Z"
+        "updatedAt": "2025-07-24T08:18:36.208Z",
+        "publishedAt": "2025-07-24T08:18:36.284Z"
       }
     },
     {
@@ -594,100 +376,230 @@
         "publishedAt": "2025-07-20T21:06:49.656Z"
       },
       "news_blogs_page": {
-        "id": 2,
+        "id": 3,
         "documentId": "nu3k1p1j3fb17ruz02w0drg0",
         "createdAt": "2025-07-21T11:28:13.677Z",
-        "updatedAt": "2025-07-21T11:28:13.677Z",
-        "publishedAt": "2025-07-21T11:28:13.713Z"
+        "updatedAt": "2025-07-24T08:18:36.208Z",
+        "publishedAt": "2025-07-24T08:18:36.284Z"
       }
     },
     {
-      "id": 48,
-      "documentId": "xrpxr2zyuksbnp7m8175fs8t",
-      "title": "AI in Travel Industry-Use Cases, Example & Benefits",
-      "slug": "ai-in-travel-industry-use-cases-example-and-benefits-1",
-      "type": null,
-      "author": null,
-      "date": "2025-07-23",
-      "content": null,
-      "createdAt": "2025-07-24T08:11:54.643Z",
-      "updatedAt": "2025-07-24T08:11:54.643Z",
-      "publishedAt": "2025-07-24T08:11:54.683Z",
-      "description": "We love reading, researching, and writing a lot of stuff about technology, current trends, and other technology-related things. Explore our writings where we have shared our technological insights.",
-      "readminutes": 5,
+      "id": 49,
+      "documentId": "qfv4x7z7o6pfuq5rwe484fee",
+      "title": "Real Impact with Solid Tech",
+      "slug": "real-impact-with-solid-tech",
+      "type": "event",
+      "author": "John Smith",
+      "date": "2025-07-19",
+      "content": "## 🧪 Project Overview\n\n![quattro research logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_placeholder_image.png/600px-Logo_placeholder_image.png)\n\nFounded in **2004**, **quattro research** develops intuitive software that empowers digital scientific workflows. Their **Laboratory Information Management Systems (LIMS)** — such as **quattro/CM**, **quattro/LJ**, and **quattro/BR** — manage and analyze complex chemical and biological data.\n\n---\n\n![Team Collaboration](https://images.unsplash.com/photo-1632179002215-f5c8d5dcf35b)\n\nTo scale quickly and meet growing client demand, quattro research partnered with **unicrew** to strengthen their engineering team with skilled developers who could integrate seamlessly and boost project velocity.\n\n---\n\n## 🚧 Key Challenges\n\n![Challenges](https://images.unsplash.com/photo-1573164713347-df1e1f69a3f2)\n\n- **Scalability Requirements** – Needed to scale fast without lowering code quality.\n- **Complex UI Needs** – Required a responsive UI for large molecular datasets.\n- **Scientific Data Presentation** – Flexible visualization in dynamic grids and forms.\n- **Modern Security Protocols** – Needed secure access management (OAuth, JWT).\n- **High-Performance Rendering** – For complex molecule structure visualization.\n\n---\n\n## ✅ Solution\n\n### 🔹 React-Based UI\n\n![React UI](https://images.unsplash.com/photo-1581091012184-5c2bca6f3bb6)\n\nDesigned and implemented a performant, intuitive React frontend for handling complex molecule data structures.\n\n---\n\n### 🔹 Configurable Data Framework\n\n![Grid System](https://images.unsplash.com/photo-1645051915681-183d5f30ef0a)\n\nDeveloped a flexible framework allowing scientists to customize data views using dynamic **grids** and **forms**.\n\n---\n\n### 🔹 Secure Authentication\n\n![Security](https://miro.medium.com/v2/resize:fit:720/format:webp/0*PRZcNPDVe2z5n7kO)\n\nIntegrated **OAuth** and **JWT** for robust and modern authentication & authorization standards.\n\n---\n\n### 🔹 Molecule Visualization\n\n![Molecule Viewer](https://miro.medium.com/v2/resize:fit:720/format:webp/0*PRZcNPDVe2z5n7kO)\n\nDelivered advanced visualization tools for rendering large and complex molecule structures efficiently.\n\n---\n\n## 👥 Collaboration Snapshot\n\n![Unicrew Team](https://images.unsplash.com/photo-1581091870622-df42a3f9808b)\n\n**unicrew** assembled a full-stack development team with expertise in:\n- `.NET`, `Java`, `PHP`, `Laravel`\n- `JavaScript`, `React`, `Vue`\n\nThey worked in **agile sprints** alongside quattro research’s internal team to maintain alignment, speed, and flexibility.\n\n---\n\n## 🎯 Results\n\n![Success](https://images.unsplash.com/photo-1581093588401-99a6f43db2a9)\n\n- **⚡ Faster Development** – Accelerated product delivery timelines.\n- **🎨 Better Usability** – UI tailored for scientific users.\n- **🔐 Improved Security** – OAuth and JWT integration.\n- **🔬 Enhanced Visualization** – Clarity in molecule data exploration.\n- **🤝 Ongoing Partnership** – Sustained collaboration with quattro research.\n\n---\n\n> _\"unicrew's developers integrated seamlessly with our team, demonstrating professionalism and a deep understanding of our needs. Their contributions have been invaluable.\"_  \n> — **Dr. Bernhard Schirm**, Managing Director\n\n[🔗 View Full Review](https://example.com/review)\n\n---\n\n## 🛠 Related Services\n\n- ✅ Dedicated Software Development Teams  \n- ✅ White Label Web Development  \n- ✅ Legacy Software Modernization\n",
+      "createdAt": "2025-07-11T08:42:46.052Z",
+      "updatedAt": "2025-07-24T17:35:28.065Z",
+      "publishedAt": "2025-07-24T17:35:28.117Z",
+      "description": "Is Android 15 released?  Various developer previews and beta versions of Android 15 have been released so far. The final launch is ",
+      "readminutes": null,
       "image": {
-        "id": 174,
-        "documentId": "djnorelq8w7r0cozhs9shxre",
-        "name": "team-government-spies-meeting-cia-headquarters-monitor-surveillance.jpg",
+        "id": 156,
+        "documentId": "t57pbuvdfho6u9bn7i6fhuzf",
+        "name": "news2.jpg",
         "alternativeText": null,
         "caption": null,
-        "width": 6912,
-        "height": 3888,
+        "width": 2048,
+        "height": 1152,
         "formats": {
           "thumbnail": {
-            "name": "thumbnail_team-government-spies-meeting-cia-headquarters-monitor-surveillance.jpg",
-            "hash": "thumbnail_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78",
+            "name": "thumbnail_news2.jpg",
+            "hash": "thumbnail_news2_3c6c533a21",
             "ext": ".jpg",
             "mime": "image/jpeg",
             "path": null,
             "width": 245,
             "height": 138,
-            "size": 5.6,
-            "sizeInBytes": 5602,
-            "url": "/uploads/thumbnail_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78.jpg"
+            "size": 4.44,
+            "sizeInBytes": 4438,
+            "url": "/uploads/thumbnail_news2_3c6c533a21.jpg"
           },
           "large": {
-            "name": "large_team-government-spies-meeting-cia-headquarters-monitor-surveillance.jpg",
-            "hash": "large_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78",
+            "name": "large_news2.jpg",
+            "hash": "large_news2_3c6c533a21",
             "ext": ".jpg",
             "mime": "image/jpeg",
             "path": null,
             "width": 1000,
-            "height": 563,
-            "size": 42.7,
-            "sizeInBytes": 42702,
-            "url": "/uploads/large_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78.jpg"
-          },
-          "medium": {
-            "name": "medium_team-government-spies-meeting-cia-headquarters-monitor-surveillance.jpg",
-            "hash": "medium_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78",
-            "ext": ".jpg",
-            "mime": "image/jpeg",
-            "path": null,
-            "width": 750,
-            "height": 422,
-            "size": 27.4,
-            "sizeInBytes": 27396,
-            "url": "/uploads/medium_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78.jpg"
+            "height": 562,
+            "size": 19.55,
+            "sizeInBytes": 19550,
+            "url": "/uploads/large_news2_3c6c533a21.jpg"
           },
           "small": {
-            "name": "small_team-government-spies-meeting-cia-headquarters-monitor-surveillance.jpg",
-            "hash": "small_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78",
+            "name": "small_news2.jpg",
+            "hash": "small_news2_3c6c533a21",
             "ext": ".jpg",
             "mime": "image/jpeg",
             "path": null,
             "width": 500,
             "height": 281,
-            "size": 15.35,
-            "sizeInBytes": 15349,
-            "url": "/uploads/small_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78.jpg"
+            "size": 9.69,
+            "sizeInBytes": 9690,
+            "url": "/uploads/small_news2_3c6c533a21.jpg"
+          },
+          "medium": {
+            "name": "medium_news2.jpg",
+            "hash": "medium_news2_3c6c533a21",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 750,
+            "height": 422,
+            "size": 15.01,
+            "sizeInBytes": 15012,
+            "url": "/uploads/medium_news2_3c6c533a21.jpg"
           }
         },
-        "hash": "team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78",
+        "hash": "news2_3c6c533a21",
         "ext": ".jpg",
         "mime": "image/jpeg",
-        "size": 742.48,
-        "url": "/uploads/team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78.jpg",
+        "size": 40.64,
+        "url": "/uploads/news2_3c6c533a21.jpg",
         "previewUrl": null,
         "provider": "local",
         "provider_metadata": null,
-        "createdAt": "2025-07-23T09:00:23.121Z",
-        "updatedAt": "2025-07-23T09:00:23.121Z",
-        "publishedAt": "2025-07-23T09:00:23.121Z"
+        "createdAt": "2025-07-10T08:31:48.164Z",
+        "updatedAt": "2025-07-10T08:31:48.164Z",
+        "publishedAt": "2025-07-10T08:31:48.164Z"
       },
-      "tags": [],
-      "landing_page": null,
-      "news_blogs_page": null
+      "tags": [
+        {
+          "id": 95,
+          "tag": "BLOCKCHAIN"
+        },
+        {
+          "id": 96,
+          "tag": "ML"
+        }
+      ],
+      "landing_page": {
+        "id": 12,
+        "documentId": "oqa7198bt1uxwd6aoec07a1v",
+        "createdAt": "2025-07-18T10:54:04.646Z",
+        "updatedAt": "2025-07-20T21:06:49.576Z",
+        "publishedAt": "2025-07-20T21:06:49.656Z"
+      },
+      "news_blogs_page": {
+        "id": 3,
+        "documentId": "nu3k1p1j3fb17ruz02w0drg0",
+        "createdAt": "2025-07-21T11:28:13.677Z",
+        "updatedAt": "2025-07-24T08:18:36.208Z",
+        "publishedAt": "2025-07-24T08:18:36.284Z"
+      }
+    },
+    {
+      "id": 50,
+      "documentId": "qklq8c1chcw52u906ni12062",
+      "title": "How Leading Brands Succeed with Digital Commerce?",
+      "slug": "how-leading-brands-succeed-with-digital-commerce",
+      "type": "event",
+      "author": "John Smith",
+      "date": "2025-07-11",
+      "content": "## 🧪 Project Overview\n\n![quattro research logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_placeholder_image.png/600px-Logo_placeholder_image.png)\n\nFounded in **2004**, **quattro research** develops intuitive software that empowers digital scientific workflows. Their **Laboratory Information Management Systems (LIMS)** — such as **quattro/CM**, **quattro/LJ**, and **quattro/BR** — manage and analyze complex chemical and biological data.\n\n---\n\n![Team Collaboration](https://images.unsplash.com/photo-1632179002215-f5c8d5dcf35b)\n\nTo scale quickly and meet growing client demand, quattro research partnered with **unicrew** to strengthen their engineering team with skilled developers who could integrate seamlessly and boost project velocity.\n\n---\n\n## 🚧 Key Challenges\n\n![Challenges](https://images.unsplash.com/photo-1573164713347-df1e1f69a3f2)\n\n- **Scalability Requirements** – Needed to scale fast without lowering code quality.\n- **Complex UI Needs** – Required a responsive UI for large molecular datasets.\n- **Scientific Data Presentation** – Flexible visualization in dynamic grids and forms.\n- **Modern Security Protocols** – Needed secure access management (OAuth, JWT).\n- **High-Performance Rendering** – For complex molecule structure visualization.\n\n---\n\n## ✅ Solution\n\n### 🔹 React-Based UI\n\n![React UI](https://images.unsplash.com/photo-1581091012184-5c2bca6f3bb6)\n\nDesigned and implemented a performant, intuitive React frontend for handling complex molecule data structures.\n\n---\n\n### 🔹 Configurable Data Framework\n\n![Grid System](https://images.unsplash.com/photo-1645051915681-183d5f30ef0a)\n\nDeveloped a flexible framework allowing scientists to customize data views using dynamic **grids** and **forms**.\n\n---\n\n### 🔹 Secure Authentication\n\n![Security](https://miro.medium.com/v2/resize:fit:720/format:webp/0*PRZcNPDVe2z5n7kO)\n\nIntegrated **OAuth** and **JWT** for robust and modern authentication & authorization standards.\n\n---\n\n### 🔹 Molecule Visualization\n\n![Molecule Viewer](https://miro.medium.com/v2/resize:fit:720/format:webp/0*PRZcNPDVe2z5n7kO)\n\nDelivered advanced visualization tools for rendering large and complex molecule structures efficiently.\n\n---\n\n## 👥 Collaboration Snapshot\n\n![Unicrew Team](https://images.unsplash.com/photo-1581091870622-df42a3f9808b)\n\n**unicrew** assembled a full-stack development team with expertise in:\n- `.NET`, `Java`, `PHP`, `Laravel`\n- `JavaScript`, `React`, `Vue`\n\nThey worked in **agile sprints** alongside quattro research’s internal team to maintain alignment, speed, and flexibility.\n\n---\n\n## 🎯 Results\n\n![Success](https://images.unsplash.com/photo-1581093588401-99a6f43db2a9)\n\n- **⚡ Faster Development** – Accelerated product delivery timelines.\n- **🎨 Better Usability** – UI tailored for scientific users.\n- **🔐 Improved Security** – OAuth and JWT integration.\n- **🔬 Enhanced Visualization** – Clarity in molecule data exploration.\n- **🤝 Ongoing Partnership** – Sustained collaboration with quattro research.\n\n---\n\n> _\"unicrew's developers integrated seamlessly with our team, demonstrating professionalism and a deep understanding of our needs. Their contributions have been invaluable.\"_  \n> — **Dr. Bernhard Schirm**, Managing Director\n\n[🔗 View Full Review](https://example.com/review)\n\n---\n\n## 🛠 Related Services\n\n- ✅ Dedicated Software Development Teams  \n- ✅ White Label Web Development  \n- ✅ Legacy Software Modernization\n",
+      "createdAt": "2025-07-11T08:49:59.152Z",
+      "updatedAt": "2025-07-24T17:35:52.667Z",
+      "publishedAt": "2025-07-24T17:35:52.713Z",
+      "description": "nd advanced camera features like Low Light Boost. It also deprecates older technologies like WebSQL, making way for more modern solutions like IndexedDB.  ### Is Android 15 released?  V",
+      "readminutes": null,
+      "image": {
+        "id": 165,
+        "documentId": "mmsrlvc1cz99dahztth807tp",
+        "name": "news1.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2048,
+        "height": 1152,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_news1.jpg",
+            "hash": "thumbnail_news1_1b1d627477",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 245,
+            "height": 138,
+            "size": 5.35,
+            "sizeInBytes": 5350,
+            "url": "/uploads/thumbnail_news1_1b1d627477.jpg"
+          },
+          "large": {
+            "name": "large_news1.jpg",
+            "hash": "large_news1_1b1d627477",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 1000,
+            "height": 562,
+            "size": 29.77,
+            "sizeInBytes": 29774,
+            "url": "/uploads/large_news1_1b1d627477.jpg"
+          },
+          "small": {
+            "name": "small_news1.jpg",
+            "hash": "small_news1_1b1d627477",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 500,
+            "height": 281,
+            "size": 13.37,
+            "sizeInBytes": 13372,
+            "url": "/uploads/small_news1_1b1d627477.jpg"
+          },
+          "medium": {
+            "name": "medium_news1.jpg",
+            "hash": "medium_news1_1b1d627477",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "path": null,
+            "width": 750,
+            "height": 422,
+            "size": 22.24,
+            "sizeInBytes": 22240,
+            "url": "/uploads/medium_news1_1b1d627477.jpg"
+          }
+        },
+        "hash": "news1_1b1d627477",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 62.11,
+        "url": "/uploads/news1_1b1d627477.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-07-11T08:50:17.442Z",
+        "updatedAt": "2025-07-11T08:50:17.442Z",
+        "publishedAt": "2025-07-11T08:50:17.442Z"
+      },
+      "tags": [
+        {
+          "id": 97,
+          "tag": "Digital Commerce"
+        },
+        {
+          "id": 98,
+          "tag": "Finance"
+        }
+      ],
+      "landing_page": {
+        "id": 12,
+        "documentId": "oqa7198bt1uxwd6aoec07a1v",
+        "createdAt": "2025-07-18T10:54:04.646Z",
+        "updatedAt": "2025-07-20T21:06:49.576Z",
+        "publishedAt": "2025-07-20T21:06:49.656Z"
+      },
+      "news_blogs_page": {
+        "id": 3,
+        "documentId": "nu3k1p1j3fb17ruz02w0drg0",
+        "createdAt": "2025-07-21T11:28:13.677Z",
+        "updatedAt": "2025-07-24T08:18:36.208Z",
+        "publishedAt": "2025-07-24T08:18:36.284Z"
+      }
     }
   ],
   "meta": {
@@ -695,7 +607,7 @@
       "page": 1,
       "pageSize": 25,
       "pageCount": 1,
-      "total": 7
+      "total": 6
     }
   }
 }

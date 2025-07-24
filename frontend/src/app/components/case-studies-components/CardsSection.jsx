@@ -1,6 +1,7 @@
 "use client";
 import React, { useEffect, useState } from "react";
 import CaseStudyCard from "./CaseStudyCard";
+import { ArrowRight } from "lucide-react";
 
 const CardsSection = ({ cards }) => {
   const [showAll, setShowAll] = useState(false);
@@ -35,15 +36,11 @@ const CardsSection = ({ cards }) => {
   return (
     <div className="h-auto py-[5%] bg-gray-100" id="industries">
       <div className="component-width mx-auto">
-        <div className="mt-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 max-lg:px-5 gap-6 items-stretch">
+        <div className="mt-10 grid grid-cols-1 md:grid-cols-2  max-lg:px-5 gap-6 items-stretch">
           {caseStudiesToDisplay.map((item) => (
-            <div 
+            <div
               key={item.slug}
-              className={
-                item.order === 1 
-                  ? "md:col-span-2 lg:col-span-3 h-auto" 
-                  : "h-full"
-              }
+              className={item.order === 1 ? "md:col-span-2  h-auto" : "h-full"}
             >
               <CaseStudyCard
                 isFeatured={item.order === 1}
@@ -51,7 +48,7 @@ const CardsSection = ({ cards }) => {
                 title={item.title}
                 category={item.category}
                 desc={item.description}
-                CardButton={item.CardButton} 
+                CardButton={item.CardButton}
                 slug={item.slug}
               />
             </div>
@@ -61,10 +58,12 @@ const CardsSection = ({ cards }) => {
           <div className="text-center mt-8">
             <button
               onClick={() => setShowAll(true)}
-              className="px-6 py-3 bg-primaryColor text-white rounded-md hover:bg-opacity-90 transition"
+              className="inline-flex items-center px-8 py-3 text-textColor hover:text-secondaryColor text-lg font-medium rounded-lg transition-colors duration-300 group"
             >
-              View All Case Studies
+              <span>View All </span>
+              <ArrowRight className="w-5 h-5 ml-2 transform group-hover:translate-x-1 transition-transform duration-300" />
             </button>
+            
           </div>
         )}
       </div>

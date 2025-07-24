@@ -92,67 +92,6 @@
       },
       "case_study_cards": [
         {
-          "id": 129,
-          "documentId": "wv30rvbucw80k8usnis1z220",
-          "title": "Accounting Software Integration & Automation for a Financial Advisory Company",
-          "description": "The new system has demonstrated impeccable performance during testing by managing large transactions and growing user accounts.",
-          "createdAt": "2025-07-04T13:07:02.619Z",
-          "updatedAt": "2025-07-16T08:26:16.116Z",
-          "publishedAt": "2025-07-16T08:26:16.130Z",
-          "slug": "accounting-software-integration-and-automation-for-a-financial-advisory-company-1",
-          "region": "UK",
-          "technologies": "NLP MySQL ASP.NET C#",
-          "caseStudyStatus": "Ongoing",
-          "aboutClient": "Financial Advisory Company",
-          "order": 2,
-          "showOnTop": false,
-          "category": "Fintech",
-          "content": "## 🧪 Project Overview\n\nEstablished in **2004**, **quattro research** specializes in developing intuitive software solutions that support the digitalization of scientific workflows. Their LIMS, including **quattro/CM**, **quattro/LJ**, and **quattro/BR**, are designed to manage and analyze chemical and biological data effectively.\n\nFacing increased demand for their solutions, quattro research needed to scale their development team rapidly without compromising on quality. They turned to **unicrew** to augment their in-house team with skilled developers who could seamlessly integrate and contribute to ongoing projects.\n\n---\n\n## 🚧 Challenge\n\n- **Scalability Needs**: quattro research required additional development resources to accelerate product delivery timelines and support the expansion of functionality in innovative Laboratory Information Management Systems.\n- **User Interface Complexity**: Implementing a robust and responsive UI capable of managing large chemical molecule data sets in a user-friendly way.\n- **Scientific Data Presentation**: Developing a flexible framework to display complex scientific information in customizable grids and forms.\n- **Security Infrastructure**: Ensuring secure access management with modern authentication protocols.\n- **Visualization Capabilities**: Delivering high-performance visualization for large molecule structures.\n\n---\n\n## ✅ Solution\n\n### 01. React-Based UI\n\nImplemented a scalable, user-centric React interface to manage extensive chemical molecule data.\n\n### 02. Configurable Framework\n\nBuilt a dynamic Laboratory Information Management System to display scientific information through customizable grids and forms.\n\n### 03. Secure Authentication\n\nIntegrated OAuth and JWT-based authentication and authorization mechanisms for LIMS robust security.\n\n### 04. Molecule Visualization Services\n\nDelivered advanced visualization tools enabling clear, performant rendering of large molecule structures.\n\n---\n\n## 👨‍💻 Development Approach\n\nunicrew assembled a **cross-functional team** of seasoned developers with deep expertise in:\n\n- `.NET`, `Java`, `PHP`, `Laravel`\n- `JavaScript`, `React`, `Vue`\n\nThe team worked in close collaboration with quattro research’s internal engineers, following **agile best practices** to ensure alignment and consistent delivery.\n\n---\n\n## 🧩 Key Aspects of the LIMS Solution\n\n### 🔹 React-Based UI\n\nunicrew designed and implemented a modern, highly responsive React-based user interface. The UI was engineered specifically to handle the complexity and scale of large chemical molecule data, ensuring optimal performance and an intuitive user experience.\n\n### 🔹 Configurable Scientific Data Framework\n\nunicrew built a **flexible and extensible framework** for displaying scientific information. The system allowed users to configure how data is presented through **dynamic grids and forms**, enabling precise control over data visualization and interaction.\n\n### 🔹 Advanced Authentication and Authorization\n\nSecurity was a top priority. unicrew implemented robust mechanisms using **OAuth** and **JWT** to ensure secure user access and modern identity management compatibility.\n\n### 🔹 Molecule Visualization Services\n\nDeveloped **high-performance visualization tools** to efficiently render and manipulate large molecule structures. This empowered users to visually explore complex chemical data and enhance decision-making.\n\n---\n\n> \"**unicrew's developers integrated seamlessly with our team, demonstrating professionalism and a deep understanding of our needs. Their contributions have been invaluable in accelerating our development processes.**\"  \n> — **Dr. Bernhard Schirm**, Managing Director\n\n[Check full review](#)\n\n---\n\n## 🧰 Related Services\n\n- Dedicated Software Development Team  \n- White Label Web Development  \n- Legacy Software Modernization  \n\n---\n\n## 🏁 Result\n\n- **Increased Development Velocity**: Faster delivery of LIMS key features with unicrew’s integration.\n- **Enhanced Usability**: A modern React-based UI for easier interaction with molecular data.\n- **Scientific Insight Optimization**: Configurable grids/forms allowed precise data manipulation.\n- **Improved Security and Access Control**: OAuth and JWT strengthened authentication infrastructure.\n- **Superior Visualization**: Enhanced clarity for users handling complex molecular structures.\n- **Sustained Collaboration**: A strong ongoing partnership enabling quattro research to evolve confidently.\n",
-          "image": {
-            "id": 153,
-            "documentId": "eeprggfmr7dernyw4bvl8to4",
-            "url": "/uploads/energy_and_utility_338ae605a6_25157c4cd3.jpg",
-            "formats": {
-              "thumbnail": {
-                "name": "thumbnail_energy_and_utility_338ae605a6.jpg",
-                "hash": "thumbnail_energy_and_utility_338ae605a6_25157c4cd3",
-                "ext": ".jpg",
-                "mime": "image/jpeg",
-                "path": null,
-                "width": 245,
-                "height": 138,
-                "size": 7.76,
-                "sizeInBytes": 7761,
-                "url": "/uploads/thumbnail_energy_and_utility_338ae605a6_25157c4cd3.jpg"
-              },
-              "small": {
-                "name": "small_energy_and_utility_338ae605a6.jpg",
-                "hash": "small_energy_and_utility_338ae605a6_25157c4cd3",
-                "ext": ".jpg",
-                "mime": "image/jpeg",
-                "path": null,
-                "width": 500,
-                "height": 281,
-                "size": 22.2,
-                "sizeInBytes": 22199,
-                "url": "/uploads/small_energy_and_utility_338ae605a6_25157c4cd3.jpg"
-              },
-              "medium": {
-                "name": "medium_energy_and_utility_338ae605a6.jpg",
-                "hash": "medium_energy_and_utility_338ae605a6_25157c4cd3",
-                "ext": ".jpg",
-                "mime": "image/jpeg",
-                "path": null,
-                "width": 750,
-                "height": 422,
-                "size": 39.59,
-                "sizeInBytes": 39585,
-                "url": "/uploads/medium_energy_and_utility_338ae605a6_25157c4cd3.jpg"
-              }
-            }
-          }
-        },
-        {
           "id": 119,
           "documentId": "tvrwhikn9qq81rgvjvsill8c",
           "title": "Cloud Migration of Booking Platform for Hotels and Hotel Networks",
@@ -416,6 +355,79 @@
                 "size": 21.76,
                 "sizeInBytes": 21756,
                 "url": "/uploads/small_img24_1af3604f78.jpg"
+              }
+            }
+          }
+        },
+        {
+          "id": 138,
+          "documentId": "ycoolxe869ibg7j883yrj9o1",
+          "title": "Booking Platform for Hotels and Hotel Networks",
+          "description": "By leveraging unicrew’s expertise, the client successfully addressed their challenges and achieved their objectives, emerging as a more cost-efficient, reliable, and scalable platform.",
+          "createdAt": "2025-07-24T18:20:09.161Z",
+          "updatedAt": "2025-07-24T18:21:55.600Z",
+          "publishedAt": "2025-07-24T18:21:55.619Z",
+          "slug": "booking-platform-for-hotels-and-hotel-networks",
+          "region": "Pakistan",
+          "technologies": "Reactjs , Nodejs, tailwind Css",
+          "caseStudyStatus": "Ongoing",
+          "aboutClient": "SaaS for hotels",
+          "order": 8,
+          "showOnTop": false,
+          "category": "Automotive",
+          "content": "No content available",
+          "image": {
+            "id": 167,
+            "documentId": "pac87bw2e2yy678ph1h3sowu",
+            "url": "/uploads/custom_software_b37894096e.jpg",
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_custom-software.jpg",
+                "hash": "thumbnail_custom_software_b37894096e",
+                "ext": ".jpg",
+                "mime": "image/png",
+                "path": null,
+                "width": 245,
+                "height": 138,
+                "size": 81.75,
+                "sizeInBytes": 81754,
+                "url": "/uploads/thumbnail_custom_software_b37894096e.jpg"
+              },
+              "small": {
+                "name": "small_custom-software.jpg",
+                "hash": "small_custom_software_b37894096e",
+                "ext": ".jpg",
+                "mime": "image/png",
+                "path": null,
+                "width": 500,
+                "height": 281,
+                "size": 290.44,
+                "sizeInBytes": 290438,
+                "url": "/uploads/small_custom_software_b37894096e.jpg"
+              },
+              "medium": {
+                "name": "medium_custom-software.jpg",
+                "hash": "medium_custom_software_b37894096e",
+                "ext": ".jpg",
+                "mime": "image/png",
+                "path": null,
+                "width": 750,
+                "height": 422,
+                "size": 617.24,
+                "sizeInBytes": 617235,
+                "url": "/uploads/medium_custom_software_b37894096e.jpg"
+              },
+              "large": {
+                "name": "large_custom-software.jpg",
+                "hash": "large_custom_software_b37894096e",
+                "ext": ".jpg",
+                "mime": "image/png",
+                "path": null,
+                "width": 1000,
+                "height": 563,
+                "size": 1079.41,
+                "sizeInBytes": 1079411,
+                "url": "/uploads/large_custom_software_b37894096e.jpg"
               }
             }
           }
