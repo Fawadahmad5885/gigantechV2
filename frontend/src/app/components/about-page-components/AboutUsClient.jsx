@@ -45,7 +45,7 @@ import CustomButton from "./CustomButton";
         {Button && (
       <CustomButton 
         onClick={() => scrollToSection(Button.url)} 
-        className="bg-primaryColor mx-auto w-fit border-primaryColor text-white"
+        className="text-secondaryColor  border-secondaryColor  hover:bg-secondaryColor hover:text-white transition-all w-fit mx-auto duration-300 flex items-center gap-2 disabled:opacity-50 px-10 py-4 text-[14px] leading-[16px] rounded-md tracking-wider border"
       >
         {Button.title}
       </CustomButton>

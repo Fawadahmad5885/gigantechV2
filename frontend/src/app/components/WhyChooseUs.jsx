@@ -9,11 +9,13 @@ function WhyChooseUs({ aboutData }) {
 
   const router = useRouter();
   return (
-    <div className="h-auto py-[5%]" id="why-choose-us">
+    <div data-aos="fade-up"
+      data-aos-anchor-placement="top-bottom"
+      data-aos-duration="1000" className="h-auto py-[5%]" id="why-choose-us">
       <div className="max-md:px-[20px] ">
         <div className="md:px-[20px]  z-20 text-center">
           {/* Container */}
-          <div className="flex flex-col gap-14 md:flex-row md:max-w-[1020px]  lg:max-w-[1020px] mx-auto ">
+          <div className="flex flex-col gap-14 md:flex-row component-width   mx-auto ">
             {/* Image container */}
             <div className="items-center w-full  overflow-hidden md:flex-1 flex">
               <Image
@@ -36,14 +38,11 @@ function WhyChooseUs({ aboutData }) {
                 {description}
               </p>
               <button
-                className="group py-3 px-6 bg-gray-300 text-primaryColor rounded-md tracking-wider relative overflow-hidden max-sm:bg-primaryColor"
+                className=" text-secondaryColor  border-secondaryColor  hover:bg-secondaryColor hover:text-white transition-all duration-300 flex items-center gap-2 disabled:opacity-50 px-10 py-4 text-[14px] leading-[16px] rounded-md tracking-wider border"
                 onClick={() => router.push("/about-us")}
               >
-                <span className="absolute inset-[-1px] bg-primaryColor transform -translate-x-full group-hover:translate-x-0 transition-transform duration-300 ease-in-out"></span>
-                <span className="relative group-hover:text-white max-sm:text-white text-black flex items-center gap-2 transition-colors duration-300">
+                
                   {"Learn More"}
-                  <LiaLongArrowAltRightSolid className="text-2xl" />
-                </span>
               </button>
             </div>
           </div>

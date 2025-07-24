@@ -75,7 +75,7 @@ function HeroSection({ items }) {
                   {slide.Button && (
                     <CustomButton
                       onClick={() => handleButtonClick(slide.Button.url)}
-                      className="bg-white border-white text-[#262B3F] hover:bg-gray-100 transition-colors"
+                      className=" border  border-white text-white hover:bg-gray-100 hover:text-textColor duration-300   transition-colors"
                     >
                       {slide.Button.title}
                     </CustomButton>

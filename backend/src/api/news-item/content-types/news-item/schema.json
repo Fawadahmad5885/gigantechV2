@@ -47,10 +47,6 @@
     "content": {
       "type": "text"
     },
-    "publishedDate": {
-      "type": "date",
-      "required": true
-    },
     "tags": {
       "type": "component",
       "repeatable": true,

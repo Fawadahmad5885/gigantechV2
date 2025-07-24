@@ -8,23 +8,23 @@
       "publishedAt": "2025-07-20T21:06:49.656Z",
       "hero_sections": [
         {
-          "id": 7,
+          "id": 9,
           "documentId": "s64rwscujt8ud1t5mewldp65",
           "title": "Intelligence Redefined with Artificial Intelligence.",
           "subtitle": "Bringing your ideas to life with cutting-edge AI technology.",
           "order": 2,
           "createdAt": "2025-05-28T11:07:09.798Z",
-          "updatedAt": "2025-07-23T08:59:43.548Z",
-          "publishedAt": "2025-07-23T08:59:43.580Z",
+          "updatedAt": "2025-07-24T07:21:53.745Z",
+          "publishedAt": "2025-07-24T07:21:53.780Z",
           "image": null,
           "video": {
             "id": 173,
             "documentId": "n2c5wd0upwqi264e2slseyx0",
             "url": "/uploads/Blue_Tech_Futuristic_Artificial_Intelligence_Video_688614124f.mp4",
-            "formats": null
+            "formats": {}
           },
           "Button": {
-            "id": 176,
+            "id": 178,
             "title": "Learn More",
             "url": "about-us"
           }
@@ -431,16 +431,16 @@
         ]
       },
       "services_section": {
-        "id": 5,
+        "id": 11,
         "documentId": "mkn5zw5de424v1tvqcmrgaj2",
         "createdAt": "2025-05-28T11:21:56.484Z",
-        "updatedAt": "2025-07-18T14:39:28.828Z",
-        "publishedAt": "2025-07-18T14:39:28.856Z",
+        "updatedAt": "2025-07-24T07:50:23.524Z",
+        "publishedAt": "2025-07-24T07:50:23.553Z",
         "title": "Our Services",
         "description": "We provide a comprehensive range of services to help businesses secure their operations, streamline workflows, drive efficiency and support sustainable growth.",
         "serviceCard": [
           {
-            "id": 88,
+            "id": 124,
             "title": "AI Solutions & Machine Learning Development",
             "subtitle": null,
             "description": "Enhance automation, decision-making, and efficiency with AI-powered, data-driven solutions tailored to your business.",
@@ -448,11 +448,24 @@
               "id": 16,
               "documentId": "wjcwegnua3bpr937gzo7d490",
               "url": "/uploads/ai_solution_5fe4a8f36b.png",
-              "formats": null
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_ai-solution.png",
+                  "hash": "thumbnail_ai_solution_5fe4a8f36b",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 5.77,
+                  "sizeInBytes": 5774,
+                  "url": "/uploads/thumbnail_ai_solution_5fe4a8f36b.png"
+                }
+              }
             }
           },
           {
-            "id": 89,
+            "id": 125,
             "title": "Cloud Engineering, DevOps & Infrastructure",
             "subtitle": null,
             "description": "Streamline operations with scalable cloud solutions, automated deployments, and seamless integration.",
@@ -460,11 +473,24 @@
               "id": 17,
               "documentId": "koumeh9s1zw103vnryrc3rxi",
               "url": "/uploads/cloud_23034475c9.png",
-              "formats": null
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_cloud.png",
+                  "hash": "thumbnail_cloud_23034475c9",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 6.12,
+                  "sizeInBytes": 6118,
+                  "url": "/uploads/thumbnail_cloud_23034475c9.png"
+                }
+              }
             }
           },
           {
-            "id": 90,
+            "id": 126,
             "title": "Embedded Systems & IoT Solutions",
             "subtitle": null,
             "description": "Develop safety-critical, intelligent systems enabling real-time monitoring, automation, and secure connectivity.",
@@ -472,11 +498,24 @@
               "id": 18,
               "documentId": "njsgiu81oq6k4s7evagiz0lf",
               "url": "/uploads/embeded_6fb02d6f88.png",
-              "formats": null
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_embeded.png",
+                  "hash": "thumbnail_embeded_6fb02d6f88",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 8.61,
+                  "sizeInBytes": 8608,
+                  "url": "/uploads/thumbnail_embeded_6fb02d6f88.png"
+                }
+              }
             }
           },
           {
-            "id": 91,
+            "id": 127,
             "title": "Custom Web Application Development",
             "subtitle": null,
             "description": "Build secure, scalable, and high-performance web applications designed for optimal business growth and digital transformation.",
@@ -484,11 +523,24 @@
               "id": 19,
               "documentId": "vxwc1f78mj2icn3djn6pybg0",
               "url": "/uploads/web_development_6335ba26e0.png",
-              "formats": null
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_web-development.png",
+                  "hash": "thumbnail_web_development_6335ba26e0",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 4.74,
+                  "sizeInBytes": 4739,
+                  "url": "/uploads/thumbnail_web_development_6335ba26e0.png"
+                }
+              }
             }
           },
           {
-            "id": 92,
+            "id": 128,
             "title": "Mobile App Development & Optimization",
             "subtitle": null,
             "description": "Deliver fast, user-friendly mobile experiences with custom-built, performance-optimized, and feature-rich applications.",
@@ -496,11 +548,24 @@
               "id": 20,
               "documentId": "lzfjm3dlyxuxa0dod3m9p5e9",
               "url": "/uploads/mobile_app_development_3c396a108f.png",
-              "formats": null
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_mobile-app-development.png",
+                  "hash": "thumbnail_mobile_app_development_3c396a108f",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 3.66,
+                  "sizeInBytes": 3663,
+                  "url": "/uploads/thumbnail_mobile_app_development_3c396a108f.png"
+                }
+              }
             }
           },
           {
-            "id": 93,
+            "id": 129,
             "title": "ISO Certification & Compliance Consulting",
             "subtitle": null,
             "description": "Achieve industry compliance with expert consulting, tailored solutions, and end-to-end regulatory certification support.",
@@ -508,7 +573,20 @@
               "id": 21,
               "documentId": "shhk1v7w5qools9i4154swba",
               "url": "/uploads/iso_ae030407a2.png",
-              "formats": null
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_iso.png",
+                  "hash": "thumbnail_iso_ae030407a2",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 5.72,
+                  "sizeInBytes": 5719,
+                  "url": "/uploads/thumbnail_iso_ae030407a2.png"
+                }
+              }
             }
           }
         ],
@@ -1845,7 +1923,7 @@
         "updatedAt": "2025-07-20T20:37:25.718Z",
         "publishedAt": "2025-07-20T20:37:25.740Z",
         "title": "Let’s Build Your Digital Success Story",
-        "description": "With decades of expertise and hundreds of future-ready solutions delivered globally, SmachStack combines technical mastery and industry insights to turn complex challenges into growth. Partner with a team trusted by enterprises worldwide—where technology meets innovation.",
+        "description": "With decades of expertise and hundreds of future-ready solutions delivered globally, EyraTech combines technical mastery and industry insights to turn complex challenges into growth. Partner with a team trusted by enterprises worldwide—where technology meets innovation.",
         "contactForm": {
           "id": 4,
           "Input": [
@@ -2482,7 +2560,6 @@
           "author": "John Smith",
           "date": "2025-07-11",
           "content": "## 🧪 Project Overview\n\n![quattro research logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_placeholder_image.png/600px-Logo_placeholder_image.png)\n\nFounded in **2004**, **quattro research** develops intuitive software that empowers digital scientific workflows. Their **Laboratory Information Management Systems (LIMS)** — such as **quattro/CM**, **quattro/LJ**, and **quattro/BR** — manage and analyze complex chemical and biological data.\n\n---\n\n![Team Collaboration](https://images.unsplash.com/photo-1632179002215-f5c8d5dcf35b)\n\nTo scale quickly and meet growing client demand, quattro research partnered with **unicrew** to strengthen their engineering team with skilled developers who could integrate seamlessly and boost project velocity.\n\n---\n\n## 🚧 Key Challenges\n\n![Challenges](https://images.unsplash.com/photo-1573164713347-df1e1f69a3f2)\n\n- **Scalability Requirements** – Needed to scale fast without lowering code quality.\n- **Complex UI Needs** – Required a responsive UI for large molecular datasets.\n- **Scientific Data Presentation** – Flexible visualization in dynamic grids and forms.\n- **Modern Security Protocols** – Needed secure access management (OAuth, JWT).\n- **High-Performance Rendering** – For complex molecule structure visualization.\n\n---\n\n## ✅ Solution\n\n### 🔹 React-Based UI\n\n![React UI](https://images.unsplash.com/photo-1581091012184-5c2bca6f3bb6)\n\nDesigned and implemented a performant, intuitive React frontend for handling complex molecule data structures.\n\n---\n\n### 🔹 Configurable Data Framework\n\n![Grid System](https://images.unsplash.com/photo-1645051915681-183d5f30ef0a)\n\nDeveloped a flexible framework allowing scientists to customize data views using dynamic **grids** and **forms**.\n\n---\n\n### 🔹 Secure Authentication\n\n![Security](https://miro.medium.com/v2/resize:fit:720/format:webp/0*PRZcNPDVe2z5n7kO)\n\nIntegrated **OAuth** and **JWT** for robust and modern authentication & authorization standards.\n\n---\n\n### 🔹 Molecule Visualization\n\n![Molecule Viewer](https://miro.medium.com/v2/resize:fit:720/format:webp/0*PRZcNPDVe2z5n7kO)\n\nDelivered advanced visualization tools for rendering large and complex molecule structures efficiently.\n\n---\n\n## 👥 Collaboration Snapshot\n\n![Unicrew Team](https://images.unsplash.com/photo-1581091870622-df42a3f9808b)\n\n**unicrew** assembled a full-stack development team with expertise in:\n- `.NET`, `Java`, `PHP`, `Laravel`\n- `JavaScript`, `React`, `Vue`\n\nThey worked in **agile sprints** alongside quattro research’s internal team to maintain alignment, speed, and flexibility.\n\n---\n\n## 🎯 Results\n\n![Success](https://images.unsplash.com/photo-1581093588401-99a6f43db2a9)\n\n- **⚡ Faster Development** – Accelerated product delivery timelines.\n- **🎨 Better Usability** – UI tailored for scientific users.\n- **🔐 Improved Security** – OAuth and JWT integration.\n- **🔬 Enhanced Visualization** – Clarity in molecule data exploration.\n- **🤝 Ongoing Partnership** – Sustained collaboration with quattro research.\n\n---\n\n> _\"unicrew's developers integrated seamlessly with our team, demonstrating professionalism and a deep understanding of our needs. Their contributions have been invaluable.\"_  \n> — **Dr. Bernhard Schirm**, Managing Director\n\n[🔗 View Full Review](https://example.com/review)\n\n---\n\n## 🛠 Related Services\n\n- ✅ Dedicated Software Development Teams  \n- ✅ White Label Web Development  \n- ✅ Legacy Software Modernization\n",
-          "publishedDate": "2025-07-11",
           "createdAt": "2025-07-11T08:45:50.526Z",
           "updatedAt": "2025-07-16T07:47:59.730Z",
           "publishedAt": "2025-07-16T07:47:59.743Z",
@@ -2553,7 +2630,6 @@
           "author": "John Smith",
           "date": "2025-07-25",
           "content": "## 🧪 Project Overview\n\n![quattro research logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_placeholder_image.png/600px-Logo_placeholder_image.png)\n\nFounded in **2004**, **quattro research** develops intuitive software that empowers digital scientific workflows. Their **Laboratory Information Management Systems (LIMS)** — such as **quattro/CM**, **quattro/LJ**, and **quattro/BR** — manage and analyze complex chemical and biological data.\n\n---\n\n![Team Collaboration](https://images.unsplash.com/photo-1632179002215-f5c8d5dcf35b)\n\nTo scale quickly and meet growing client demand, quattro research partnered with **unicrew** to strengthen their engineering team with skilled developers who could integrate seamlessly and boost project velocity.\n\n---\n\n## 🚧 Key Challenges\n\n![Challenges](https://images.unsplash.com/photo-1573164713347-df1e1f69a3f2)\n\n- **Scalability Requirements** – Needed to scale fast without lowering code quality.\n- **Complex UI Needs** – Required a responsive UI for large molecular datasets.\n- **Scientific Data Presentation** – Flexible visualization in dynamic grids and forms.\n- **Modern Security Protocols** – Needed secure access management (OAuth, JWT).\n- **High-Performance Rendering** – For complex molecule structure visualization.\n\n---\n\n## ✅ Solution\n\n### 🔹 React-Based UI\n\n![React UI](https://images.unsplash.com/photo-1581091012184-5c2bca6f3bb6)\n\nDesigned and implemented a performant, intuitive React frontend for handling complex molecule data structures.\n\n---\n\n### 🔹 Configurable Data Framework\n\n![Grid System](https://images.unsplash.com/photo-1645051915681-183d5f30ef0a)\n\nDeveloped a flexible framework allowing scientists to customize data views using dynamic **grids** and **forms**.\n\n---\n\n### 🔹 Secure Authentication\n\n![Security](https://miro.medium.com/v2/resize:fit:720/format:webp/0*PRZcNPDVe2z5n7kO)\n\nIntegrated **OAuth** and **JWT** for robust and modern authentication & authorization standards.\n\n---\n\n### 🔹 Molecule Visualization\n\n![Molecule Viewer](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*r4LX9nRswR0aMsae2wrG5A.jpeg)\n\nDelivered advanced visualization tools for rendering large and complex molecule structures efficiently.\n\n---\n\n## 👥 Collaboration Snapshot\n\n![Unicrew Team](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*r4LX9nRswR0aMsae2wrG5A.jpeg)\n\n**unicrew** assembled a full-stack development team with expertise in:\n- `.NET`, `Java`, `PHP`, `Laravel`\n- `JavaScript`, `React`, `Vue`\n\nThey worked in **agile sprints** alongside quattro research’s internal team to maintain alignment, speed, and flexibility.\n\n---\n\n## 🎯 Results\n\n![Success](https://images.unsplash.com/photo-1581093588401-99a6f43db2a9)\n\n- **⚡ Faster Development** – Accelerated product delivery timelines.\n- **🎨 Better Usability** – UI tailored for scientific users.\n- **🔐 Improved Security** – OAuth and JWT integration.\n- **🔬 Enhanced Visualization** – Clarity in molecule data exploration.\n- **🤝 Ongoing Partnership** – Sustained collaboration with quattro research.\n\n---\n\n> _\"unicrew's developers integrated seamlessly with our team, demonstrating professionalism and a deep understanding of our needs. Their contributions have been invaluable.\"_  \n> — **Dr. Bernhard Schirm**, Managing Director\n\n[🔗 View Full Review](https://example.com/review)\n\n---\n\n## 🛠 Related Services\n\n- ✅ Dedicated Software Development Teams  \n- ✅ White Label Web Development  \n- ✅ Legacy Software Modernization\n",
-          "publishedDate": "2025-07-21",
           "createdAt": "2025-07-11T11:48:10.779Z",
           "updatedAt": "2025-07-16T08:01:12.688Z",
           "publishedAt": "2025-07-16T08:01:12.699Z",
@@ -2575,7 +2651,6 @@
           "author": "John Smith",
           "date": "2025-07-11",
           "content": "## Exploring the Role of AI in Modern Web Development\n\n**Estimated Read Time: 6 min**\n\n---\n\n### Introduction\n\nArtificial Intelligence (AI) is no longer a futuristic concept—it's a present-day powerhouse reshaping the way developers build, test, and optimize websites and applications. From intelligent code suggestions to automated design improvements, AI is streamlining workflows and enhancing user experiences across the web.\n\n---\n\n### How AI Is Transforming Web Development\n\nHere are some ways AI is driving change in the web dev space:\n\n- **Smart Code Assistance**: Tools like GitHub Copilot and Tabnine use AI to suggest code in real-time, reducing development time and minimizing bugs.\n- **Automated Testing**: AI-driven tools can simulate user behavior and detect UI or logic bugs more effectively than traditional testing frameworks.\n- **Personalized UX**: AI helps personalize content, layouts, and recommendations based on user data, improving engagement and retention.\n\n---\n\n### Popular AI Tools for Developers\n\n- **ChatGPT API** – for natural language processing tasks\n- **DeepCode** – for intelligent code review\n- **Uizard** – for converting wireframes into code\n- **Vercel AI SDK** – for building AI-powered React/Next.js apps\n\n---\n\n### Challenges and Considerations\n\nDespite its benefits, AI in web development comes with challenges:\n\n- **Ethical concerns** around data usage\n- **Over-reliance** on AI-generated code without full understanding\n- **Lack of transparency** in decision-making processes\n\nDevelopers must balance automation with critical thinking and stay informed on evolving AI ethics and best practices.\n\n---\n\n### Conclusion\n\nAI is not replacing web developers—it’s empowering them. By embracing AI tools and understanding their limitations, developers can build smarter, faster, and more intuitive digital experiences for the future.\n\n---\n\n### Tags\n\n`#AI` `#WebDevelopment` `#MachineLearning` `#Frontend` `#DeveloperTools`\n\n### References\n\n- [GitHub Copilot](https://github.com/features/copilot)\n- [Vercel AI SDK](https://sdk.vercel.ai/)\n- [Uizard](https://uizard.io/)\n- [OpenAI API](https://platform.openai.com/)",
-          "publishedDate": "2025-07-11",
           "createdAt": "2025-07-11T08:49:59.152Z",
           "updatedAt": "2025-07-11T14:15:22.903Z",
           "publishedAt": "2025-07-11T14:15:22.915Z",
@@ -2646,7 +2721,6 @@
           "author": "John Smith",
           "date": "2025-07-19",
           "content": "### What’s new with Android 15?  Android 15 introduces enhanced privacy controls, new APIs for better performance and user experience, and advanced camera features like Low Light Boost. It also deprecates older technologies like WebSQL, making way for more modern solutions like IndexedDB.  ### Is Android 15 released?  Various developer previews and beta versions of Android 15 have been released so far. The final launch is expected to occur sometime in the fall of 2024.  ### How does Android 15 address app compatibility and backward compatibility issues?  Android 15 includes several measures to ensure app compatibility and backward compatibility, such as detailed documentation on behavior changes and new features.  Google also provides tools like the Android Compatibility Test Suite (CTS) to help developers test their apps against the latest Android version.  This ensures that apps remain functional and performant on the new platform while still supporting older versions where necessary.  ### What are the benefits of the improved camera APIs in Android 15 for app developers?  The improved camera APIs in Android 15 provide developers with greater control over camera hardware, allowing for features like real-time effects, improved HDR processing, and better integration with machine learning algorithms.  These capabilities enable developers to create more sophisticated camera experiences, such as advanced photo and video editing features or augmented reality applications.  ### How does Android 15 improve app performance on older devices?  Android 15 includes several optimizations aimed at enhancing app performance on older devices.  These improvements include more efficient memory management and optimized rendering pipelines, which help apps run more smoothly even on hardware with limited resources.  Developers can leverage these optimizations to ensure their apps provide a consistent experience across a wide range of devices.  ---  ### References  - [https://android-developers.googleblog.com/2024/02/first-developer-preview-android15.html](https://android-developers.googleblog.com/2024/02/first-developer-preview-android15.html)   - [https://developer.android.com/about/versions/15/features](https://developer.android.com/about/versions/15/features)   - [https://android-developers.googleblog.com](https://android-developers.googleblog.com)   - [https://developer.android.com](https://developer.android.com)  ",
-          "publishedDate": "2025-07-11",
           "createdAt": "2025-07-11T08:42:46.052Z",
           "updatedAt": "2025-07-13T22:20:22.325Z",
           "publishedAt": "2025-07-13T22:20:22.348Z",
@@ -2717,7 +2791,6 @@
           "author": "John Smith",
           "date": "2025-07-16",
           "content": "## What’s new with Android 15?\nAndroid 15 introduces enhanced privacy controls, new APIs for better performance and user experience, and advanced camera features like **Low Light Boost**. It also deprecates older technologies like **WebSQL**, making way for more modern solutions like **IndexedDB**.\n## Is Android 15 released?\nVarious developer previews and beta versions of Android 15 have been released so far. The final launch is expected to occur sometime in the **fall of 2024**.\n\n## How does Android 15 address app compatibility and backward compatibility issues?\nAndroid 15 includes several measures to ensure app compatibility and backward compatibility, such as:\n- Detailed documentation on behavior changes\n- New feature support\n- Tools like the **Android Compatibility Test Suite (CTS)**\n\nThese ensure that apps remain functional and performant on the new platform while still supporting older versions where necessary.\n\n## What are the benefits of the improved camera APIs in Android 15 for app developers?\nThe improved camera APIs provide:\n- Greater control over camera hardware\n- Real-time effects\n- Improved HDR processing\n- Better integration with machine learning algorithms\n\nThese capabilities help developers create advanced camera experiences like:\n\n- Augmented reality applications\n- Advanced photo/video editing features\n## How does Android 15 improve app performance on older devices?\nAndroid 15 offers:\n- Optimized memory management\n- Enhanced rendering pipelines\n\nThese improvements ensure apps run smoothly even on devices with limited hardware resources.\n\n---\n\n## References\n\n- [First Android 15 Developer Preview](https://android-developers.googleblog.com/2024/02/first-developer-preview-android15.html)\n- [Android 15 Features Overview](https://developer.android.com/about/versions/15/features)\n- [Android Developers Blog](https://android-developers.googleblog.com)\n- [Android Developers Official Site](https://developer.android.com)\n",
-          "publishedDate": "2025-07-09",
           "createdAt": "2025-07-11T12:23:49.379Z",
           "updatedAt": "2025-07-16T07:39:19.794Z",
           "publishedAt": "2025-07-16T07:39:19.814Z",
@@ -2775,6 +2848,76 @@
                 "size": 16.8,
                 "sizeInBytes": 16804,
                 "url": "/uploads/small_representation_user_experience_interface_design_1200x800_fedb475fc5.webp"
+              }
+            }
+          }
+        },
+        {
+          "id": 46,
+          "documentId": "ezuxbxmwl2zrds4z62csxajm",
+          "title": "Leading Brands Succeed with Digital Commerce?",
+          "slug": "leading-brands-succeed-with-digital-commerce",
+          "type": "blog",
+          "author": "John Smith",
+          "date": "2025-07-22",
+          "content": null,
+          "createdAt": "2025-07-23T12:16:02.826Z",
+          "updatedAt": "2025-07-23T12:16:02.826Z",
+          "publishedAt": "2025-07-23T12:16:02.870Z",
+          "description": "camera features like Low Light Boost. It also deprecates older technologies like WebSQL, making way for more modern solutions like IndexedDB. ### Is Android 15 released? V",
+          "readminutes": 8,
+          "image": {
+            "id": 174,
+            "documentId": "djnorelq8w7r0cozhs9shxre",
+            "url": "/uploads/team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78.jpg",
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_team-government-spies-meeting-cia-headquarters-monitor-surveillance.jpg",
+                "hash": "thumbnail_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 245,
+                "height": 138,
+                "size": 5.6,
+                "sizeInBytes": 5602,
+                "url": "/uploads/thumbnail_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78.jpg"
+              },
+              "large": {
+                "name": "large_team-government-spies-meeting-cia-headquarters-monitor-surveillance.jpg",
+                "hash": "large_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 1000,
+                "height": 563,
+                "size": 42.7,
+                "sizeInBytes": 42702,
+                "url": "/uploads/large_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78.jpg"
+              },
+              "medium": {
+                "name": "medium_team-government-spies-meeting-cia-headquarters-monitor-surveillance.jpg",
+                "hash": "medium_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 750,
+                "height": 422,
+                "size": 27.4,
+                "sizeInBytes": 27396,
+                "url": "/uploads/medium_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78.jpg"
+              },
+              "small": {
+                "name": "small_team-government-spies-meeting-cia-headquarters-monitor-surveillance.jpg",
+                "hash": "small_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "path": null,
+                "width": 500,
+                "height": 281,
+                "size": 15.35,
+                "sizeInBytes": 15349,
+                "url": "/uploads/small_team_government_spies_meeting_cia_headquarters_monitor_surveillance_ed777e1b78.jpg"
               }
             }
           }

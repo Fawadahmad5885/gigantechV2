@@ -1255,7 +1255,6 @@ export interface ApiNewsItemNewsItem extends Struct.CollectionTypeSchema {
       'api::news-blogs-page.news-blogs-page'
     >;
     publishedAt: Schema.Attribute.DateTime;
-    publishedDate: Schema.Attribute.Date & Schema.Attribute.Required;
     readminutes: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<5>;
     slug: Schema.Attribute.UID<'title'> & Schema.Attribute.Required;
     tags: Schema.Attribute.Component<'texts.tag-item', true>;

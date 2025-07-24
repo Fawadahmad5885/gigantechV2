@@ -134,7 +134,7 @@ const NewsClient = ({
               {description || "Discover our case studies"}
             </p>
               <CustomButton 
-                className="bg-white border-white text-[#262B3F] hover:bg-gray-100 transition-colors"
+                className=" border  border-white text-white hover:bg-gray-100 hover:text-textColor duration-300   transition-colors"
                 onClick={() => scrollToSection('contact')}
               >
                 {"Get Started"}
@@ -192,7 +192,7 @@ const NewsClient = ({
                           onClick={() => handlePageChange(page)}
                           className={`min-w-[32px] h-8 rounded-md text-sm font-medium transition-all duration-200 mx-0.5 ${
                             currentPage === page
-                              ? "bg-blue-600 text-white"
+                              ? "bg-secondaryColor text-white"
                               : "bg-white text-gray-700 hover:bg-gray-50 border border-gray-300 hover:border-gray-400"
                           }`}
                         >

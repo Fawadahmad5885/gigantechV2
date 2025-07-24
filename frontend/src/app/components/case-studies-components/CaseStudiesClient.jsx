@@ -45,7 +45,7 @@ export default function CaseStudiesClient({
             </p>
             {Button && (
               <CustomButton 
-                className="bg-white border-white text-[#262B3F] hover:bg-gray-100 transition-colors"
+                      className=" border  border-white text-white hover:bg-gray-100 hover:text-textColor duration-300   transition-colors"
                 onClick={() => scrollToSection('contact')}
               >
                 {Button.title}

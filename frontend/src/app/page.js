@@ -130,7 +130,7 @@ export default async function Home() {
               thumbnailUrl: `${getBaseUrl()}/preview.jpg`,
               uploadDate: "2025-01-01",
               contentUrl: `${getBaseUrl()}/images/video1.mp4`,
-              contentUrl: "https://www.eyratech.com/images/video1.mp4",
+              contentUrl: "https://www.smachstack.com/images/video1.mp4",
               embedUrl: `${getBaseUrl()}`,
             }),
           }}
