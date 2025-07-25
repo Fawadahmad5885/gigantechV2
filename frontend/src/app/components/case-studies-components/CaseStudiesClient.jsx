@@ -26,13 +26,13 @@ export default function CaseStudiesClient({
   };
 
   return (
-    <div className="">
+    <div className="overflow-x-hidden">
       <div className="relative w-full h-[100vh] min-h-[340px] bg-cover bg-center bg-no-repeat">
         <Image
           src={imageUrl}
           alt={title || "Case Study Background"}
           fill
-          className="object-cover animate-zoom-loop"
+          className="object-cover animate-zoom-loop X"
           priority
         />
         <div className="absolute inset-0 flex flex-col justify-center component-width mx-auto items-start text-white max-lg:px-6 lg:mt-24">

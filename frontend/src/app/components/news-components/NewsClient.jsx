@@ -145,7 +145,7 @@ const NewsClient = ({
 
       {/* News Section with Pagination */}
       <div ref={newsRef} className="py-16">
-        <div className="component-width mx-auto ">
+        <div className="component-width mx-auto max-lg:px-5  ">
           {/* News Cards */}
           <div className="grid grid-cols-1 mt-10 mx-auto component-width  md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
             {paginatedData.map((item) => (

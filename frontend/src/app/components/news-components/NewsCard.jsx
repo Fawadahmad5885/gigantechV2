@@ -20,7 +20,7 @@ const NewsCard = ({ item }) => {
     : imageUrl;
 
   return (
-    <Link key={item.id} href={`/news-and-blogs/${item.slug}`} className="flex h-full max-lg:mx-5 ">
+    <Link key={item.id} href={`/news-and-blogs/${item.slug}`} className="flex h-full  ">
       <article className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-all duration-300 group flex flex-col h-[500px] relative">
         {/* Featured Image */}
         <div className="relative h-48">
