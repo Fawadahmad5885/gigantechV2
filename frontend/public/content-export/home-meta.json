@@ -1,13 +1,13 @@
 {
   "data": {
-    "id": 5,
+    "id": 7,
     "documentId": "zchuekswc4702z98x9nz26el",
     "createdAt": "2025-05-28T11:26:36.790Z",
-    "updatedAt": "2025-07-24T09:35:51.050Z",
-    "publishedAt": "2025-07-24T09:35:51.087Z",
+    "updatedAt": "2025-07-25T12:24:10.876Z",
+    "publishedAt": "2025-07-25T12:24:10.894Z",
     "homeMetaData": {
-      "id": 22,
-      "metaTitle": "SmachStack | Innovative Software Solutions",
+      "id": 28,
+      "metaTitle": "Smach Stack | Innovative Software Solutions",
       "metaDescription": "SmachStack is a software company specializing in delivering innovative solutions tailored to your business needs. Explore our services and industries we serve.",
       "keyWords": "SmachStack , software solutions, business software, custom software development, technology consulting, IT services",
       "metaImage": {
@@ -21,14 +21,14 @@
         "formats": {},
         "hash": "favicon_6d074dc29a",
         "ext": ".ico",
-        "mime": "image/png",
-        "size": 0.17,
+        "mime": "image/x-icon",
+        "size": 15.41,
         "url": "/uploads/favicon_6d074dc29a.ico",
         "previewUrl": null,
         "provider": "local",
         "provider_metadata": null,
         "createdAt": "2025-05-28T11:25:36.116Z",
-        "updatedAt": "2025-07-24T09:35:49.033Z",
+        "updatedAt": "2025-07-25T12:23:10.816Z",
         "publishedAt": "2025-05-28T11:25:36.116Z"
       },
       "openGraphImage": {
@@ -37,19 +37,32 @@
         "name": "eyratech-logo.png",
         "alternativeText": null,
         "caption": null,
-        "width": 150,
-        "height": 32,
-        "formats": {},
+        "width": 388,
+        "height": 181,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_eyratech-logo.png",
+            "hash": "thumbnail_eyratech_logo_4bac54e79f",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 245,
+            "height": 114,
+            "size": 20.36,
+            "sizeInBytes": 20361,
+            "url": "/uploads/thumbnail_eyratech_logo_4bac54e79f.png"
+          }
+        },
         "hash": "eyratech_logo_4bac54e79f",
         "ext": ".png",
         "mime": "image/png",
-        "size": 1.14,
+        "size": 5.74,
         "url": "/uploads/eyratech_logo_4bac54e79f.png",
         "previewUrl": null,
         "provider": "local",
         "provider_metadata": null,
         "createdAt": "2025-05-28T11:26:33.701Z",
-        "updatedAt": "2025-07-23T08:40:37.826Z",
+        "updatedAt": "2025-07-25T10:16:26.721Z",
         "publishedAt": "2025-05-28T11:26:33.701Z"
       }
     }

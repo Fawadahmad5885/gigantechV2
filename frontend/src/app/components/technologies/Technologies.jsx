@@ -33,15 +33,21 @@ function Technologies({ headerData, technologies }) {
     return groups;
   }, {});
 
-  const categories = Object.values(techGroups);
-  const [selectedCategory, setSelectedCategory] = useState(categories[0]?.name || '');
+const categories = Object.values(techGroups).sort((a, b) => {
+  if (a.name === "Artificial Intelligence") return -1;
+  if (b.name === "Artificial Intelligence") return 1;
+  return 0; // maintain order for others
+});
+  const [selectedCategory, setSelectedCategory] = useState("Artificial Intelligence");
+
   
   // Set initial category if not set
   useEffect(() => {
-    if (categories.length > 0 && !selectedCategory) {
-      setSelectedCategory(categories[0].name);
-    }
-  }, [categories]);
+  const hasAI = categories.some(c => c.name === "Artificial Intelligence");
+  if (categories.length > 0 && !selectedCategory) {
+    setSelectedCategory(hasAI ? "Artificial Intelligence" : categories[0].name);
+  }
+}, [categories]);
 
   const {title, description} = headerData
   
@@ -147,7 +153,7 @@ function Technologies({ headerData, technologies }) {
                         width={80}
                         height={80}
                         src={tool.image}
-                        className="object-contain"
+                        className="w-[48px] h-[48px] object-contain"
                         onError={(e) => {
                           e.target.src = '/default-tech-image.png';
                         }}

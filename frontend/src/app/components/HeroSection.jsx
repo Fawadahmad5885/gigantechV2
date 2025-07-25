@@ -72,14 +72,12 @@ function HeroSection({ items }) {
                   <p className="text-[16px] leading-[20px] mt-4 mb-[70px] font-light md:text-2xl">
                     {slide.subtitle}
                   </p>
-                  {slide.Button && (
                     <CustomButton
-                      onClick={() => handleButtonClick(slide.Button.url)}
+                      onClick={() => handleButtonClick("about-us")}
                       className=" border  border-white text-white hover:bg-gray-100 hover:text-textColor duration-300   transition-colors"
                     >
-                      {slide.Button.title}
+                      {"Get Started"}
                     </CustomButton>
-                  )}
                 </div>
               </div>
             </div>

@@ -22,7 +22,7 @@ function WhyChooseUs({ aboutData }) {
                 src={getStrapiMedia(aboutImage.url)}
                 width={1200}
                 height={1200}
-                alt="EyraTech platform card background image representing innovation and technology solutions."
+                alt="Smach Stack platform card background image representing innovation and technology solutions."
                 quality={100}
                 sizes="(max-width: 768px) 100vw, 50vw"
                 style={{ objectFit: "cover" }}

@@ -8,14 +8,14 @@
       "publishedAt": "2025-07-20T21:06:49.656Z",
       "hero_sections": [
         {
-          "id": 9,
+          "id": 14,
           "documentId": "s64rwscujt8ud1t5mewldp65",
           "title": "Intelligence Redefined with Artificial Intelligence.",
           "subtitle": "Bringing your ideas to life with cutting-edge AI technology.",
-          "order": 2,
+          "order": 1,
           "createdAt": "2025-05-28T11:07:09.798Z",
-          "updatedAt": "2025-07-24T07:21:53.745Z",
-          "publishedAt": "2025-07-24T07:21:53.780Z",
+          "updatedAt": "2025-07-25T11:56:21.731Z",
+          "publishedAt": "2025-07-25T11:56:21.753Z",
           "image": null,
           "video": {
             "id": 173,
@@ -23,21 +23,17 @@
             "url": "/uploads/Blue_Tech_Futuristic_Artificial_Intelligence_Video_688614124f.mp4",
             "formats": {}
           },
-          "Button": {
-            "id": 178,
-            "title": "Learn More",
-            "url": "about-us"
-          }
+          "Button": null
         },
         {
-          "id": 8,
+          "id": 15,
           "documentId": "kbeiexr5sfnu76p8peg7kpfq",
           "title": "Where technology meets innovation.",
           "subtitle": "Seamlessly integrating innovation, strategy, and technology to redefine the future.",
-          "order": 1,
+          "order": 2,
           "createdAt": "2025-05-28T11:05:32.396Z",
-          "updatedAt": "2025-07-23T09:00:26.167Z",
-          "publishedAt": "2025-07-23T09:00:26.204Z",
+          "updatedAt": "2025-07-25T11:56:38.279Z",
+          "publishedAt": "2025-07-25T11:56:38.293Z",
           "image": {
             "id": 174,
             "documentId": "djnorelq8w7r0cozhs9shxre",
@@ -94,11 +90,208 @@
             }
           },
           "video": null,
-          "Button": {
+          "Button": null
+        },
+        {
+          "id": 16,
+          "documentId": "idayhsct224dcj8lp0wuc5tu",
+          "title": "Empowering Innovation through Digital Transformation",
+          "subtitle": "Modernize your business with smart, scalable digital solutions tailored for the future.",
+          "order": 3,
+          "createdAt": "2025-07-25T11:55:57.619Z",
+          "updatedAt": "2025-07-25T11:57:28.708Z",
+          "publishedAt": "2025-07-25T11:57:28.727Z",
+          "image": {
             "id": 177,
-            "title": "Learn More",
-            "url": "about-us"
-          }
+            "documentId": "oj6w3qhterwstuwss6jhv0st",
+            "url": "/uploads/Modern_Minimal_Technology_Background_Banner_b19dd39a27.png",
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_Modern Minimal Technology Background Banner.png",
+                "hash": "thumbnail_Modern_Minimal_Technology_Background_Banner_b19dd39a27",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 245,
+                "height": 139,
+                "size": 27.59,
+                "sizeInBytes": 27592,
+                "url": "/uploads/thumbnail_Modern_Minimal_Technology_Background_Banner_b19dd39a27.png"
+              },
+              "small": {
+                "name": "small_Modern Minimal Technology Background Banner.png",
+                "hash": "small_Modern_Minimal_Technology_Background_Banner_b19dd39a27",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 500,
+                "height": 283,
+                "size": 99.88,
+                "sizeInBytes": 99881,
+                "url": "/uploads/small_Modern_Minimal_Technology_Background_Banner_b19dd39a27.png"
+              },
+              "medium": {
+                "name": "medium_Modern Minimal Technology Background Banner.png",
+                "hash": "medium_Modern_Minimal_Technology_Background_Banner_b19dd39a27",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 750,
+                "height": 424,
+                "size": 214.23,
+                "sizeInBytes": 214227,
+                "url": "/uploads/medium_Modern_Minimal_Technology_Background_Banner_b19dd39a27.png"
+              },
+              "large": {
+                "name": "large_Modern Minimal Technology Background Banner.png",
+                "hash": "large_Modern_Minimal_Technology_Background_Banner_b19dd39a27",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 1000,
+                "height": 565,
+                "size": 381.17,
+                "sizeInBytes": 381166,
+                "url": "/uploads/large_Modern_Minimal_Technology_Background_Banner_b19dd39a27.png"
+              }
+            }
+          },
+          "video": null,
+          "Button": null
+        },
+        {
+          "id": 20,
+          "documentId": "g5nf98iynbz0kie7kgtvxxmd",
+          "title": "Unlock Insights with Data Analytics",
+          "subtitle": "Transform raw data into powerful decisions with advanced analytics and visualizations.",
+          "order": 4,
+          "createdAt": "2025-07-25T12:18:21.376Z",
+          "updatedAt": "2025-07-25T12:18:33.266Z",
+          "publishedAt": "2025-07-25T12:18:33.286Z",
+          "image": {
+            "id": 178,
+            "documentId": "c01w9v3u3fc2he02xnqrzqhh",
+            "url": "/uploads/Modern_Minimal_Technology_Background_Banner_1_dc042ddbad.png",
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_Modern Minimal Technology Background Banner (1).png",
+                "hash": "thumbnail_Modern_Minimal_Technology_Background_Banner_1_dc042ddbad",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 245,
+                "height": 141,
+                "size": 77.65,
+                "sizeInBytes": 77653,
+                "url": "/uploads/thumbnail_Modern_Minimal_Technology_Background_Banner_1_dc042ddbad.png"
+              },
+              "small": {
+                "name": "small_Modern Minimal Technology Background Banner (1).png",
+                "hash": "small_Modern_Minimal_Technology_Background_Banner_1_dc042ddbad",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 500,
+                "height": 289,
+                "size": 291.64,
+                "sizeInBytes": 291644,
+                "url": "/uploads/small_Modern_Minimal_Technology_Background_Banner_1_dc042ddbad.png"
+              },
+              "medium": {
+                "name": "medium_Modern Minimal Technology Background Banner (1).png",
+                "hash": "medium_Modern_Minimal_Technology_Background_Banner_1_dc042ddbad",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 750,
+                "height": 433,
+                "size": 607.79,
+                "sizeInBytes": 607789,
+                "url": "/uploads/medium_Modern_Minimal_Technology_Background_Banner_1_dc042ddbad.png"
+              },
+              "large": {
+                "name": "large_Modern Minimal Technology Background Banner (1).png",
+                "hash": "large_Modern_Minimal_Technology_Background_Banner_1_dc042ddbad",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 1000,
+                "height": 577,
+                "size": 1027.14,
+                "sizeInBytes": 1027138,
+                "url": "/uploads/large_Modern_Minimal_Technology_Background_Banner_1_dc042ddbad.png"
+              }
+            }
+          },
+          "video": null,
+          "Button": null
+        },
+        {
+          "id": 22,
+          "documentId": "qd3tytjiv4ya4s2xa74v2ila",
+          "title": "Build Seamless Experiences Across Web and Mobile",
+          "subtitle": "Craft user-centric, high-performance apps that drive engagement and deliver results.",
+          "order": 5,
+          "createdAt": "2025-07-25T12:19:30.086Z",
+          "updatedAt": "2025-07-25T12:19:30.086Z",
+          "publishedAt": "2025-07-25T12:19:30.099Z",
+          "image": {
+            "id": 179,
+            "documentId": "wnmjp1igy46qh7mcwoc0szs3",
+            "url": "/uploads/Untitled_design_26_8ec62a3e86.png",
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_Untitled design (26).png",
+                "hash": "thumbnail_Untitled_design_26_8ec62a3e86",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 234,
+                "height": 156,
+                "size": 69.27,
+                "sizeInBytes": 69272,
+                "url": "/uploads/thumbnail_Untitled_design_26_8ec62a3e86.png"
+              },
+              "small": {
+                "name": "small_Untitled design (26).png",
+                "hash": "small_Untitled_design_26_8ec62a3e86",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 500,
+                "height": 334,
+                "size": 277.07,
+                "sizeInBytes": 277071,
+                "url": "/uploads/small_Untitled_design_26_8ec62a3e86.png"
+              },
+              "medium": {
+                "name": "medium_Untitled design (26).png",
+                "hash": "medium_Untitled_design_26_8ec62a3e86",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 750,
+                "height": 501,
+                "size": 586.93,
+                "sizeInBytes": 586930,
+                "url": "/uploads/medium_Untitled_design_26_8ec62a3e86.png"
+              },
+              "large": {
+                "name": "large_Untitled design (26).png",
+                "hash": "large_Untitled_design_26_8ec62a3e86",
+                "ext": ".png",
+                "mime": "image/png",
+                "path": null,
+                "width": 1000,
+                "height": 668,
+                "size": 999.38,
+                "sizeInBytes": 999379,
+                "url": "/uploads/large_Untitled_design_26_8ec62a3e86.png"
+              }
+            }
+          },
+          "video": null,
+          "Button": null
         }
       ],
       "industries_section": {
@@ -479,16 +672,16 @@
         ]
       },
       "services_section": {
-        "id": 11,
+        "id": 15,
         "documentId": "mkn5zw5de424v1tvqcmrgaj2",
         "createdAt": "2025-05-28T11:21:56.484Z",
-        "updatedAt": "2025-07-24T07:50:23.524Z",
-        "publishedAt": "2025-07-24T07:50:23.553Z",
+        "updatedAt": "2025-07-25T10:06:39.721Z",
+        "publishedAt": "2025-07-25T10:06:39.737Z",
         "title": "Our Services",
         "description": "We provide a comprehensive range of services to help businesses secure their operations, streamline workflows, drive efficiency and support sustainable growth.",
         "serviceCard": [
           {
-            "id": 124,
+            "id": 208,
             "title": "AI Solutions & Machine Learning Development",
             "subtitle": null,
             "description": "Enhance automation, decision-making, and efficiency with AI-powered, data-driven solutions tailored to your business.",
@@ -513,7 +706,7 @@
             }
           },
           {
-            "id": 125,
+            "id": 209,
             "title": "Cloud Engineering, DevOps & Infrastructure",
             "subtitle": null,
             "description": "Streamline operations with scalable cloud solutions, automated deployments, and seamless integration.",
@@ -538,10 +731,10 @@
             }
           },
           {
-            "id": 126,
-            "title": "Embedded Systems & IoT Solutions",
+            "id": 210,
+            "title": "Data Analytics",
             "subtitle": null,
-            "description": "Develop safety-critical, intelligent systems enabling real-time monitoring, automation, and secure connectivity.",
+            "description": "Unlock insights through advanced analytics, enabling smarter decisions and strategic growth.",
             "image": {
               "id": 18,
               "documentId": "njsgiu81oq6k4s7evagiz0lf",
@@ -555,15 +748,15 @@
                   "path": null,
                   "width": 156,
                   "height": 156,
-                  "size": 8.61,
-                  "sizeInBytes": 8608,
+                  "size": 3.11,
+                  "sizeInBytes": 3105,
                   "url": "/uploads/thumbnail_embeded_6fb02d6f88.png"
                 }
               }
             }
           },
           {
-            "id": 127,
+            "id": 211,
             "title": "Custom Web Application Development",
             "subtitle": null,
             "description": "Build secure, scalable, and high-performance web applications designed for optimal business growth and digital transformation.",
@@ -588,7 +781,7 @@
             }
           },
           {
-            "id": 128,
+            "id": 212,
             "title": "Mobile App Development & Optimization",
             "subtitle": null,
             "description": "Deliver fast, user-friendly mobile experiences with custom-built, performance-optimized, and feature-rich applications.",
@@ -613,7 +806,7 @@
             }
           },
           {
-            "id": 129,
+            "id": 213,
             "title": "ISO Certification & Compliance Consulting",
             "subtitle": null,
             "description": "Achieve industry compliance with expert consulting, tailored solutions, and end-to-end regulatory certification support.",
@@ -684,46 +877,14 @@
       },
       "technologies": [
         {
-          "id": 616,
-          "documentId": "urbp9m99gxgp53l2yd2teoxx",
-          "name": "ZigBee",
-          "category": "Embedded Systems",
-          "slug": "zigbee",
-          "createdAt": "2025-07-04T07:07:55.249Z",
-          "updatedAt": "2025-07-04T07:07:55.249Z",
-          "publishedAt": "2025-07-04T07:07:55.253Z",
-          "tooltip": "Wireless technology for IoT",
-          "logo": {
-            "id": 138,
-            "documentId": "kq11rhv9vkoyhrs15dql32tg",
-            "url": "/uploads/zigbee.png"
-          }
-        },
-        {
-          "id": 596,
-          "documentId": "femczalth96bie25ky25llgm",
-          "name": "ARM",
-          "category": "Embedded Systems",
-          "slug": "arm",
-          "createdAt": "2025-07-04T07:07:54.872Z",
-          "updatedAt": "2025-07-04T07:07:54.872Z",
-          "publishedAt": "2025-07-04T07:07:54.876Z",
-          "tooltip": "Advanced RISC Machine architecture",
-          "logo": {
-            "id": 128,
-            "documentId": "xucza891dqnyekspwqgxvbwz",
-            "url": "/uploads/arm.png"
-          }
-        },
-        {
-          "id": 636,
+          "id": 650,
           "documentId": "if9rnz3nv8138glape2i9pyi",
           "name": "AWS",
           "category": "DevOps",
           "slug": "aws",
           "createdAt": "2025-07-04T07:07:55.574Z",
-          "updatedAt": "2025-07-04T07:07:55.574Z",
-          "publishedAt": "2025-07-04T07:07:55.577Z",
+          "updatedAt": "2025-07-25T11:19:32.451Z",
+          "publishedAt": "2025-07-25T11:19:32.479Z",
           "tooltip": "Amazon Web Services",
           "logo": {
             "id": 148,
@@ -748,19 +909,19 @@
           }
         },
         {
-          "id": 628,
+          "id": 651,
           "documentId": "tlzr2pt6srjslzd096fb3oac",
           "name": "Ansible",
           "category": "DevOps",
           "slug": "ansible",
           "createdAt": "2025-07-04T07:07:55.458Z",
-          "updatedAt": "2025-07-04T07:07:55.458Z",
-          "publishedAt": "2025-07-04T07:07:55.462Z",
+          "updatedAt": "2025-07-25T11:19:54.240Z",
+          "publishedAt": "2025-07-25T11:19:54.265Z",
           "tooltip": "Agentless automation tool for configuration management and orchestration",
           "logo": {
             "id": 144,
             "documentId": "jt2dp2v60vw3zeibgrntwvq0",
-            "url": "/uploads/ansble.png"
+            "url": "/uploads/ansblepng"
           }
         },
         {
@@ -780,99 +941,19 @@
           }
         },
         {
-          "id": 634,
+          "id": 653,
           "documentId": "z9tcwfncd501351qb8h0lnqn",
           "name": "Azure",
           "category": "DevOps",
           "slug": "azure",
           "createdAt": "2025-07-04T07:07:55.543Z",
-          "updatedAt": "2025-07-04T07:07:55.543Z",
-          "publishedAt": "2025-07-04T07:07:55.548Z",
+          "updatedAt": "2025-07-25T11:22:55.835Z",
+          "publishedAt": "2025-07-25T11:22:55.850Z",
           "tooltip": "Microsoft Azure DevOps",
           "logo": {
             "id": 147,
             "documentId": "n50b1qjhtia5squtm9yjms22",
-            "url": "/uploads/azure.svg"
-          }
-        },
-        {
-          "id": 612,
-          "documentId": "lsxsu13ie2g14y0ts76uhqeu",
-          "name": "Arduino",
-          "category": "Embedded Systems",
-          "slug": "arduino",
-          "createdAt": "2025-07-04T07:07:55.173Z",
-          "updatedAt": "2025-07-04T07:07:55.173Z",
-          "publishedAt": "2025-07-04T07:07:55.175Z",
-          "tooltip": "Open-source electronics platform",
-          "logo": {
-            "id": 136,
-            "documentId": "ndkgzbxwc3xpfl5cmcxfyqqk",
-            "url": "/uploads/ardino.png"
-          }
-        },
-        {
-          "id": 614,
-          "documentId": "otfrsq1k7e7kqavjjtpyu0eq",
-          "name": "BLE",
-          "category": "Embedded Systems",
-          "slug": "ble",
-          "createdAt": "2025-07-04T07:07:55.226Z",
-          "updatedAt": "2025-07-04T07:07:55.226Z",
-          "publishedAt": "2025-07-04T07:07:55.230Z",
-          "tooltip": "Bluetooth Low Energy for IoT",
-          "logo": {
-            "id": 137,
-            "documentId": "ops5zyb1b3adr2g1z7t2jak2",
-            "url": "/uploads/ble.png"
-          }
-        },
-        {
-          "id": 606,
-          "documentId": "mt104l5gq9qvbcqqfgjbfihe",
-          "name": "Beaglebone",
-          "category": "Embedded Systems",
-          "slug": "beaglebone",
-          "createdAt": "2025-07-04T07:07:55.073Z",
-          "updatedAt": "2025-07-04T07:07:55.073Z",
-          "publishedAt": "2025-07-04T07:07:55.077Z",
-          "tooltip": "Low-power open-source single-board computer",
-          "logo": {
-            "id": 133,
-            "documentId": "kshg7mpgb4jhd94rr5dbq0fm",
-            "url": "/uploads/beaglebaord-embedded.svg"
-          }
-        },
-        {
-          "id": 592,
-          "documentId": "ydlxrk4ykgrenjy1c4lsc2x3",
-          "name": "C",
-          "category": "Embedded Systems",
-          "slug": "c",
-          "createdAt": "2025-07-04T07:07:54.822Z",
-          "updatedAt": "2025-07-04T07:07:54.822Z",
-          "publishedAt": "2025-07-04T07:07:54.826Z",
-          "tooltip": "Programming language for embedded systems",
-          "logo": {
-            "id": 126,
-            "documentId": "fbp9a5edbkt9ahbsebne648m",
-            "url": "/uploads/c.png"
-          }
-        },
-        {
-          "id": 594,
-          "documentId": "uvtiorzneg6af0abqd7yfo2j",
-          "name": "C++",
-          "category": "Embedded Systems",
-          "slug": "c-plus-plus",
-          "createdAt": "2025-07-04T07:07:54.846Z",
-          "updatedAt": "2025-07-04T07:07:54.846Z",
-          "publishedAt": "2025-07-04T07:07:54.851Z",
-          "tooltip": "Object-oriented programming language for systems programming",
-          "logo": {
-            "id": 127,
-            "documentId": "qup4yn60vawbg6tuby20gqw0",
-            "url": "/uploads/cpp-icon.png"
+            "url": "/uploads/azuresvg"
           }
         },
         {
@@ -940,19 +1021,19 @@
           }
         },
         {
-          "id": 622,
+          "id": 646,
           "documentId": "pme3uip2khmb640nkeckw5ty",
           "name": "Docker",
           "category": "DevOps",
           "slug": "docker",
           "createdAt": "2025-07-04T07:07:55.374Z",
-          "updatedAt": "2025-07-04T07:07:55.374Z",
-          "publishedAt": "2025-07-04T07:07:55.377Z",
+          "updatedAt": "2025-07-25T11:16:02.485Z",
+          "publishedAt": "2025-07-25T11:16:02.501Z",
           "tooltip": "Containerization platform for packaging and deploying applications",
           "logo": {
             "id": 141,
             "documentId": "vf0d8i5a7k30naucuuj0ffiz",
-            "url": "/uploads/docker.png"
+            "url": "/uploads/dockerpng"
           }
         },
         {
@@ -1004,22 +1085,6 @@
           }
         },
         {
-          "id": 620,
-          "documentId": "j2e8lotesc4huds7641qheiv",
-          "name": "FreeRTOS",
-          "category": "Embedded Systems",
-          "slug": "freertos",
-          "createdAt": "2025-07-04T07:07:55.301Z",
-          "updatedAt": "2025-07-04T07:07:55.301Z",
-          "publishedAt": "2025-07-04T07:07:55.304Z",
-          "tooltip": "Real-Time Operating System for embedded devices",
-          "logo": {
-            "id": 140,
-            "documentId": "wedb0znuogzsx8kecnsbpov1",
-            "url": "/uploads/rtos.png"
-          }
-        },
-        {
           "id": 528,
           "documentId": "a600bhftfemap4ozr0kkfvzt",
           "name": "Gemini",
@@ -1036,19 +1101,19 @@
           }
         },
         {
-          "id": 632,
+          "id": 647,
           "documentId": "mqnn0jbt16gi783p5tc8o4pn",
           "name": "Grafana",
           "category": "DevOps",
           "slug": "grafana",
           "createdAt": "2025-07-04T07:07:55.517Z",
-          "updatedAt": "2025-07-04T07:07:55.517Z",
-          "publishedAt": "2025-07-04T07:07:55.520Z",
+          "updatedAt": "2025-07-25T11:16:22.213Z",
+          "publishedAt": "2025-07-25T11:16:22.233Z",
           "tooltip": "Observability platform for visualizing metrics, logs, and traces",
           "logo": {
             "id": 146,
             "documentId": "xejeuwe2ahehcl8zqmrb4zts",
-            "url": "/uploads/grafana.png"
+            "url": "/uploads/grafanapng"
           }
         },
         {
@@ -1132,14 +1197,14 @@
           }
         },
         {
-          "id": 624,
+          "id": 648,
           "documentId": "vv9mk6h7uixapn9i4ac908n8",
           "name": "Kubernetes",
           "category": "DevOps",
           "slug": "kubernetes",
           "createdAt": "2025-07-04T07:07:55.397Z",
-          "updatedAt": "2025-07-04T07:07:55.397Z",
-          "publishedAt": "2025-07-04T07:07:55.401Z",
+          "updatedAt": "2025-07-25T11:16:51.049Z",
+          "publishedAt": "2025-07-25T11:16:51.075Z",
           "tooltip": "Open-source container orchestration system for automating deployment and scaling",
           "logo": {
             "id": 142,
@@ -1292,22 +1357,6 @@
           }
         },
         {
-          "id": 598,
-          "documentId": "nhsfg828w9usi4in91lix243",
-          "name": "Microchip",
-          "category": "Embedded Systems",
-          "slug": "microchip",
-          "createdAt": "2025-07-04T07:07:54.899Z",
-          "updatedAt": "2025-07-04T07:07:54.899Z",
-          "publishedAt": "2025-07-04T07:07:54.904Z",
-          "tooltip": "Microcontroller solutions provider",
-          "logo": {
-            "id": 129,
-            "documentId": "vovjdxbzcxqxprixs1rfkvju",
-            "url": "/uploads/microchip-icon.png"
-          }
-        },
-        {
           "id": 500,
           "documentId": "q9g1yj0pyboxlz10gomsdnu9",
           "name": "Milvus",
@@ -1337,22 +1386,6 @@
             "id": 113,
             "documentId": "yrur4zhpj5r6wz0f81egp3v1",
             "url": "/uploads/mongodb.svg"
-          }
-        },
-        {
-          "id": 608,
-          "documentId": "suxu1ooxx3gxnrq4rrs3ryl4",
-          "name": "Motorolla",
-          "category": "Embedded Systems",
-          "slug": "motorolla",
-          "createdAt": "2025-07-04T07:07:55.100Z",
-          "updatedAt": "2025-07-04T07:07:55.100Z",
-          "publishedAt": "2025-07-04T07:07:55.104Z",
-          "tooltip": "Telecommunication and embedded solutions provider",
-          "logo": {
-            "id": 134,
-            "documentId": "h3acvfra5q6thdvat7mfvdo6",
-            "url": "/uploads/motorola.jpg"
           }
         },
         {
@@ -1548,19 +1581,19 @@
           }
         },
         {
-          "id": 630,
+          "id": 652,
           "documentId": "uulq01hudd6ke0m54xb2b3so",
           "name": "Prometheus",
           "category": "DevOps",
           "slug": "prometheus",
           "createdAt": "2025-07-04T07:07:55.481Z",
-          "updatedAt": "2025-07-04T07:07:55.481Z",
-          "publishedAt": "2025-07-04T07:07:55.485Z",
+          "updatedAt": "2025-07-25T11:22:20.536Z",
+          "publishedAt": "2025-07-25T11:22:20.555Z",
           "tooltip": "Open-source monitoring and alerting toolkit for metrics collection",
           "logo": {
             "id": 145,
             "documentId": "xpn667qergvnivfg54jebciz",
-            "url": "/uploads/Prometheus-icon.png"
+            "url": "/uploads/Prometheus-iconpng"
           }
         },
         {
@@ -1628,38 +1661,6 @@
           }
         },
         {
-          "id": 618,
-          "documentId": "p4ixirbai2oo72hkzryuo234",
-          "name": "Radar",
-          "category": "Embedded Systems",
-          "slug": "radar",
-          "createdAt": "2025-07-04T07:07:55.280Z",
-          "updatedAt": "2025-07-04T07:07:55.280Z",
-          "publishedAt": "2025-07-04T07:07:55.283Z",
-          "tooltip": "Radio detection and ranging system",
-          "logo": {
-            "id": 139,
-            "documentId": "jhusw34p6p2i7m96q5munup2",
-            "url": "/uploads/radar.png"
-          }
-        },
-        {
-          "id": 610,
-          "documentId": "vj9mvh4ok8r3g9wm0xvf5mtc",
-          "name": "Raspberry Pi",
-          "category": "Embedded Systems",
-          "slug": "raspberry-pi",
-          "createdAt": "2025-07-04T07:07:55.149Z",
-          "updatedAt": "2025-07-04T07:07:55.149Z",
-          "publishedAt": "2025-07-04T07:07:55.154Z",
-          "tooltip": "Small and affordable computer for learning",
-          "logo": {
-            "id": 135,
-            "documentId": "tpq2sox96apz852addppy4el",
-            "url": "/uploads/respberry.png"
-          }
-        },
-        {
           "id": 546,
           "documentId": "so48ydg0514sf1xeyugz0dod",
           "name": "React",
@@ -1708,38 +1709,6 @@
           }
         },
         {
-          "id": 600,
-          "documentId": "diyc3dwoxr25bff1gpesf2va",
-          "name": "Renesas",
-          "category": "Embedded Systems",
-          "slug": "renesas",
-          "createdAt": "2025-07-04T07:07:54.943Z",
-          "updatedAt": "2025-07-04T07:07:54.943Z",
-          "publishedAt": "2025-07-04T07:07:54.947Z",
-          "tooltip": "Manufacturer of semiconductors",
-          "logo": {
-            "id": 130,
-            "documentId": "w2649jgnltq742eueb632af4",
-            "url": "/uploads/renesas.png"
-          }
-        },
-        {
-          "id": 604,
-          "documentId": "jkgqpd6x1kp3otkczu2rl1aj",
-          "name": "STM",
-          "category": "Embedded Systems",
-          "slug": "stm",
-          "createdAt": "2025-07-04T07:07:55.030Z",
-          "updatedAt": "2025-07-04T07:07:55.030Z",
-          "publishedAt": "2025-07-04T07:07:55.036Z",
-          "tooltip": "STMicroelectronics - semiconductor solutions",
-          "logo": {
-            "id": 132,
-            "documentId": "cci8hiuc5v4lkv63zd60r694",
-            "url": "/uploads/stm.png"
-          }
-        },
-        {
           "id": 496,
           "documentId": "eohox7lja2c2wzingwsarayy",
           "name": "Scikit",
@@ -1769,22 +1738,6 @@
             "id": 159,
             "documentId": "g9eg0lh7qb2jb6uetpg44u80",
             "url": "/uploads/qa.selenium.png"
-          }
-        },
-        {
-          "id": 602,
-          "documentId": "ifnnzdp46az0q36sjcuwoobq",
-          "name": "SiLabs",
-          "category": "Embedded Systems",
-          "slug": "silabs",
-          "createdAt": "2025-07-04T07:07:54.972Z",
-          "updatedAt": "2025-07-04T07:07:54.972Z",
-          "publishedAt": "2025-07-04T07:07:54.977Z",
-          "tooltip": "Silicon Labs - IoT solutions",
-          "logo": {
-            "id": 131,
-            "documentId": "eg6lxe29c6cn3ljd4389pzv1",
-            "url": "/uploads/silab-image.png"
           }
         },
         {
@@ -1868,19 +1821,19 @@
           }
         },
         {
-          "id": 626,
+          "id": 649,
           "documentId": "i0fsfkmuc0mui4k4lkmoowkq",
           "name": "Terraform",
           "category": "DevOps",
           "slug": "terraform",
           "createdAt": "2025-07-04T07:07:55.435Z",
-          "updatedAt": "2025-07-04T07:07:55.435Z",
-          "publishedAt": "2025-07-04T07:07:55.438Z",
+          "updatedAt": "2025-07-25T11:18:04.348Z",
+          "publishedAt": "2025-07-25T11:18:04.372Z",
           "tooltip": "Infrastructure-as-Code (IaC) tool for provisioning multi-cloud resources",
           "logo": {
             "id": 143,
             "documentId": "y1djohg2otofqbnyu17z4n8m",
-            "url": "/uploads/terraform.png"
+            "url": "/uploads/terraformpng"
           }
         },
         {
@@ -1932,14 +1885,14 @@
           }
         },
         {
-          "id": 504,
+          "id": 645,
           "documentId": "ua3uple7ip01hswg9o7y9p0h",
           "name": "Weaviate",
           "category": "Artificial Intelligence",
-          "slug": "weaviate",
+          "slug": "weaviate-1",
           "createdAt": "2025-07-04T06:57:52.592Z",
-          "updatedAt": "2025-07-04T06:57:52.592Z",
-          "publishedAt": "2025-07-04T06:57:52.596Z",
+          "updatedAt": "2025-07-25T11:01:12.994Z",
+          "publishedAt": "2025-07-25T11:01:13.034Z",
           "tooltip": "Hybrid vector search",
           "logo": {
             "id": 82,
@@ -1965,105 +1918,105 @@
         }
       ],
       "contact_section": {
-        "id": 4,
+        "id": 6,
         "documentId": "oufmpfk024nj9mtlu6me5t8i",
         "createdAt": "2025-05-28T11:33:42.635Z",
-        "updatedAt": "2025-07-20T20:37:25.718Z",
-        "publishedAt": "2025-07-20T20:37:25.740Z",
+        "updatedAt": "2025-07-25T10:15:45.668Z",
+        "publishedAt": "2025-07-25T10:15:45.688Z",
         "title": "Let’s Build Your Digital Success Story",
-        "description": "With decades of expertise and hundreds of future-ready solutions delivered globally, EyraTech combines technical mastery and industry insights to turn complex challenges into growth. Partner with a team trusted by enterprises worldwide—where technology meets innovation.",
+        "description": "With decades of expertise and hundreds of future-ready solutions delivered globally, Smach Stack combines technical mastery and industry insights to turn complex challenges into growth. Partner with a team trusted by enterprises worldwide—where technology meets innovation.",
         "contactForm": {
-          "id": 4,
+          "id": 6,
           "Input": [
             {
-              "id": 25,
+              "id": 41,
               "label": "First Name"
             },
             {
-              "id": 26,
+              "id": 42,
               "label": "Last Name"
             },
             {
-              "id": 27,
+              "id": 43,
               "label": "Email Address"
             },
             {
-              "id": 28,
+              "id": 44,
               "label": "Company Name"
             },
             {
-              "id": 29,
+              "id": 45,
               "label": "Country"
             },
             {
-              "id": 30,
+              "id": 46,
               "label": "How did you hear about us?"
             },
             {
-              "id": 31,
+              "id": 47,
               "label": "Which service interests you?"
             },
             {
-              "id": 32,
+              "id": 48,
               "label": "How can we help?"
             }
           ],
           "inputOptions": [
             {
-              "id": 16,
+              "id": 26,
               "label": "Advertisement",
               "value": "Ads"
             },
             {
-              "id": 17,
+              "id": 27,
               "label": "Search Engine",
               "value": "SE"
             },
             {
-              "id": 18,
+              "id": 28,
               "label": "Social Media",
               "value": "SM"
             },
             {
-              "id": 19,
+              "id": 29,
               "label": "Email Marketing",
               "value": "EM"
             },
             {
-              "id": 20,
+              "id": 30,
               "label": "Other",
               "value": "Ot"
             }
           ],
           "serviceTitles": [
             {
-              "id": 19,
+              "id": 31,
               "title": "AI & ML Development"
             },
             {
-              "id": 20,
+              "id": 32,
               "title": "Cloud Engineering"
             },
             {
-              "id": 21,
-              "title": "Embedded Systems"
+              "id": 33,
+              "title": "Data Analytics"
             },
             {
-              "id": 22,
+              "id": 34,
               "title": "Web Development"
             },
             {
-              "id": 23,
+              "id": 35,
               "title": "Mobile App Development"
             },
             {
-              "id": 24,
+              "id": 36,
               "title": "ISO Certification"
             }
           ]
         },
         "footerSteps": {
-          "id": 4,
+          "id": 6,
           "firstStep": "An expert contacts you after having analyzed your requirements",
           "secondStep": "If needed, we sign an NDA to ensure the highest privacy level",
           "thirdStep": "We submit a comprehensive project proposal with estimates, timelines, CVs, etc."

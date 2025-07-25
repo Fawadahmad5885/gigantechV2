@@ -1,13 +1,13 @@
 {
   "data": {
-    "id": 6,
+    "id": 9,
     "documentId": "e8hvv2yav4g7btx08vqsw3c7",
     "createdAt": "2025-05-28T11:27:35.641Z",
-    "updatedAt": "2025-07-23T08:42:26.687Z",
-    "publishedAt": "2025-07-23T08:42:26.695Z",
+    "updatedAt": "2025-07-25T12:24:41.733Z",
+    "publishedAt": "2025-07-25T12:24:41.750Z",
     "aboutMetaData": {
-      "id": 16,
-      "metaTitle": "About SmachStack | Delivering Quality Tech Solutions",
+      "id": 30,
+      "metaTitle": "About Smach Stack | Delivering Quality Tech Solutions",
       "metaDescription": "SmachStack  is a leading software company delivering innovative tech solutions for businesses worldwide. We are specialize in software development and IT services.",
       "keyWords": "SmachStack , software solutions, technology company, top talent, client success",
       "metaImage": {
@@ -21,14 +21,14 @@
         "formats": {},
         "hash": "favicon_b8cedc392e",
         "ext": ".ico",
-        "mime": "image/png",
-        "size": 0.17,
+        "mime": "image/x-icon",
+        "size": 15.41,
         "url": "/uploads/favicon_b8cedc392e.ico",
         "previewUrl": null,
         "provider": "local",
         "provider_metadata": null,
         "createdAt": "2025-05-28T11:27:26.290Z",
-        "updatedAt": "2025-07-23T08:42:24.520Z",
+        "updatedAt": "2025-07-25T12:22:07.925Z",
         "publishedAt": "2025-05-28T11:27:26.290Z"
       }
     }

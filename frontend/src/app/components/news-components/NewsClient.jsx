@@ -73,7 +73,7 @@ const NewsClient = ({
     scroller.scrollTo(sectionId, {
       smooth: true,
       duration: 500,
-      offset: -85,
+      offset: -10,
     });
   };
 
@@ -135,19 +135,19 @@ const NewsClient = ({
             </p>
               <CustomButton 
                 className=" border  border-white text-white hover:bg-gray-100 hover:text-textColor duration-300   transition-colors"
-                onClick={() => scrollToSection('contact')}
+                onClick={() => scrollToSection('news-and-blogs-list')}
               >
-                {"Get Started"}
+                {"Learn More"}
               </CustomButton>
           </div>
         </div>
       </div>
 
       {/* News Section with Pagination */}
-      <div ref={newsRef} className="py-16">
-        <div className="component-width mx-auto max-lg:px-5  ">
+      <div id="news-and-blogs-list" ref={newsRef} className="py-16">
+        <div  className="component-width mx-auto max-lg:px-5  ">
           {/* News Cards */}
-          <div className="grid grid-cols-1 mt-10 mx-auto component-width  md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+          <div   className="grid grid-cols-1 mt-10 mx-auto component-width  md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
             {paginatedData.map((item) => (
               <NewsCard key={item.id} item={item} />
             ))}

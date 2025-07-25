@@ -43,7 +43,7 @@ function Footer({ footerData, services, industries }) {
   return (
     <div className="bg-gray-100 shadow-lg">
       {/* Footer 1st section - Offices */}
-      <div className="relative grid grid-cols-1 lg:grid-cols-2 first-footer-bg max-lg:px-8 py-8 component-width  lg:mx-auto xl:py-8 xl:px-0 mx-auto">
+      <div className="relative grid grid-cols-1 lg:grid-cols-2 first-footer-bg max-lg:px-5 py-8 component-width  lg:mx-auto xl:py-8 xl:px-0 mx-auto">
         {officesCards.map((office) => (
           <div key={`${office.id}-${office.heading}`} className="flex flex-col max-md:mb-8">
             <div className="flex flex-row items-center gap-2">
@@ -67,7 +67,7 @@ function Footer({ footerData, services, industries }) {
               <MdLocationOn className="text-lg" />
               <p className="text-sm ml-[14px]">{office.location}</p>
             </div>
-            <div className="pl-4 mt-4 mx-2 shadow-md z-10 rounded-xl">
+            {/* <div className="pl-4 mt-4 mx-2 shadow-md z-10 rounded-xl">
               {office.mapUrl && (
                 <iframe
                   src={office.mapUrl}
@@ -79,21 +79,21 @@ function Footer({ footerData, services, industries }) {
                   referrerPolicy="no-referrer-when-downgrade"
                 />
               )}
-            </div>
+            </div> */}
           </div>
         ))}
       </div>
 
       {/* Footer 2nd section - Main content */}
       <div className="bg-primaryColor">
-        <div className="grid grid-cols-1 w-full sm:grid-cols-2 md:grid-cols-4 py-8 max-lg:px-8 lg:max-w-[940px] xl:max-w-[1200px] 2xl:max-w-[1346px] lg:mx-auto xl:py-8 xl:px-0 mx-auto bg-transparent">
+        <div className="grid grid-cols-1 w-full sm:grid-cols-2 md:grid-cols-4 py-8 max-lg:px-5 lg:max-w-[940px] xl:max-w-[1200px] 2xl:max-w-[1346px] lg:mx-auto xl:py-8 xl:px-0 mx-auto bg-transparent">
           {/* Logo and description */}
           <div className="flex flex-col gap-4 mt-2">
               <Image
                 src={getStrapiMedia(whiteLogo.url)}
-                width={200}
-                height={100}
-                alt="EyraTech logo"
+                width={140}
+                height={40}
+                alt="Smach Stack logo"
                 className="max-w-[180px]"
               />
               <p className="text-white mt-4 font-light text-sm tracking-wide whitespace-pre-line">

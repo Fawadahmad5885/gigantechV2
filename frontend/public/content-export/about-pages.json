@@ -7,36 +7,31 @@
       "updatedAt": "2025-07-20T23:01:36.085Z",
       "publishedAt": "2025-07-20T23:01:36.131Z",
       "about_hero": {
-        "id": 4,
+        "id": 5,
         "documentId": "bta8qdv3t9a8t788ib6z7kuv",
         "heading": "The Leading Top Talent Solution Company",
         "description": " At SmachStack, we’re a global technology partner empowering businesses\n          across North America, Europe, and beyond with future-ready solutions\n          in web development, mobile applications, AI, and embedded systems.\n          With a team averaging over 10 years of experience—including top AI\n          specialists and DevOps architects—we bring precision to projects\n          ranging from safety-critical systems to scalable enterprise platforms.\n          Strategically located in Canada, the UK, and Pakistan, our globally\n          connected teams combine technical mastery with a client-first\n          approach, delivering technology that solves complex challenges while\n          driving growth. Let’s build what’s next—together.",
         "subHeading": null,
         "createdAt": "2025-05-28T11:56:54.113Z",
-        "updatedAt": "2025-07-22T13:41:24.838Z",
-        "publishedAt": "2025-07-22T13:41:24.849Z",
+        "updatedAt": "2025-07-25T10:42:19.542Z",
+        "publishedAt": "2025-07-25T10:42:19.579Z",
         "Button": {
-          "id": 174,
+          "id": 183,
           "title": "Get Started",
           "url": "contact"
         },
-        "styledText": {
-          "id": 4,
-          "preText": "When We Commit",
-          "highLighted": "We Always Deliver",
-          "postText": "We are a company Powered by Technology and Driven by Trust"
-        }
+        "styledText": null
       },
       "partner_choice": {
-        "id": 2,
+        "id": 3,
         "documentId": "xbcz20h6cdscxqxegtwwmzaw",
-        "heading": "Why we're the partner of choice for our clients",
+        "heading": "Why we are the partner of choice for our clients",
         "createdAt": "2025-05-28T12:15:58.642Z",
-        "updatedAt": "2025-05-28T12:15:58.642Z",
-        "publishedAt": "2025-05-28T12:15:58.653Z",
+        "updatedAt": "2025-07-25T10:43:33.979Z",
+        "publishedAt": "2025-07-25T10:43:34.039Z",
         "partnerChoiceCard": [
           {
-            "id": 32,
+            "id": 214,
             "title": "Building partnerships that last",
             "subtitle": null,
             "description": "We nurture long-term relationships by creating value for our clients in all industries.",
@@ -47,7 +42,7 @@
             }
           },
           {
-            "id": 33,
+            "id": 215,
             "title": "Creating value",
             "subtitle": null,
             "description": "Our world-class team of engineers is ready to take on diverse and challenging projects to create real value.",
@@ -58,7 +53,7 @@
             }
           },
           {
-            "id": 34,
+            "id": 216,
             "title": "Proven capability",
             "subtitle": null,
             "description": "Give us a problem and we will engineer a solution! We build enterprise and analytical software for every industry.",
@@ -69,7 +64,7 @@
             }
           },
           {
-            "id": 35,
+            "id": 217,
             "title": "Leading Top Talent",
             "subtitle": null,
             "description": "We have handpicked the best and brightest professionals who are experts in their respective areas of expertise.",
@@ -80,7 +75,7 @@
             }
           },
           {
-            "id": 36,
+            "id": 218,
             "title": "Time Zone Alignment",
             "subtitle": null,
             "description": "We have team members strategically located in different time zones, which allows us to offer 24/7.",
@@ -91,7 +86,7 @@
             }
           },
           {
-            "id": 37,
+            "id": 219,
             "title": "Experienced Team",
             "subtitle": null,
             "description": "With a decade long practical experience in their court, our senior engineers are not only certified in major technological degrees.",
@@ -104,116 +99,116 @@
         ]
       },
       "about_story": {
-        "id": 3,
+        "id": 4,
         "documentId": "e70g1sphlmgwj3c60qlcn8z5",
         "heading": "Our Story",
-        "subheading": "SmachStack’s journey began with a bold ambition—to transform industries\n          through intelligent and safety-critical technology. From day one, we\n          set out to tackle complex challenges, developing scalable solutions\n          that not only optimize efficiency but also enhance security.",
+        "subheading": "Smach Stack’s journey began with a bold ambition—to transform industries\n          through intelligent and safety-critical technology. From day one, we\n          set out to tackle complex challenges, developing scalable solutions\n          that not only optimize efficiency but also enhance security.",
         "firstParagraph": "Our path has been shaped by a relentless commitment to innovation.\n          Starting as a small team of visionaries, we collaborated with industry\n          leaders to push the boundaries of what technology can achieve. Over\n          time, our expertise in automation, predictive analytics, and AI-driven\n          solutions positioned us as a trusted partner in critical sectors,\n          particularly in the rail industry.",
-        "secondParagraph": "With a growing presence across North America, Europe and Asia,\n          EyraTech has evolved into more than just a software company—we are\n          enablers of progress. By integrating cutting-edge technology with\n          real-world applications, we help businesses navigate digital\n          transformation, improve safety, and unlock new growth opportunities.\n          What started as a vision has become a reality: EyraTech is redefining\n          industries with solutions that power a smarter, safer, and more\n          connected future.",
+        "secondParagraph": "With a growing presence across North America, Europe and Asia,\n          Smach Stack has evolved into more than just a software company—we are\n          enablers of progress. By integrating cutting-edge technology with\n          real-world applications, we help businesses navigate digital\n          transformation, improve safety, and unlock new growth opportunities.\n          What started as a vision has become a reality: Smach Stack is redefining\n          industries with solutions that power a smarter, safer, and more\n          connected future.",
         "createdAt": "2025-05-28T12:17:02.478Z",
-        "updatedAt": "2025-07-22T13:49:42.777Z",
-        "publishedAt": "2025-07-22T13:49:42.784Z"
+        "updatedAt": "2025-07-25T10:28:43.087Z",
+        "publishedAt": "2025-07-25T10:28:43.118Z"
       },
       "contact_section": {
-        "id": 4,
+        "id": 6,
         "documentId": "oufmpfk024nj9mtlu6me5t8i",
         "createdAt": "2025-05-28T11:33:42.635Z",
-        "updatedAt": "2025-07-20T20:37:25.718Z",
-        "publishedAt": "2025-07-20T20:37:25.740Z",
+        "updatedAt": "2025-07-25T10:15:45.668Z",
+        "publishedAt": "2025-07-25T10:15:45.688Z",
         "title": "Let’s Build Your Digital Success Story",
-        "description": "With decades of expertise and hundreds of future-ready solutions delivered globally, EyraTech combines technical mastery and industry insights to turn complex challenges into growth. Partner with a team trusted by enterprises worldwide—where technology meets innovation.",
+        "description": "With decades of expertise and hundreds of future-ready solutions delivered globally, Smach Stack combines technical mastery and industry insights to turn complex challenges into growth. Partner with a team trusted by enterprises worldwide—where technology meets innovation.",
         "contactForm": {
-          "id": 4,
+          "id": 6,
           "Input": [
             {
-              "id": 25,
+              "id": 41,
               "label": "First Name"
             },
             {
-              "id": 26,
+              "id": 42,
               "label": "Last Name"
             },
             {
-              "id": 27,
+              "id": 43,
               "label": "Email Address"
             },
             {
-              "id": 28,
+              "id": 44,
               "label": "Company Name"
             },
             {
-              "id": 29,
+              "id": 45,
               "label": "Country"
             },
             {
-              "id": 30,
+              "id": 46,
               "label": "How did you hear about us?"
             },
             {
-              "id": 31,
+              "id": 47,
               "label": "Which service interests you?"
             },
             {
-              "id": 32,
+              "id": 48,
               "label": "How can we help?"
             }
           ],
           "inputOptions": [
             {
-              "id": 16,
+              "id": 26,
               "label": "Advertisement",
               "value": "Ads"
             },
             {
-              "id": 17,
+              "id": 27,
               "label": "Search Engine",
               "value": "SE"
             },
             {
-              "id": 18,
+              "id": 28,
               "label": "Social Media",
               "value": "SM"
             },
             {
-              "id": 19,
+              "id": 29,
               "label": "Email Marketing",
               "value": "EM"
             },
             {
-              "id": 20,
+              "id": 30,
               "label": "Other",
               "value": "Ot"
             }
           ],
           "serviceTitles": [
             {
-              "id": 19,
+              "id": 31,
               "title": "AI & ML Development"
             },
             {
-              "id": 20,
+              "id": 32,
               "title": "Cloud Engineering"
             },
             {
-              "id": 21,
-              "title": "Embedded Systems"
+              "id": 33,
+              "title": "Data Analytics"
             },
             {
-              "id": 22,
+              "id": 34,
               "title": "Web Development"
             },
             {
-              "id": 23,
+              "id": 35,
               "title": "Mobile App Development"
             },
             {
-              "id": 24,
+              "id": 36,
               "title": "ISO Certification"
             }
           ]
         },
         "footerSteps": {
-          "id": 4,
+          "id": 6,
           "firstStep": "An expert contacts you after having analyzed your requirements",
           "secondStep": "If needed, we sign an NDA to ensure the highest privacy level",
           "thirdStep": "We submit a comprehensive project proposal with estimates, timelines, CVs, etc."

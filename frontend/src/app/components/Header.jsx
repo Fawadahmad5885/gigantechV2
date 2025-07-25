@@ -46,6 +46,12 @@ export default function Header({headerData}) {
       }
     }
   };
+  
+  const handleGetStarted = () => {
+    setMobileOpen(false);
+    scrollToSection("contact-us");
+  };
+
   const logoUrl = headerData?.logo?.url ? getStrapiMedia(headerData.logo.url) : null;
   const drawer = (
     <Box sx={{ padding: "0 10px", marginLeft: "10px" }}>
@@ -86,6 +92,15 @@ export default function Header({headerData}) {
             </button>
           </ListItem>
         ))}
+        {/* Add Get Started button to mobile drawer */}
+        <ListItem disablePadding>
+          <button
+            className="text-secondaryColor border-secondaryColor py-3 hover:bg-secondaryColor hover:text-white transition-all duration-300 flex items-center gap-2 disabled:opacity-50 px-6 text-[14px] leading-[16px] rounded-md tracking-wider border w-full justify-center my-4"
+            onClick={handleGetStarted}
+          >
+            Get Started
+          </button>
+        </ListItem>
       </List>
 
       <div className="flex flex-row gap-4 py-[12px] items-center">
@@ -148,8 +163,8 @@ export default function Header({headerData}) {
       </Drawer>
 
       {/* Desktop Header */}
-      <div className="component-width lg:mx-auto relative hidden lg:flex w-full py-6">
-        <div className="flex w-full flex-row justify-between p-2">
+      <div className="component-width lg:mx-auto relative hidden lg:flex w-full py-3">
+        <div className="flex w-full flex-row justify-between p-2 pr-0">
           {logoUrl && (
            <Image
               src={logoUrl}
@@ -162,7 +177,7 @@ export default function Header({headerData}) {
             />
           )}
           <nav className="flex-grow flex justify-end items-center">
-            <ul className="flex gap-10 font-poppins text-lg text-black">
+            <ul className="flex gap-10 font-poppins items-center text-lg text-black">
               {headerData?.navItems?.map((item) => (
                 <li
                   key={item.id}
@@ -174,6 +189,14 @@ export default function Header({headerData}) {
                 </li>
                 
               ))}
+                <li>
+                  <button
+                    className="text-secondaryColor border-secondaryColor py-3 hover:bg-secondaryColor hover:text-white transition-all duration-300 flex items-center gap-2 disabled:opacity-50 px-6 text-[14px] leading-[16px] rounded-md tracking-wider border"
+                    onClick={() => scrollToSection("contact-us")}
+                  >
+                    Get Started
+                  </button>
+                </li>
             </ul>
           </nav>
         </div>

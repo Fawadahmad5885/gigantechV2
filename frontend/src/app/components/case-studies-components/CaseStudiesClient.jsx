@@ -21,7 +21,7 @@ export default function CaseStudiesClient({
     scroller.scrollTo(sectionId, {
       smooth: true,
       duration: 500,
-      offset: -85,
+      offset: -10,
     });
   };
 
@@ -46,16 +46,16 @@ export default function CaseStudiesClient({
             {Button && (
               <CustomButton 
                       className=" border  border-white text-white hover:bg-gray-100 hover:text-textColor duration-300   transition-colors"
-                onClick={() => scrollToSection('contact')}
+                onClick={() => scrollToSection('cards-section')}
               >
-                {Button.title}
+                {"Learn More"}
               </CustomButton>
             )}
           </div>
         </div>
       </div>
-      <div>
-        <CardsSection cards={caseStudiesCards} />
+      <div id="cards-section">
+        <CardsSection  cards={caseStudiesCards} />
         <Contact
           id="contact"
           headerData={contactSectionHeader}

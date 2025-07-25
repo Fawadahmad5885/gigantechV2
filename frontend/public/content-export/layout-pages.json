@@ -7,11 +7,11 @@
       "updatedAt": "2025-07-21T10:53:44.419Z",
       "publishedAt": "2025-07-21T10:53:44.436Z",
       "header_section": {
-        "id": 15,
+        "id": 16,
         "documentId": "r0n4wxqv3q928g7v845yaln4",
         "createdAt": "2025-07-21T10:31:43.257Z",
-        "updatedAt": "2025-07-24T18:43:56.636Z",
-        "publishedAt": "2025-07-24T18:43:56.655Z",
+        "updatedAt": "2025-07-25T09:27:23.397Z",
+        "publishedAt": "2025-07-25T09:27:23.413Z",
         "logo": {
           "id": 175,
           "documentId": "bhsdngkd5r2qkx4rusyrzkea",
@@ -19,31 +19,31 @@
         },
         "navItems": [
           {
-            "id": 92,
+            "id": 97,
             "Label": "Industries",
             "SectionId": "industries",
             "linkType": "section"
           },
           {
-            "id": 93,
+            "id": 98,
             "Label": "Services",
             "SectionId": "services",
             "linkType": "section"
           },
           {
-            "id": 94,
+            "id": 99,
             "Label": "Case Studies",
             "SectionId": "case-studies",
             "linkType": "page"
           },
           {
-            "id": 95,
+            "id": 100,
             "Label": "News & Blogs",
             "SectionId": "news-and-blogs",
             "linkType": "page"
           },
           {
-            "id": 96,
+            "id": 101,
             "Label": "About",
             "SectionId": "about-us",
             "linkType": "page"
@@ -51,18 +51,18 @@
         ]
       },
       "footer_section": {
-        "id": 11,
+        "id": 14,
         "documentId": "nhcc3m9fqzrd5e2xw59noyt2",
         "createdAt": "2025-05-28T11:39:21.661Z",
-        "updatedAt": "2025-07-24T18:44:31.180Z",
-        "publishedAt": "2025-07-24T18:44:31.207Z",
+        "updatedAt": "2025-07-25T10:12:47.266Z",
+        "publishedAt": "2025-07-25T10:12:47.282Z",
         "description": "Over a decade of expertise,\ndelivering future-ready solutions\nworldwide.",
         "officesCard": [
           {
-            "id": 27,
-            "heading": "SmachStack Pvt. Ltd. (Pakistan)",
+            "id": 33,
+            "heading": "SmachStack Technologies",
             "subHeading": "Research & Innovation Hub",
-            "location": "Arfa Kareem Tower, Nishtar Town, Lahore, Pakistan",
+            "location": "Lahore",
             "mobileNumber": "+1 (844) 539 3578",
             "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1474.2797783535889!2d74.34112189940284!3d31.475711238440244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39190427303d1d9b%3A0x98af47ff5799036e!2zQXJmYSBJVCBUb3dlciDYp9ix2YHYuSDYotim24wg2bnbjCDZudin2YjYsQ!5e0!3m2!1sen!2s!4v1741868771027!5m2!1sen!2s",
             "flagImage": {
@@ -122,10 +122,10 @@
             }
           },
           {
-            "id": 28,
-            "heading": "SmachStack(UK)",
+            "id": 34,
+            "heading": "SmachStack Technologies",
             "subHeading": "Cloud & DevOps Center",
-            "location": "Arfa Kareem Tower, Nishtar Town, Lahore, Pakistan",
+            "location": "London",
             "mobileNumber": "+1 (844) 539 3987",
             "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1474.2797783535889!2d74.34112189940284!3d31.475711238440244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39190427303d1d9b%3A0x98af47ff5799036e!2zQXJmYSBJVCBUb3dlciDYp9ix2YHYuSDYotim24wg2bnbjCDZudin2YjYsQ!5e0!3m2!1sen!2s!4v1741868771027!5m2!1sen!2s",
             "flagImage": {
@@ -223,12 +223,12 @@
           }
         },
         {
-          "id": 6,
+          "id": 13,
           "documentId": "hs25p5g8dpycefj9juf0k52s",
-          "shortTitle": "Embedded Systems",
+          "shortTitle": "Data Analytics",
           "createdAt": "2025-05-28T11:40:06.325Z",
-          "updatedAt": "2025-05-28T11:40:06.325Z",
-          "publishedAt": "2025-05-28T11:40:06.329Z",
+          "updatedAt": "2025-07-25T10:15:00.996Z",
+          "publishedAt": "2025-07-25T10:15:01.004Z",
           "layout_page": {
             "id": 6,
             "documentId": "m9q7a7ov77tbrzdqywhdcp35",

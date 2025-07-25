@@ -434,105 +434,105 @@
         }
       ],
       "contact_section": {
-        "id": 4,
+        "id": 6,
         "documentId": "oufmpfk024nj9mtlu6me5t8i",
         "createdAt": "2025-05-28T11:33:42.635Z",
-        "updatedAt": "2025-07-20T20:37:25.718Z",
-        "publishedAt": "2025-07-20T20:37:25.740Z",
+        "updatedAt": "2025-07-25T10:15:45.668Z",
+        "publishedAt": "2025-07-25T10:15:45.688Z",
         "title": "Let’s Build Your Digital Success Story",
-        "description": "With decades of expertise and hundreds of future-ready solutions delivered globally, EyraTech combines technical mastery and industry insights to turn complex challenges into growth. Partner with a team trusted by enterprises worldwide—where technology meets innovation.",
+        "description": "With decades of expertise and hundreds of future-ready solutions delivered globally, Smach Stack combines technical mastery and industry insights to turn complex challenges into growth. Partner with a team trusted by enterprises worldwide—where technology meets innovation.",
         "contactForm": {
-          "id": 4,
+          "id": 6,
           "Input": [
             {
-              "id": 25,
+              "id": 41,
               "label": "First Name"
             },
             {
-              "id": 26,
+              "id": 42,
               "label": "Last Name"
             },
             {
-              "id": 27,
+              "id": 43,
               "label": "Email Address"
             },
             {
-              "id": 28,
+              "id": 44,
               "label": "Company Name"
             },
             {
-              "id": 29,
+              "id": 45,
               "label": "Country"
             },
             {
-              "id": 30,
+              "id": 46,
               "label": "How did you hear about us?"
             },
             {
-              "id": 31,
+              "id": 47,
               "label": "Which service interests you?"
             },
             {
-              "id": 32,
+              "id": 48,
               "label": "How can we help?"
             }
           ],
           "inputOptions": [
             {
-              "id": 16,
+              "id": 26,
               "label": "Advertisement",
               "value": "Ads"
             },
             {
-              "id": 17,
+              "id": 27,
               "label": "Search Engine",
               "value": "SE"
             },
             {
-              "id": 18,
+              "id": 28,
               "label": "Social Media",
               "value": "SM"
             },
             {
-              "id": 19,
+              "id": 29,
               "label": "Email Marketing",
               "value": "EM"
             },
             {
-              "id": 20,
+              "id": 30,
               "label": "Other",
               "value": "Ot"
             }
           ],
           "serviceTitles": [
             {
-              "id": 19,
+              "id": 31,
               "title": "AI & ML Development"
             },
             {
-              "id": 20,
+              "id": 32,
               "title": "Cloud Engineering"
             },
             {
-              "id": 21,
-              "title": "Embedded Systems"
+              "id": 33,
+              "title": "Data Analytics"
             },
             {
-              "id": 22,
+              "id": 34,
               "title": "Web Development"
             },
             {
-              "id": 23,
+              "id": 35,
               "title": "Mobile App Development"
             },
             {
-              "id": 24,
+              "id": 36,
               "title": "ISO Certification"
             }
           ]
         },
         "footerSteps": {
-          "id": 4,
+          "id": 6,
           "firstStep": "An expert contacts you after having analyzed your requirements",
           "secondStep": "If needed, we sign an NDA to ensure the highest privacy level",
           "thirdStep": "We submit a comprehensive project proposal with estimates, timelines, CVs, etc."

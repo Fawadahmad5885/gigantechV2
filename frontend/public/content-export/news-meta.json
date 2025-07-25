@@ -1,15 +1,15 @@
 {
   "data": {
-    "id": 5,
+    "id": 6,
     "documentId": "wf0xqbeen2eyhqujjqecuh03",
     "createdAt": "2025-07-14T10:55:15.035Z",
-    "updatedAt": "2025-07-23T08:45:11.797Z",
-    "publishedAt": "2025-07-23T08:45:11.809Z",
+    "updatedAt": "2025-07-25T12:23:51.105Z",
+    "publishedAt": "2025-07-25T12:23:51.123Z",
     "newsMetaData": {
-      "id": 19,
-      "metaTitle": "SmachStack News, Blogs & Events | Latest Technology Updates & Insights",
+      "id": 27,
+      "metaTitle": "Smach Stack News, Blogs & Events | Latest Technology Updates & Insights",
       "metaDescription": "Stay updated with the latest news, blogs, and events from SmachStack. Explore industry insights, company announcements, product updates, and expert tech articles shaping the future of innovation.",
-      "keyWords": "SmachStack news, SmachStack blogs, EyraTech events, tech industry news, software company news, innovation updates, IT events, technology insights, tech blog, company announcements",
+      "keyWords": "SmachStack news, Smach Stack blogs, Smach Stack events, tech industry news, software company news, innovation updates, IT events, technology insights, tech blog, company announcements",
       "metaImage": {
         "id": 170,
         "documentId": "xljzfku6ph96gr56lb2iye6v",
@@ -21,14 +21,14 @@
         "formats": {},
         "hash": "eyratech_logo_7f41079570",
         "ext": ".png",
-        "mime": "image/png",
-        "size": 0.17,
+        "mime": "image/x-icon",
+        "size": 15.41,
         "url": "/uploads/eyratech_logo_7f41079570.png",
         "previewUrl": null,
         "provider": "local",
         "provider_metadata": null,
         "createdAt": "2025-07-14T10:53:57.165Z",
-        "updatedAt": "2025-07-23T08:44:15.016Z",
+        "updatedAt": "2025-07-25T12:22:47.410Z",
         "publishedAt": "2025-07-14T10:53:57.165Z"
       }
     }

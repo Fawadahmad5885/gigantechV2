@@ -1,15 +1,15 @@
 {
   "data": {
-    "id": 5,
+    "id": 7,
     "documentId": "f8u9s3s55m2zmkzb5fcm4ec8",
     "createdAt": "2025-07-14T10:54:14.223Z",
-    "updatedAt": "2025-07-23T08:44:30.116Z",
-    "publishedAt": "2025-07-23T08:44:30.124Z",
+    "updatedAt": "2025-07-25T12:24:31.507Z",
+    "publishedAt": "2025-07-25T12:24:31.530Z",
     "caseStudiesMetaData": {
-      "id": 18,
+      "id": 29,
       "metaTitle": "Case Studies | SmachStack - Innovative Software Solutions",
-      "metaDescription": "Explore how EyraTech delivers cutting-edge software solutions through real-world case studies. Discover our client success stories in app development, AI, cloud services, and enterprise software.",
-      "keyWords": "SmachStack case studies, software development success stories, app development projects, AI solutions, cloud software case studies, client success stories, tech company portfolio, custom software development",
+      "metaDescription": "Explore how Smach Stack delivers cutting-edge software solutions through real-world case studies. Discover our client success stories in app development, AI, cloud services, and enterprise software.",
+      "keyWords": "Smach Stack case studies, software development success stories, app development projects, AI solutions, cloud software case studies, client success stories, tech company portfolio, custom software development",
       "metaImage": {
         "id": 170,
         "documentId": "xljzfku6ph96gr56lb2iye6v",
@@ -21,14 +21,14 @@
         "formats": {},
         "hash": "eyratech_logo_7f41079570",
         "ext": ".png",
-        "mime": "image/png",
-        "size": 0.17,
+        "mime": "image/x-icon",
+        "size": 15.41,
         "url": "/uploads/eyratech_logo_7f41079570.png",
         "previewUrl": null,
         "provider": "local",
         "provider_metadata": null,
         "createdAt": "2025-07-14T10:53:57.165Z",
-        "updatedAt": "2025-07-23T08:44:15.016Z",
+        "updatedAt": "2025-07-25T12:22:47.410Z",
         "publishedAt": "2025-07-14T10:53:57.165Z"
       }
     }

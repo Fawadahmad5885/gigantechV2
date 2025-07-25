@@ -24,7 +24,7 @@ function ContactUs() {
             <div className=" md:flex-1 font-poppins md:my-auto">
               <p className="text-left pt-[5px] pb-[25px] w-full md:pl-[50px] text-white text-lg md:text-left max-md:mt-3">
                 With decades of expertise and hundreds of future-ready solutions
-                delivered globally, EyraTech combines technical mastery and
+                delivered globally, Smach Stack combines technical mastery and
                 industry insights to turn complex challenges into growth.
                 Partner with a team trusted by enterprises worldwide—where
                 technology meets innovation.
