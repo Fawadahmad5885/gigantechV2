@@ -672,16 +672,16 @@
         ]
       },
       "services_section": {
-        "id": 15,
+        "id": 16,
         "documentId": "mkn5zw5de424v1tvqcmrgaj2",
         "createdAt": "2025-05-28T11:21:56.484Z",
-        "updatedAt": "2025-07-25T10:06:39.721Z",
-        "publishedAt": "2025-07-25T10:06:39.737Z",
+        "updatedAt": "2025-07-25T13:46:20.506Z",
+        "publishedAt": "2025-07-25T13:46:20.592Z",
         "title": "Our Services",
         "description": "We provide a comprehensive range of services to help businesses secure their operations, streamline workflows, drive efficiency and support sustainable growth.",
         "serviceCard": [
           {
-            "id": 208,
+            "id": 220,
             "title": "AI Solutions & Machine Learning Development",
             "subtitle": null,
             "description": "Enhance automation, decision-making, and efficiency with AI-powered, data-driven solutions tailored to your business.",
@@ -706,7 +706,7 @@
             }
           },
           {
-            "id": 209,
+            "id": 221,
             "title": "Cloud Engineering, DevOps & Infrastructure",
             "subtitle": null,
             "description": "Streamline operations with scalable cloud solutions, automated deployments, and seamless integration.",
@@ -731,7 +731,7 @@
             }
           },
           {
-            "id": 210,
+            "id": 222,
             "title": "Data Analytics",
             "subtitle": null,
             "description": "Unlock insights through advanced analytics, enabling smarter decisions and strategic growth.",
@@ -756,7 +756,7 @@
             }
           },
           {
-            "id": 211,
+            "id": 223,
             "title": "Custom Web Application Development",
             "subtitle": null,
             "description": "Build secure, scalable, and high-performance web applications designed for optimal business growth and digital transformation.",
@@ -781,7 +781,7 @@
             }
           },
           {
-            "id": 212,
+            "id": 224,
             "title": "Mobile App Development & Optimization",
             "subtitle": null,
             "description": "Deliver fast, user-friendly mobile experiences with custom-built, performance-optimized, and feature-rich applications.",
@@ -806,7 +806,7 @@
             }
           },
           {
-            "id": 213,
+            "id": 225,
             "title": "ISO Certification & Compliance Consulting",
             "subtitle": null,
             "description": "Achieve industry compliance with expert consulting, tailored solutions, and end-to-end regulatory certification support.",
@@ -909,14 +909,14 @@
           }
         },
         {
-          "id": 651,
+          "id": 686,
           "documentId": "tlzr2pt6srjslzd096fb3oac",
           "name": "Ansible",
           "category": "DevOps",
           "slug": "ansible",
           "createdAt": "2025-07-04T07:07:55.458Z",
-          "updatedAt": "2025-07-25T11:19:54.240Z",
-          "publishedAt": "2025-07-25T11:19:54.265Z",
+          "updatedAt": "2025-07-25T13:39:19.343Z",
+          "publishedAt": "2025-07-25T13:39:19.401Z",
           "tooltip": "Agentless automation tool for configuration management and orchestration",
           "logo": {
             "id": 144,
@@ -941,14 +941,14 @@
           }
         },
         {
-          "id": 653,
+          "id": 687,
           "documentId": "z9tcwfncd501351qb8h0lnqn",
           "name": "Azure",
           "category": "DevOps",
           "slug": "azure",
           "createdAt": "2025-07-04T07:07:55.543Z",
-          "updatedAt": "2025-07-25T11:22:55.835Z",
-          "publishedAt": "2025-07-25T11:22:55.850Z",
+          "updatedAt": "2025-07-25T13:39:54.465Z",
+          "publishedAt": "2025-07-25T13:39:54.474Z",
           "tooltip": "Microsoft Azure DevOps",
           "logo": {
             "id": 147,
@@ -1021,14 +1021,14 @@
           }
         },
         {
-          "id": 646,
+          "id": 689,
           "documentId": "pme3uip2khmb640nkeckw5ty",
           "name": "Docker",
           "category": "DevOps",
           "slug": "docker",
           "createdAt": "2025-07-04T07:07:55.374Z",
-          "updatedAt": "2025-07-25T11:16:02.485Z",
-          "publishedAt": "2025-07-25T11:16:02.501Z",
+          "updatedAt": "2025-07-25T13:41:15.161Z",
+          "publishedAt": "2025-07-25T13:41:15.169Z",
           "tooltip": "Containerization platform for packaging and deploying applications",
           "logo": {
             "id": 141,
@@ -1101,14 +1101,14 @@
           }
         },
         {
-          "id": 647,
+          "id": 690,
           "documentId": "mqnn0jbt16gi783p5tc8o4pn",
           "name": "Grafana",
           "category": "DevOps",
           "slug": "grafana",
           "createdAt": "2025-07-04T07:07:55.517Z",
-          "updatedAt": "2025-07-25T11:16:22.213Z",
-          "publishedAt": "2025-07-25T11:16:22.233Z",
+          "updatedAt": "2025-07-25T13:41:42.157Z",
+          "publishedAt": "2025-07-25T13:41:42.163Z",
           "tooltip": "Observability platform for visualizing metrics, logs, and traces",
           "logo": {
             "id": 146,
@@ -1581,14 +1581,14 @@
           }
         },
         {
-          "id": 652,
+          "id": 688,
           "documentId": "uulq01hudd6ke0m54xb2b3so",
           "name": "Prometheus",
           "category": "DevOps",
           "slug": "prometheus",
           "createdAt": "2025-07-04T07:07:55.481Z",
-          "updatedAt": "2025-07-25T11:22:20.536Z",
-          "publishedAt": "2025-07-25T11:22:20.555Z",
+          "updatedAt": "2025-07-25T13:40:29.861Z",
+          "publishedAt": "2025-07-25T13:40:29.870Z",
           "tooltip": "Open-source monitoring and alerting toolkit for metrics collection",
           "logo": {
             "id": 145,
@@ -1821,14 +1821,14 @@
           }
         },
         {
-          "id": 649,
+          "id": 691,
           "documentId": "i0fsfkmuc0mui4k4lkmoowkq",
           "name": "Terraform",
           "category": "DevOps",
           "slug": "terraform",
           "createdAt": "2025-07-04T07:07:55.435Z",
-          "updatedAt": "2025-07-25T11:18:04.348Z",
-          "publishedAt": "2025-07-25T11:18:04.372Z",
+          "updatedAt": "2025-07-25T13:42:19.648Z",
+          "publishedAt": "2025-07-25T13:42:19.661Z",
           "tooltip": "Infrastructure-as-Code (IaC) tool for provisioning multi-cloud resources",
           "logo": {
             "id": 143,
@@ -1999,7 +1999,7 @@
             },
             {
               "id": 33,
-              "title": "Data Analytics"
+              "title": "Data Analytics."
             },
             {
               "id": 34,
