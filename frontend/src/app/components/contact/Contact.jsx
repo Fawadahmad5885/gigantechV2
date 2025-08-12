@@ -4,11 +4,12 @@ import { useState, useEffect } from "react";
 import { IoSendSharp } from "react-icons/io5";
 
 import FooterSteps from "./Steps";
-import { countries } from "@/data/contact-data/CountriesList";
+import { countries } from "../../../data/contact-data/CountriesList";
 import { CustomSelect } from "./CustomSelect";
-import { sendContactForm } from "@/lib/api";
+import { sendContactForm } from "../../../lib/api";
 import { CircularProgress } from "@mui/material";
 import { FaCheck } from "react-icons/fa";
+import Image from "next/image";
 
 function Contact({ headerData, contactForm }) {
   const formConfig = contactForm;
@@ -126,9 +127,26 @@ function Contact({ headerData, contactForm }) {
   };
 
   return (
-    <section className="contact-us">
-      <div className="flex flex-col lg:flex-row mx-auto">
-        <div className="w-2/5 max-lg:w-full bg-tertiaryColor px-5 lg:px-16 py-8">
+    <section className="h-auto relative py-[5%] ">
+     <div className=" absolute opacity-50 inset-0 ">
+             {/* ✅ Dynamic Background Image */}
+             <Image
+               src="/contact-bg.png"
+               alt="Services background"
+               fill
+               className="object-cover "
+               priority
+             />
+           </div>
+           <div className="px-5 md:px-[50px] font-poppins  text-center">
+          <h2 className="heading-text text-textColor  ">
+            Contact Us
+          </h2>
+          
+        </div>
+           <div className="container mt-10 mx-auto md:px-8">
+ <div className="flex flex-col  services-card   lg:flex-row ">
+        <div className="w-2/5 max-lg:w-full bg-slate-50 z-10  px-5 lg:px-16 py-8">
           <div>
             <h1 className="heading-text  !text-textColor mb-[15px] text-left">
               {title}
@@ -139,7 +157,7 @@ function Contact({ headerData, contactForm }) {
             <FooterSteps />
           </div>
         </div>
-        <div id="contact" className="w-3/5  max-lg:w-full">
+        <div id="contact" className="w-3/5 z-10 bg-white  max-lg:w-full">
           <div className="m-8" sx={{ m: { xs: "30px", md: "40px" } }}>
             <form onSubmit={handleFormSubmission} className="w-full">
               <div
@@ -150,7 +168,7 @@ function Contact({ headerData, contactForm }) {
                 <div className="relative">
                   <input
                     id="first-name"
-                    className="h-[52px] w-full rounded border border-gray-300 px-3 py-2 text-sm focus:outline-none focus:border-secondaryColor focus:border-2"
+                    className="h-[52px] w-full rounded border border-gray-300 px-3 py-2 text-sm focus:outline-none focus:border-primaryColor focus:border-2"
                     value={formValues.firstName}
                     onChange={(e) => handleInputChange(e, "firstName")}
                     onFocus={() => handleFocus("firstName")}
@@ -164,11 +182,7 @@ function Contact({ headerData, contactForm }) {
                       focusedField === "firstName" || formValues.firstName
                         ? "-top-2.5 text-xs bg-white px-1"
                         : "top-3.5"
-                    } transition-all duration-200 pointer-events-none ${
-                      focusedField === "firstName"
-                        ? "text-secondaryColor"
-                        : "text-gray-500"
-                    }`}
+                    } transition-all duration-200 pointer-events-none text-textColor`}
                   >
                     {inputLabels.firstName}
                     <span className="text-red-500 ml-0.5">*</span>
@@ -178,7 +192,7 @@ function Contact({ headerData, contactForm }) {
                 <div className="relative">
                   <input
                     id="last-name"
-                    className="h-[52px] w-full rounded border border-gray-300 bg-white px-3 py-2 text-sm focus:outline-none focus:border-secondaryColor focus:border-2"
+                    className="h-[52px] w-full rounded border border-gray-300 bg-white px-3 py-2 text-sm focus:outline-none focus:border-primaryColor focus:border-2"
                     value={formValues.lastName}
                     onChange={(e) => handleInputChange(e, "lastName")}
                     onFocus={() => handleFocus("lastName")}
@@ -192,11 +206,7 @@ function Contact({ headerData, contactForm }) {
                       focusedField === "lastName" || formValues.lastName
                         ? "-top-2.5 text-xs bg-white px-1"
                         : "top-3.5"
-                    } transition-all duration-200 pointer-events-none ${
-                      focusedField === "lastName"
-                        ? "text-secondaryColor"
-                        : "text-gray-500"
-                    }`}
+                    } transition-all duration-200 pointer-events-none text-textColor`}
                   >
                     {inputLabels.lastName}
                     <span className="text-red-500 ml-0.5">*</span>
@@ -365,6 +375,8 @@ function Contact({ headerData, contactForm }) {
           </div>
         </div>
       </div>
+           </div>
+     
     </section>
   );
 }

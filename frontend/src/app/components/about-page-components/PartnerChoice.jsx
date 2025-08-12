@@ -1,12 +1,12 @@
 import React from "react";
 import Image from "next/image";
-import { getStrapiMedia } from "@/lib/api";
+import { getStrapiMedia } from "../../../lib/api";
 
 function PartnerChoice(sectionData) {
-   const { heading, partnerChoiceCard } = sectionData.sectionData || {};
-  
+  const { heading, partnerChoiceCard } = sectionData.sectionData || {};
+
   return (
-    <div className="bg-gray-100 py-[5%]  w-full "id="why-choose-us">
+    <div className="bg-gray-100 py-[5%]  w-full " id="why-choose-us">
       <div>
         <h2 className="heading-text max-md:px-5  text-center text-textColor">
           {heading}
@@ -20,13 +20,25 @@ function PartnerChoice(sectionData) {
             >
               {/* Image with title */}
               <div className="flex flex-row items-center gap-4 mb-4">
-                <Image width={60} height={60} objectFit="contain" src={getStrapiMedia(item.image?.url)} alt={item.title} />
-                <h3 className="font-poppins text-lg font-medium  ">{item.title}</h3>
+                <Image
+                  width={60}
+                  height={60}
+                  objectFit="contain"
+                  src={getStrapiMedia(item.image?.url)}
+                  alt={item.title}
+                />
+                <h3 className="font-poppins text-lg font-medium  ">
+                  {item.title}
+                </h3>
               </div>
               {/* Red line with description */}
-              <div className="border-l-[2px]  border-primaryColor pl-4  
-              ">
-                <p className="text-gray-700 font-poppins text-justify text-base ">{item.description}</p>
+              <div
+                className="border-l-[2px]  border-primaryColor pl-4  
+              "
+              >
+                <p className="text-gray-700 font-poppins text-justify text-base ">
+                  {item.description}
+                </p>
               </div>
             </div>
           ))}

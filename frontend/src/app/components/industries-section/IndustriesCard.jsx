@@ -1,6 +1,6 @@
 // "use client";
 import Image from "next/image";
-import { getStrapiMedia } from "@/lib/api";
+import { getStrapiMedia } from "../../../lib/api";
 
 function IndustriesCard({ img, title, subtitle, desc }) {
   const imageUrl = img ? getStrapiMedia(img) : "/fallback-image.jpg";

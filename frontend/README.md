@@ -14,7 +14,7 @@ pnpm dev
 bun dev
 ```
 
-Open [https://www.eyratech.com](https://www.eyratech.com) with your browser to see the result.
+Open [https://www.Gigantech.com](https://www.Gigantech.com) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 

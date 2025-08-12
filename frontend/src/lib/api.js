@@ -1,4 +1,4 @@
-import { USE_LOCAL } from "@/utils/config";
+import { USE_LOCAL } from "../utils/config";
 export const sendContactForm = async (data) => {
   const response = await fetch("/api/contact", {
     method: "POST",

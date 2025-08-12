@@ -1,5 +1,5 @@
 // app/pages/case-studies/[slug].jsx
-import { fetchStrapi, getStrapiMedia } from "@/lib/api";
+import { fetchStrapi, getStrapiMedia } from "../../../lib/api";
 import CaseStudyMain from "@/app/components/case-studies-components/CaseStudyMain";
 
 // Generate static paths for both local and Strapi data
@@ -17,7 +17,9 @@ export async function generateStaticParams() {
   }
 
   try {
-    const res = await fetchStrapi("case-study-cards?fields=slug&populate=image");
+    const res = await fetchStrapi(
+      "case-study-cards?fields=slug&populate=image"
+    );
     return (res || []).map((item) => ({
       slug: item.attributes?.slug || item.slug,
     }));
@@ -30,15 +32,15 @@ export async function generateStaticParams() {
 // Unified data fetcher that works with both sources
 async function getCaseStudyData(slug) {
   let res;
-  
+
   if (process.env.USE_LOCAL) {
     res = await fetchStrapi("case-study-cards");
     if (!res) return null;
-    
+
     // Find matching item in local data
-    const caseStudy = res.find(item => item.slug === slug);
+    const caseStudy = res.find((item) => item.slug === slug);
     if (!caseStudy) return null;
-    
+
     // Transform local data to match Strapi structure
     return {
       id: caseStudy.id,
@@ -46,10 +48,10 @@ async function getCaseStudyData(slug) {
         ...caseStudy,
         image: {
           data: {
-            attributes: caseStudy.image
-          }
-        }
-      }
+            attributes: caseStudy.image,
+          },
+        },
+      },
     };
   }
 
@@ -59,14 +61,14 @@ async function getCaseStudyData(slug) {
       slug
     )}&populate[image][fields]=url,formats&populate[caseStudyCarousel][populate]=*`
   );
-  
+
   if (!res || !res.length) return null;
   return res[0];
 }
 
 // Unified contact data fetcher
 async function getContactData() {
-  const endpoint = 
+  const endpoint =
     "case-studies-pages?populate[contact_section][populate][contactForm][populate][Input][fields]=label&" +
     "&populate[contact_section][populate][contactForm][populate][Input][fields]=label&" +
     "&populate[contact_section][populate][contactForm][populate][inputOptions][fields]=label,value&" +
@@ -74,15 +76,15 @@ async function getContactData() {
     "&populate[contact_section][populate][footerSteps][fields]=*";
 
   const data = await fetchStrapi(endpoint);
-  
+
   if (process.env.USE_LOCAL && Array.isArray(data)) {
     // Transform local contact data to match Strapi structure
     return {
       contact_section: data[0]?.contact_section || {},
-      ...data[0]
+      ...data[0],
     };
   }
-  
+
   return data?.[0]?.attributes || {};
 }
 
@@ -90,7 +92,7 @@ export default async function CaseStudyDetail({ params }) {
   const { slug } = params;
   const [caseStudy, contactData] = await Promise.all([
     getCaseStudyData(slug),
-    getContactData()
+    getContactData(),
   ]);
 
   if (!caseStudy) {
@@ -100,11 +102,11 @@ export default async function CaseStudyDetail({ params }) {
   // Normalize the data structure for the component
   const normalizedCaseStudy = {
     ...caseStudy.attributes,
-    id: caseStudy.id
+    id: caseStudy.id,
   };
 
   return (
-    <CaseStudyMain 
+    <CaseStudyMain
       caseStudy={normalizedCaseStudy}
       contactSectionHeader={contactData.contact_section}
       contactForm={contactData.contact_section?.contactForm}

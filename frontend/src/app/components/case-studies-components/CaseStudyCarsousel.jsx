@@ -4,7 +4,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Image from "next/image";
-import { getStrapiMedia } from "@/lib/api";
+import { getStrapiMedia } from "../../../lib/api";
 
 function CaseStudyCarousel({ items }) {
   const sliderRef = useRef(null);
@@ -46,7 +46,10 @@ function CaseStudyCarousel({ items }) {
               </div>
 
               {/* Image Section */}
-              <div className="relative w-full" style={{ paddingBottom: "56.25%" }}>
+              <div
+                className="relative w-full"
+                style={{ paddingBottom: "56.25%" }}
+              >
                 {item.image && (
                   <Image
                     src={getStrapiMedia(item.image.url)}
@@ -70,8 +73,19 @@ function CaseStudyCarousel({ items }) {
           className="p-2 rounded-full bg-gray-200 hover:bg-primaryColor hover:text-white transition-colors"
           aria-label="Previous slide"
         >
-          <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            className="h-6 w-6"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+          >
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth={2}
+              d="M15 19l-7-7 7-7"
+            />
           </svg>
         </button>
         <button
@@ -79,8 +93,19 @@ function CaseStudyCarousel({ items }) {
           className="p-2 rounded-full bg-gray-200 hover:bg-primaryColor hover:text-white transition-colors"
           aria-label="Next slide"
         >
-          <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            className="h-6 w-6"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+          >
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth={2}
+              d="M9 5l7 7-7 7"
+            />
           </svg>
         </button>
       </div>

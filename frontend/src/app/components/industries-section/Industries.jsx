@@ -29,7 +29,7 @@ function Industries({headerData}) {
     : industryCards.slice(0, initialDisplayCount);
 
   return (
-    <div className="h-auto py-[5%] bg-gray-100" id="industries">
+    <div className="h-auto py-[5%] bg-slate-50" id="industries">
       <div className="">
         <div className="px-5 md:px-[50px] font-poppins  text-center">
           <h2 className="heading-text text-textColor  ">
@@ -39,7 +39,7 @@ function Industries({headerData}) {
            {description}
           </p>
         </div>
-        <div className="mt-10 component-width card-container">
+        <div className="mt-10 container md:px-8 card-container">
           {industriesToDisplay.map((item) => (
             <IndustriesCard
             key={item.id}

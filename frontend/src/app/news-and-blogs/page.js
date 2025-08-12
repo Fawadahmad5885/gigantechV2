@@ -1,6 +1,6 @@
 // news/page.js
 import React from "react";
-import { fetchStrapi, getStrapiMedia } from "@/lib/api";
+import { fetchStrapi, getStrapiMedia } from "../../../lib/api";
 import NewsClient from "../components/news-components/NewsClient";
 import { getBaseUrl } from "@/utils/baseUrl";
 

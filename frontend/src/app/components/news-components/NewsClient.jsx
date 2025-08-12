@@ -5,7 +5,7 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 import { scroller } from "react-scroll";
 import CustomButton from "../about-page-components/CustomButton";
 import NewsCard from "./NewsCard";
-import { getStrapiMedia } from "@/lib/api";
+import { getStrapiMedia } from "../../../lib/api";
 import Image from "next/image";
 
 const NewsClient = ({
@@ -28,13 +28,14 @@ const NewsClient = ({
       });
     }
   }, [currentPage]);
-  console.log("Header Data",headerData);
-  
+  console.log("Header Data", headerData);
 
   // Calculate pagination data
   const { paginatedData, totalPages, hasNextPage, hasPrevPage } =
     useMemo(() => {
-      const sortedNews = (newsData || []).sort((a, b) => new Date(b.date) - new Date(a.date));
+      const sortedNews = (newsData || []).sort(
+        (a, b) => new Date(b.date) - new Date(a.date)
+      );
       const startIndex = (currentPage - 1) * itemsPerPage;
       const endIndex = startIndex + itemsPerPage;
       const paginatedData = sortedNews.slice(startIndex, endIndex) || [];
@@ -66,9 +67,9 @@ const NewsClient = ({
     }
   };
 
-   const { title, description, image,  } = headerData
-    const imageUrl = getStrapiMedia(image?.url);
-  
+  const { title, description, image } = headerData;
+  const imageUrl = getStrapiMedia(image?.url);
+
   const scrollToSection = (sectionId) => {
     scroller.scrollTo(sectionId, {
       smooth: true,
@@ -115,7 +116,7 @@ const NewsClient = ({
   return (
     <div className="bg-gray-100 ">
       {/* Hero Section for News Page */}
-     <div className="relative w-full h-[100vh] min-h-[340px] bg-cover bg-center bg-no-repeat">
+      <div className="relative w-full h-[100vh] min-h-[340px] bg-cover bg-center bg-no-repeat">
         <Image
           src={imageUrl}
           alt={title || "Case Study Background"}
@@ -133,21 +134,21 @@ const NewsClient = ({
             <p className="text-[16px] leading-[20px] mt-4 mb-[70px] font-light md:text-2xl">
               {description || "Discover our case studies"}
             </p>
-              <CustomButton 
-                className=" border  border-white text-white hover:bg-gray-100 hover:text-textColor duration-300   transition-colors"
-                onClick={() => scrollToSection('news-and-blogs-list')}
-              >
-                {"Learn More"}
-              </CustomButton>
+            <CustomButton
+              className=" border  border-white text-white hover:bg-gray-100 hover:text-textColor duration-300   transition-colors"
+              onClick={() => scrollToSection("news-and-blogs-list")}
+            >
+              {"Learn More"}
+            </CustomButton>
           </div>
         </div>
       </div>
 
       {/* News Section with Pagination */}
       <div id="news-and-blogs-list" ref={newsRef} className="py-16">
-        <div  className="component-width mx-auto max-lg:px-5  ">
+        <div className="component-width mx-auto max-lg:px-5  ">
           {/* News Cards */}
-          <div   className="grid grid-cols-1 mt-10 mx-auto component-width  md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+          <div className="grid grid-cols-1 mt-10 mx-auto component-width  md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
             {paginatedData.map((item) => (
               <NewsCard key={item.id} item={item} />
             ))}

@@ -1,5 +1,5 @@
 "use client";
-import { getStrapiMedia } from "@/lib/api";
+import { getStrapiMedia } from "../../../lib/api";
 import Image from "next/image";
 
 function ServicesCard({ service }) {

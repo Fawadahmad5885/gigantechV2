@@ -46,7 +46,7 @@ const NewsSection = ({ headerData,data, showViewAll = true, hideHeader = false }
 const { title, description, } = headerData
 
   return (
-    <section className="h-auto bg-gray-100 relative mx-auto py-[5%]">
+    <section className="h-auto bg-slate-50 relative mx-auto py-[5%]">
       <div className="mx-auto px-4 sm:px-6 lg:px-8">
         {!hideHeader && (
           <div className="px-5 font-poppins text-center">
@@ -56,7 +56,7 @@ const { title, description, } = headerData
             </p>
           </div>
         )}
-        <div className="mt-10 mx-auto component-width pb-24 rounded-lg relative">
+        <div className="mt-10 mx-auto container md:px-8 pb-24 rounded-lg relative">
           <Slider ref={sliderRef} {...settings}>
             {displayedNews.map((item) => (
               <div key={item.id} className="sm:px-4">

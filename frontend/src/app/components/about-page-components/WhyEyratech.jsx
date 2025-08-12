@@ -4,7 +4,7 @@ import leadingImage from "../../../../public/assets/images/about-us-images/leadi
 import clockImage from "../../../../public/assets/images/about-us-images/clock.png";
 import groupImage from "../../../../public/assets/images/about-us-images/group.png";
 
-const whyEyraTechData = [
+const whyGigantechData = [
   {
     title: "Leading Top Talent",
     description:
@@ -27,7 +27,7 @@ const whyEyraTechData = [
 
 const bgColors = ["bg-blue-500", "bg-green-500", "bg-red-500"];
 
-const WhyEyraTech = () => {
+const WhyGigantech = () => {
   return (
     <div className="my-[5%] mx-3 text-center">
       <h2 className="text-2xl md:text-3xl  lg:text-[40px] text-textColor mb-[15px]">
@@ -40,7 +40,7 @@ const WhyEyraTech = () => {
       </p>
       {/* Card container */}
       <div className="grid grid-cols-1 w-full lg:max-w-[940px] xl:max-w-[1200px]  2xl:max-w-[1346px] lg:mx-auto md:grid-cols-3 gap-5 mt-10">
-        {whyEyraTechData.map((item, index) => (
+        {whyGigantechData.map((item, index) => (
           <div
             key={index}
             className={`relative h-[200px] lg:h-[300px] xl:h-[400px] rounded-lg overflow-hidden ${
@@ -82,4 +82,4 @@ const WhyEyraTech = () => {
   );
 };
 
-export default WhyEyraTech;
+export default WhyGigantech;

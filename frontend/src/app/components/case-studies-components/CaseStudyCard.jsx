@@ -1,4 +1,4 @@
-import { getStrapiMedia } from "@/lib/api";
+import { getStrapiMedia } from "../../../lib/api";
 import Image from "next/image";
 import React from "react";
 import Link from "next/link";
@@ -18,7 +18,8 @@ const CaseStudyCard = ({
   return (
     <Link
       data-aos="fade-up"
-      data-aos-anchor-placement="top-bottom" data-aos-duration="1000"
+      data-aos-anchor-placement="top-bottom"
+      data-aos-duration="1000"
       key={slug}
       href={`/case-studies/${slug}`}
       className={`flex flex-col bg-white max-sm:bg-gray-100 group shadow-[0_2px_4px_0_rgba(0,0,0,0.15)] hover:shadow-none  transition-[box-shadow,transform] duration-500 ease-in-out rounded-md ${
@@ -45,15 +46,14 @@ const CaseStudyCard = ({
         } flex-grow`}
       >
         <div className="flex flex-row justify-between items-center">
-
-           <p
-          className={`text-secondaryColor  medium text-left ${
-            isFeatured ? "mb-4 text-lg" : "mb-2 text-base"
-          } poppins-font`}
+          <p
+            className={`text-secondaryColor  medium text-left ${
+              isFeatured ? "mb-4 text-lg" : "mb-2 text-base"
+            } poppins-font`}
           >
-          {category}
-        </p>
-          </div>
+            {category}
+          </p>
+        </div>
         <h3
           className={`text-gray-700 font-semibold text-left mb-4 font-poppins ${
             isFeatured ? "text-xl md:text-2xl" : "text-lg"
@@ -61,7 +61,7 @@ const CaseStudyCard = ({
         >
           {title}
         </h3>
-     
+
         <p
           className={`text-gray-700 text-left text-sm md:text-base lg:text-lg  font-normal mb-4 ${
             isFeatured ? "" : "flex-grow"
@@ -70,9 +70,7 @@ const CaseStudyCard = ({
           {desc}
         </p>
 
-        <div
-          className="inline-flex items-center   text-gray-900  group-hover:text-secondaryColor   rounded-lg transition-colors duration-300 group"
-        >
+        <div className="inline-flex items-center   text-gray-900  group-hover:text-secondaryColor   rounded-lg transition-colors duration-300 group">
           <span>Read more</span>
           <ArrowRight className="w-5 h-5 ml-2 transform group-hover:translate-x-1 transition-transform duration-300" />
         </div>

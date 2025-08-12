@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
 import { Calendar, User, ArrowRight, ExternalLink } from "lucide-react";
-import { getStrapiMedia } from "@/lib/api";
+import { getStrapiMedia } from "../../../lib/api";
 
 const NewsCard = ({ item }) => {
   const STRAPI_URL = process.env.NEXT_PUBLIC_STRAPI_API_URL;

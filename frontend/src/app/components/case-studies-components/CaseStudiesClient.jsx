@@ -1,20 +1,20 @@
 // components/case-studies-components/CaseStudiesClient.js
-'use client';
+"use client";
 
 import Image from "next/image";
-import { scroller } from 'react-scroll';
+import { scroller } from "react-scroll";
 import CustomButton from "../about-page-components/CustomButton";
 import CardsSection from "./CardsSection";
 import Contact from "../contact/Contact";
-import { getStrapiMedia } from "@/lib/api";
+import { getStrapiMedia } from "../../../lib/api";
 
-export default function CaseStudiesClient({ 
-  heroSectionData, 
-  contactSectionHeader, 
-  contactForm, 
-  caseStudiesCards 
+export default function CaseStudiesClient({
+  heroSectionData,
+  contactSectionHeader,
+  contactForm,
+  caseStudiesCards,
 }) {
-  const { title, description, image, Button } = heroSectionData
+  const { title, description, image, Button } = heroSectionData;
   const imageUrl = getStrapiMedia(image?.url);
 
   const scrollToSection = (sectionId) => {
@@ -44,9 +44,9 @@ export default function CaseStudiesClient({
               {description || "Discover our case studies"}
             </p>
             {Button && (
-              <CustomButton 
-                      className=" border  border-white text-white hover:bg-gray-100 hover:text-textColor duration-300   transition-colors"
-                onClick={() => scrollToSection('cards-section')}
+              <CustomButton
+                className=" border  border-white text-white hover:bg-gray-100 hover:text-textColor duration-300   transition-colors"
+                onClick={() => scrollToSection("cards-section")}
               >
                 {"Learn More"}
               </CustomButton>
@@ -55,7 +55,7 @@ export default function CaseStudiesClient({
         </div>
       </div>
       <div id="cards-section">
-        <CardsSection  cards={caseStudiesCards} />
+        <CardsSection cards={caseStudiesCards} />
         <Contact
           id="contact"
           headerData={contactSectionHeader}

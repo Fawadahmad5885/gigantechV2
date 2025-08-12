@@ -6,7 +6,7 @@ import Image from "next/image";
 import CaseStudyCarousel from "@/app/components/case-studies-components/CaseStudyCarsousel";
 import Contact from "@/app/components/contact/Contact";
 import CustomButton from "@/app/components/about-page-components/CustomButton";
-import { getStrapiMedia } from "@/lib/api";
+import { getStrapiMedia } from "../../../lib/api";
 export default function CaseStudyMain({
   caseStudy,
   contactSectionHeader,
@@ -70,7 +70,7 @@ export default function CaseStudyMain({
               </ReactMarkdown>
             </div>
             <CustomButton
-                      className=" border  border-white text-white hover:bg-gray-100 hover:text-textColor duration-300   transition-colors"
+              className=" border  border-white text-white hover:bg-gray-100 hover:text-textColor duration-300   transition-colors"
               onClick={() => scrollToSection?.("contact")}
             >
               {"Get Started"}
@@ -82,7 +82,6 @@ export default function CaseStudyMain({
         {/* Descripition */}
         <div className="bg-gray-100">
           <div className="flex flex-col justify-center component-width mx-auto items-start max-lg:px-6 py-14">
-
             <div className="grid grid-cols-3  md:flex md:gap-20 flex-row md:justify-start w-full items-center ">
               {/* Industry */}
               <div className="flex flex-col gap-1 lg:gap-3 w-fit">

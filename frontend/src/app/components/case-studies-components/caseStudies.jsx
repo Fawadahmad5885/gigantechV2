@@ -4,7 +4,7 @@ import { ArrowRight } from "lucide-react";
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import { getStrapiMedia } from "@/lib/api";
+import { getStrapiMedia } from "../../../lib/api";
 export default function CaseStudies({headerData,cards}) {
   const [showAll, setShowAll] = useState(false);
     const [initialDisplayCount, setInitialDisplayCount] = useState(3);
@@ -49,7 +49,7 @@ const { title, description, } = headerData
         </div>
 
         {/* Cards Grid - 2x2 Layout */}
-        <div className="grid grid-cols-1 component-width mx-auto lg:grid-cols-2 gap-6 mb-4  lg:mb-12">
+        <div className="grid grid-cols-1 container md:px-8 mx-auto lg:grid-cols-2 gap-6 mb-4  lg:mb-12">
           {caseStudiesToDisplay.map((item,index) => (
             <div
               data-aos="fade-up"

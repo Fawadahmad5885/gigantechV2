@@ -34,15 +34,15 @@
       "openGraphImage": {
         "id": 23,
         "documentId": "mwt8kdp7pcu4f742n9di83vg",
-        "name": "eyratech-logo.png",
+        "name": "Gigantech-logo.png",
         "alternativeText": null,
         "caption": null,
         "width": 388,
         "height": 181,
         "formats": {
           "thumbnail": {
-            "name": "thumbnail_eyratech-logo.png",
-            "hash": "thumbnail_eyratech_logo_4bac54e79f",
+            "name": "thumbnail_Gigantech-logo.png",
+            "hash": "thumbnail_Gigantech_logo_4bac54e79f",
             "ext": ".png",
             "mime": "image/png",
             "path": null,
@@ -50,14 +50,14 @@
             "height": 114,
             "size": 20.36,
             "sizeInBytes": 20361,
-            "url": "/uploads/thumbnail_eyratech_logo_4bac54e79f.png"
+            "url": "/uploads/thumbnail_Gigantech_logo_4bac54e79f.png"
           }
         },
-        "hash": "eyratech_logo_4bac54e79f",
+        "hash": "Gigantech_logo_4bac54e79f",
         "ext": ".png",
         "mime": "image/png",
         "size": 5.74,
-        "url": "/uploads/eyratech_logo_4bac54e79f.png",
+        "url": "/uploads/Gigantech_logo_4bac54e79f.png",
         "previewUrl": null,
         "provider": "local",
         "provider_metadata": null,

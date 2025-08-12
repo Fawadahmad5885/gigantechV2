@@ -1,8 +1,8 @@
 // case-studies/page.js
 import React from "react";
-import { fetchStrapi, getStrapiMedia } from "@/lib/api";
+import { fetchStrapi, getStrapiMedia } from "../../lib/api";
 import CaseStudiesClient from "../components/case-studies-components/CaseStudiesClient";
-import { getBaseUrl } from "@/utils/baseUrl";
+import { getBaseUrl } from "../../utils/baseUrl";
 
 export async function generateMetadata() {
   const pageMetaData = await fetchStrapi(
@@ -60,8 +60,6 @@ export default async function CaseStudies() {
   const caseStudiesCardsData = caseStudiesData.case_study_cards;
   const contactFormData = caseStudiesData.contact_section;
   const contactForm = contactFormData.contactForm;
-
-
 
   return (
     <CaseStudiesClient

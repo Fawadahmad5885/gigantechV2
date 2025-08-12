@@ -4,18 +4,18 @@ import ReactMarkdown from "react-markdown";
 import { scroller } from "react-scroll";
 import Contact from "@/app/components/contact/Contact";
 import CustomButton from "@/app/components/about-page-components/CustomButton";
-import { Calendar, User} from "lucide-react";
+import { Calendar, User } from "lucide-react";
 import Image from "next/image";
-import { getStrapiMedia } from "@/lib/api";
+import { getStrapiMedia } from "../../../lib/api";
 
 const NewsDetailClient = ({
   newsArticle,
   contactSectionHeader,
   contactForm,
 }) => {
-const imageUrl = 
-    newsArticle.image?.data?.attributes?.url ||  // Strapi v4 format
-    newsArticle.image?.url ||                    // Local data format
+  const imageUrl =
+    newsArticle.image?.data?.attributes?.url || // Strapi v4 format
+    newsArticle.image?.url || // Local data format
     newsArticle.featuredImage?.data?.attributes?.url ||
     newsArticle.featuredImage?.url;
 
@@ -39,10 +39,8 @@ const imageUrl =
 
   return (
     <div className="">
-      <div
-        className="relative w-full h-[100vh] min-h-[340px] bg-cover bg-center bg-no-repeat"
-      >
-          {fullImageUrl && (
+      <div className="relative w-full h-[100vh] min-h-[340px] bg-cover bg-center bg-no-repeat">
+        {fullImageUrl && (
           <Image
             src={fullImageUrl}
             alt={newsArticle.title || "News article"}
@@ -67,7 +65,7 @@ const imageUrl =
                 {newsArticle.description || "No descripton available"}
               </div>
               <CustomButton
-                      className=" border  border-white text-white hover:bg-gray-100 hover:text-textColor duration-300   transition-colors"
+                className=" border  border-white text-white hover:bg-gray-100 hover:text-textColor duration-300   transition-colors"
                 onClick={() => scrollToSection("contact")}
               >
                 {"Get Started"}

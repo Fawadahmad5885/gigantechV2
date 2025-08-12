@@ -1,10 +1,9 @@
 import React from "react";
 import ServicesCard from "./ServicesCard";
 import Image from "next/image";
-import { getStrapiMedia } from "@/lib/api";
+import { getStrapiMedia } from "../../../lib/api";
 export default function Services({ headerData }) {
-
-  const {title, description, backgroundImage} = headerData
+  const { title, description, backgroundImage } = headerData;
   const serviceCards = headerData?.serviceCard || [];
 
   return (
@@ -14,7 +13,7 @@ export default function Services({ headerData }) {
           <h2 className="heading-text text-textColor">{title}</h2>
           <p className="section-description">{description}</p>
         </div>
-        <div className="mt-10  component-width  card-container ">
+        <div className="mt-10  container md:px-8   card-container ">
           {serviceCards.map((service) => (
             <ServicesCard key={service.id} service={service} />
           ))}
@@ -22,13 +21,13 @@ export default function Services({ headerData }) {
       </div>
       <div className="absolute opacity-10 inset-0 z-[-1]">
         {/* ✅ Dynamic Background Image */}
-            <Image
-              src={getStrapiMedia(backgroundImage.url)}
-              alt="Services background"
-              fill
-              className="object-contain object-left"
-              priority
-            />
+        <Image
+          src={getStrapiMedia(backgroundImage.url)}
+          alt="Services background"
+          fill
+          className="object-contain object-left"
+          priority
+        />
       </div>
     </div>
   );

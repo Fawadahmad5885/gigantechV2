@@ -4,94 +4,93 @@ import manualTesting from "../../../public/assets/images/technologies-images/qa.
 import autoTesting from "../../../public/assets/images/technologies-images/qa.autotesting.png";
 
 // Ai
-import pythonImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/python.png";
-import fastApiImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/fast-api.png";
-import tensorFlowImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/tensor-flow-image.png";
-import kerasImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/keras.png";
-import pytorchImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/pytorch.svg";
-import scikitImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/scikit.png";
-import MatplotlibImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/matplotlib.svg";
-import MilvusIImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/milvus.jpg";
-import PineconeImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/Pinecone.png";
-import WeaviateImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/weaviate.png";
-import ChromaDBImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/chroma.png";
-import longChainImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/long-chain.png";
-import opencvImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/opencv-icon.png";
-import VLMIMage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/vlm.jpg";
-import ocrImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/ocr-image.png";
-import ttsImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/tts.png";
-import nlpImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/nlp.png";
-import huggingFaceImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/huggingface.svg";
-import openAiImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/openai-icon.png";
-import LLamaImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/llama.png";
-import GeminiImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/gemini.png";
-import Qwen from "../../../public/assets/images/eyratech-technologies-images/aiIcons/qwen.png";
-import DeepSeekImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/deepseek.png";
+import pythonImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/python.png";
+import fastApiImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/fast-api.png";
+import tensorFlowImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/tensor-flow-image.png";
+import kerasImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/keras.png";
+import pytorchImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/pytorch.svg";
+import scikitImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/scikit.png";
+import MatplotlibImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/matplotlib.svg";
+import MilvusIImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/milvus.jpg";
+import PineconeImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/Pinecone.png";
+import WeaviateImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/weaviate.png";
+import ChromaDBImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/chroma.png";
+import longChainImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/long-chain.png";
+import opencvImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/opencv-icon.png";
+import VLMIMage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/vlm.jpg";
+import ocrImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/ocr-image.png";
+import ttsImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/tts.png";
+import nlpImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/nlp.png";
+import huggingFaceImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/huggingface.svg";
+import openAiImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/openai-icon.png";
+import LLamaImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/llama.png";
+import GeminiImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/gemini.png";
+import Qwen from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/qwen.png";
+import DeepSeekImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/deepseek.png";
 
-import claudeImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/claude.png";
-import PromptEngImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/promptengineering.png";
-import ragImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/rag.png";
-import transformerImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/huggingface.svg";
-import LlamaIndexImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/llamaindex.png";
-import OllamaImage from "../../../public/assets/images/eyratech-technologies-images/aiIcons/ollama.png";
+import claudeImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/claude.png";
+import PromptEngImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/promptengineering.png";
+import ragImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/rag.png";
+import transformerImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/huggingface.svg";
+import LlamaIndexImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/llamaindex.png";
+import OllamaImage from "../../../public/assets/images/Gigantech-technologies-images/aiIcons/ollama.png";
 
 // Web
 
-import TypeScriptImage from "../../../public/assets/images/eyratech-technologies-images/webdevelopment_icons/typescript.svg";
-import ReactImage from "../../../public/assets/images/eyratech-technologies-images/webdevelopment_icons/react.png";
-import NextJSImage from "../../../public/assets/images/eyratech-technologies-images/webdevelopment_icons/next-js.png";
-import MuiImage from "../../../public/assets/images/eyratech-technologies-images/webdevelopment_icons/mui.svg";
-import TailwindCssImage from "../../../public/assets/images/eyratech-technologies-images/webdevelopment_icons/tailwindcss.svg";
-import NodeJsImage from "../../../public/assets/images/eyratech-technologies-images/webdevelopment_icons/nodejs.svg";
-import NestJSImage from "../../../public/assets/images/eyratech-technologies-images/webdevelopment_icons/nestjs.png";
-import LoopbackImage from "../../../public/assets/images/eyratech-technologies-images/webdevelopment_icons/loopback-io.png";
-import ExpressJsImage from "../../../public/assets/images/eyratech-technologies-images/webdevelopment_icons/expressjs.svg";
-import MongoDBImage from "../../../public/assets/images/eyratech-technologies-images/webdevelopment_icons/mongodb.svg";
-import DjangoImage from "../../../public/assets/images/eyratech-technologies-images/webdevelopment_icons/django.svg";
-import FlaskImage from "../../../public/assets/images/eyratech-technologies-images/webdevelopment_icons/flask.svg";
-import PostgreSQL from "../../../public/assets/images/eyratech-technologies-images/webdevelopment_icons/postgress.svg";
-import MySQL from "../../../public/assets/images/eyratech-technologies-images/webdevelopment_icons/mysql.svg";
-import Redis from "../../../public/assets/images/eyratech-technologies-images/webdevelopment_icons/redis.png";
-import MemcachedImage from "../../../public/assets/images/eyratech-technologies-images/webdevelopment_icons/memcached.svg";
+import TypeScriptImage from "../../../public/assets/images/Gigantech-technologies-images/webdevelopment_icons/typescript.svg";
+import ReactImage from "../../../public/assets/images/Gigantech-technologies-images/webdevelopment_icons/react.png";
+import NextJSImage from "../../../public/assets/images/Gigantech-technologies-images/webdevelopment_icons/next-js.png";
+import MuiImage from "../../../public/assets/images/Gigantech-technologies-images/webdevelopment_icons/mui.svg";
+import TailwindCssImage from "../../../public/assets/images/Gigantech-technologies-images/webdevelopment_icons/tailwindcss.svg";
+import NodeJsImage from "../../../public/assets/images/Gigantech-technologies-images/webdevelopment_icons/nodejs.svg";
+import NestJSImage from "../../../public/assets/images/Gigantech-technologies-images/webdevelopment_icons/nestjs.png";
+import LoopbackImage from "../../../public/assets/images/Gigantech-technologies-images/webdevelopment_icons/loopback-io.png";
+import ExpressJsImage from "../../../public/assets/images/Gigantech-technologies-images/webdevelopment_icons/expressjs.svg";
+import MongoDBImage from "../../../public/assets/images/Gigantech-technologies-images/webdevelopment_icons/mongodb.svg";
+import DjangoImage from "../../../public/assets/images/Gigantech-technologies-images/webdevelopment_icons/django.svg";
+import FlaskImage from "../../../public/assets/images/Gigantech-technologies-images/webdevelopment_icons/flask.svg";
+import PostgreSQL from "../../../public/assets/images/Gigantech-technologies-images/webdevelopment_icons/postgress.svg";
+import MySQL from "../../../public/assets/images/Gigantech-technologies-images/webdevelopment_icons/mysql.svg";
+import Redis from "../../../public/assets/images/Gigantech-technologies-images/webdevelopment_icons/redis.png";
+import MemcachedImage from "../../../public/assets/images/Gigantech-technologies-images/webdevelopment_icons/memcached.svg";
 
 // Mobile
-import androidImage from "../../../public/assets/images/eyratech-technologies-images/mobileicons/android.png";
-import iosImage from "../../../public/assets/images/eyratech-technologies-images/mobileicons/ios.svg";
-import kotlinImage from "../../../public/assets/images/eyratech-technologies-images/mobileicons/kotlin.svg";
-import reactNativeImage from "../../../public/assets/images/eyratech-technologies-images/mobileicons/reactnative.png";
-import mauiImage from "../../../public/assets/images/eyratech-technologies-images/mobileicons/maui.svg";
-import swiftUiImage from "../../../public/assets/images/eyratech-technologies-images/mobileicons/swiftui.png";
-import JavaImage from "../../../public/assets/images/eyratech-technologies-images/mobileicons/java-icon.png";
-import Storyboard from "../../../public/assets/images/eyratech-technologies-images/mobileicons/storyboard.svg";
+import androidImage from "../../../public/assets/images/Gigantech-technologies-images/mobileicons/android.png";
+import iosImage from "../../../public/assets/images/Gigantech-technologies-images/mobileicons/ios.svg";
+import kotlinImage from "../../../public/assets/images/Gigantech-technologies-images/mobileicons/kotlin.svg";
+import reactNativeImage from "../../../public/assets/images/Gigantech-technologies-images/mobileicons/reactnative.png";
+import mauiImage from "../../../public/assets/images/Gigantech-technologies-images/mobileicons/maui.svg";
+import swiftUiImage from "../../../public/assets/images/Gigantech-technologies-images/mobileicons/swiftui.png";
+import JavaImage from "../../../public/assets/images/Gigantech-technologies-images/mobileicons/java-icon.png";
+import Storyboard from "../../../public/assets/images/Gigantech-technologies-images/mobileicons/storyboard.svg";
 
 // Embedded System
-import CImage from "../../../public/assets/images/eyratech-technologies-images/embeddedIcons/c.png";
-import CppImage from "../../../public/assets/images/eyratech-technologies-images/embeddedIcons/cpp-icon.png";
-import ARMImage from "../../../public/assets/images/eyratech-technologies-images/embeddedIcons/arm.png";
-import MicroChipImage from "../../../public/assets/images/eyratech-technologies-images/embeddedIcons/microchip-icon.png";
-import RenesasImage from "../../../public/assets/images/eyratech-technologies-images/embeddedIcons/renesas.png";
-import SiLabsImage from "../../../public/assets/images/eyratech-technologies-images/embeddedIcons/silab-image.png";
-import STMImage from "../../../public/assets/images/eyratech-technologies-images/embeddedIcons/stm.png";
-import BeagleboneImage from "../../../public/assets/images/eyratech-technologies-images/embeddedIcons/beaglebaord-embedded.svg";
-import MotorolaImage from "../../../public/assets/images/eyratech-technologies-images/embeddedIcons/motorola.jpg";
-import RaspberryImage from "../../../public/assets/images/eyratech-technologies-images/embeddedIcons/respberry.png";
-import ArduinoImage from "../../../public/assets/images/eyratech-technologies-images/embeddedIcons/ardino.png";
-import BLEImage from "../../../public/assets/images/eyratech-technologies-images/embeddedIcons/ble.png";
-import ZigbeeImage from "../../../public/assets/images/eyratech-technologies-images/embeddedIcons/zigbee.png";
-import rtosImage from "../../../public/assets/images/eyratech-technologies-images/embeddedIcons/rtos.png";
-import radarImage from "../../../public/assets/images/eyratech-technologies-images/embeddedIcons/radar.png";
-
+import CImage from "../../../public/assets/images/Gigantech-technologies-images/embeddedIcons/c.png";
+import CppImage from "../../../public/assets/images/Gigantech-technologies-images/embeddedIcons/cpp-icon.png";
+import ARMImage from "../../../public/assets/images/Gigantech-technologies-images/embeddedIcons/arm.png";
+import MicroChipImage from "../../../public/assets/images/Gigantech-technologies-images/embeddedIcons/microchip-icon.png";
+import RenesasImage from "../../../public/assets/images/Gigantech-technologies-images/embeddedIcons/renesas.png";
+import SiLabsImage from "../../../public/assets/images/Gigantech-technologies-images/embeddedIcons/silab-image.png";
+import STMImage from "../../../public/assets/images/Gigantech-technologies-images/embeddedIcons/stm.png";
+import BeagleboneImage from "../../../public/assets/images/Gigantech-technologies-images/embeddedIcons/beaglebaord-embedded.svg";
+import MotorolaImage from "../../../public/assets/images/Gigantech-technologies-images/embeddedIcons/motorola.jpg";
+import RaspberryImage from "../../../public/assets/images/Gigantech-technologies-images/embeddedIcons/respberry.png";
+import ArduinoImage from "../../../public/assets/images/Gigantech-technologies-images/embeddedIcons/ardino.png";
+import BLEImage from "../../../public/assets/images/Gigantech-technologies-images/embeddedIcons/ble.png";
+import ZigbeeImage from "../../../public/assets/images/Gigantech-technologies-images/embeddedIcons/zigbee.png";
+import rtosImage from "../../../public/assets/images/Gigantech-technologies-images/embeddedIcons/rtos.png";
+import radarImage from "../../../public/assets/images/Gigantech-technologies-images/embeddedIcons/radar.png";
 
 // Devops
-import DockerImage from "../../../public/assets/images/eyratech-technologies-images/devops_icons/docker.png"
-import JenkinsImage from "../../../public/assets/images/technologies-images/qa.jenkins.png"
-import AnsibleImage from "../../../public/assets/images/eyratech-technologies-images/devops_icons/ansble.png"
-import KuberneterImage from "../../../public/assets/images/eyratech-technologies-images/webdevelopment_icons/kuberneter.svg"
-import PrometheusImage from "../../../public/assets/images/eyratech-technologies-images/devops_icons/Prometheus-icon.png"
-import GrafanaImage from "../../../public/assets/images/eyratech-technologies-images/devops_icons/grafana.png"
-import AWSImage from "../../../public/assets/images/eyratech-technologies-images/webdevelopment_icons/aws.svg"
-import AzurImage from "../../../public/assets/images/eyratech-technologies-images/webdevelopment_icons/azure.svg"
-import TerraformImage from "../../../public/assets/images/eyratech-technologies-images/devops_icons/terraform.png"
+import DockerImage from "../../../public/assets/images/Gigantech-technologies-images/devops_icons/docker.png";
+import JenkinsImage from "../../../public/assets/images/technologies-images/qa.jenkins.png";
+import AnsibleImage from "../../../public/assets/images/Gigantech-technologies-images/devops_icons/ansble.png";
+import KuberneterImage from "../../../public/assets/images/Gigantech-technologies-images/webdevelopment_icons/kuberneter.svg";
+import PrometheusImage from "../../../public/assets/images/Gigantech-technologies-images/devops_icons/Prometheus-icon.png";
+import GrafanaImage from "../../../public/assets/images/Gigantech-technologies-images/devops_icons/grafana.png";
+import AWSImage from "../../../public/assets/images/Gigantech-technologies-images/webdevelopment_icons/aws.svg";
+import AzurImage from "../../../public/assets/images/Gigantech-technologies-images/webdevelopment_icons/azure.svg";
+import TerraformImage from "../../../public/assets/images/Gigantech-technologies-images/devops_icons/terraform.png";
 
 export const TechnologiesData = [
   {
@@ -373,10 +372,26 @@ export const TechnologiesData = [
   {
     name: "Quality Assurance",
     tools: [
-      { name: "Selenium", image: selenium,tooltip: "Automated testing tool for web applications" },
-      { name: "Jenkins", image: jenkins, tooltip: "Continuous integration and delivery tool" },
-      { name: "Manual Testing", image: manualTesting, tooltip: "Human-driven testing to identify issues" },
-      { name: "Auto Testing", image: autoTesting,tooltip:"Automated testing for repetitive tasks" },
+      {
+        name: "Selenium",
+        image: selenium,
+        tooltip: "Automated testing tool for web applications",
+      },
+      {
+        name: "Jenkins",
+        image: jenkins,
+        tooltip: "Continuous integration and delivery tool",
+      },
+      {
+        name: "Manual Testing",
+        image: manualTesting,
+        tooltip: "Human-driven testing to identify issues",
+      },
+      {
+        name: "Auto Testing",
+        image: autoTesting,
+        tooltip: "Automated testing for repetitive tasks",
+      },
     ],
   },
   {
@@ -401,7 +416,7 @@ export const TechnologiesData = [
           "Automation server for CI/CD pipelines and workflow automation",
       },
       {
-        image:TerraformImage,
+        image: TerraformImage,
         name: "Terraform",
         tooltip:
           "Infrastructure-as-Code (IaC) tool for provisioning multi-cloud resources",

@@ -1,39 +1,68 @@
 "use client";
+import headerLogo from "../../../public/header-logo.png"
+import Link from "next/link";
 import Image from "next/image";
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useRef } from "react";
 import { TfiMenu } from "react-icons/tfi";
 import { Box, Divider, Drawer, List, ListItem, Typography } from "@mui/material";
 import { useRouter } from "next/navigation";
 import { MdEmail } from "react-icons/md";
 import { FaLinkedinIn } from "react-icons/fa";
-import { CONTACT_INFO } from "@/utils/SITE_INFO";
-import Link from "next/link";
+import { CONTACT_INFO } from "../../utils/SITE_INFO";
 import { scroller } from "react-scroll";
-import { getStrapiMedia } from "@/lib/api";
+import { getStrapiMedia } from "../../lib/api";
+import {  Mail, Phone } from 'lucide-react';
 
-export default function Header({headerData}) {
+
+export default function Header({ headerData }) {
   const [isScrolled, setIsScrolled] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const [openDropdown, setOpenDropdown] = useState(null);
   const router = useRouter();
+  const topBarRef = useRef(null);
+  const mainHeaderRef = useRef(null);
+  const [topBarHeight, setTopBarHeight] = useState(0);
+  const [mainHeaderHeight, setMainHeaderHeight] = useState(0);
 
   useEffect(() => {
-    const handleScroll = () => setIsScrolled(window.scrollY > 20);
+    const handleScroll = () => {
+      setIsScrolled(window.scrollY > 20);
+    };
+
+    const measureHeights = () => {
+      if (topBarRef.current) {
+        setTopBarHeight(topBarRef.current.offsetHeight);
+      }
+      if (mainHeaderRef.current) {
+        setMainHeaderHeight(mainHeaderRef.current.offsetHeight);
+      }
+    };
+
     window.addEventListener("scroll", handleScroll);
-    return () => window.removeEventListener("scroll", handleScroll);
-  }, []);
+    window.addEventListener("resize", measureHeights);
+    measureHeights();
+
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+      window.removeEventListener("resize", measureHeights);
+    };
+  }, []); 
+
+  const totalHeaderHeight = topBarHeight + mainHeaderHeight;
+  const scrolledHeaderHeight = mainHeaderHeight;
 
   const scrollToSection = (sectionId) => {
     scroller.scrollTo(sectionId, {
       smooth: true,
       duration: 500,
-      offset: -85,
+      offset: -scrolledHeaderHeight,
     });
   };
 
   const handleNavigation = (item) => {
     const sectionId = item.SectionId;
     const type = item.linkType;
-
     if (type === "page") {
       router.push(`/${sectionId}`);
     } else {
@@ -46,13 +75,18 @@ export default function Header({headerData}) {
       }
     }
   };
-  
+
   const handleGetStarted = () => {
     setMobileOpen(false);
     scrollToSection("contact-us");
   };
 
-  const logoUrl = headerData?.logo?.url ? getStrapiMedia(headerData.logo.url) : null;
+
+
+  const logoUrl = headerData?.logo?.url
+    ? getStrapiMedia(headerData.logo.url)
+    : null;
+
   const drawer = (
     <Box sx={{ padding: "0 10px", marginLeft: "10px" }}>
       <Typography
@@ -67,7 +101,7 @@ export default function Header({headerData}) {
       >
         {logoUrl && (
           <Image
-            src={logoUrl}
+            src={logoUrl || "/placeholder.svg"}
             alt="Logo"
             width={120}
             height={30}
@@ -92,7 +126,6 @@ export default function Header({headerData}) {
             </button>
           </ListItem>
         ))}
-        {/* Add Get Started button to mobile drawer */}
         <ListItem disablePadding>
           <button
             className="text-secondaryColor border-secondaryColor py-3 hover:bg-secondaryColor hover:text-white transition-all duration-300 flex items-center gap-2 disabled:opacity-50 px-6 text-[14px] leading-[16px] rounded-md tracking-wider border w-full justify-center my-4"
@@ -102,7 +135,6 @@ export default function Header({headerData}) {
           </button>
         </ListItem>
       </List>
-
       <div className="flex flex-row gap-4 py-[12px] items-center">
         <Link
           href={`mailto:${CONTACT_INFO.email}`}
@@ -124,23 +156,25 @@ export default function Header({headerData}) {
 
   return (
     <header
-      className={`z-50 fixed w-full top-0 left-0 transition-all duration-300 text-black bg-white ${
-        isScrolled ? "bg-opacity-100" : "bg-opacity-100"
+      className={`z-50 fixed w-full top-0 left-0 transition-all duration-300 ease-in-out ${
+        isScrolled ? "bg-white shadow-md" : "bg-transparent"
       }`}
-      style={{ boxShadow: "0px 2px 8px rgba(0, 0, 0, 0.1)" }}
+      style={{
+        height: isScrolled ? `${scrolledHeaderHeight}px` : `${totalHeaderHeight}px`,
+      }}
     >
-      {/* Mobile Header */}
-      <div className="w-full py-4 px-5 mx-auto flex justify-between items-center relative lg:hidden">
-        {logoUrl && (
+      {/* Mobile Header (always visible on small screens) */}
+      <div className={`lg:hidden w-full py-4 px-5 mx-auto flex bg-white shadow-md justify-between items-center ${
+        isScrolled ? "bg-white shadow-md" : "bg-transparent"
+      }`}>
           <Image
-            src={logoUrl}
+            src={headerLogo}
             alt="Logo"
             width={120}
             height={30}
             onClick={() => router.push("/")}
             style={{ objectFit: "contain" }}
           />
-        )}
         <TfiMenu
           title="Menu"
           onClick={() => setMobileOpen(true)}
@@ -162,43 +196,63 @@ export default function Header({headerData}) {
         {drawer}
       </Drawer>
 
-      {/* Desktop Header */}
-      <div className="component-width lg:mx-auto relative hidden lg:flex w-full py-3">
-        <div className="flex w-full flex-row justify-between p-2 pr-0">
-          {logoUrl && (
-           <Image
-              src={logoUrl}
-              quality={100}
-              fill
-              onClick={() => window.location.replace("/")}
-              alt="EyraTech Logo"
-              style={{ objectFit: "contain" }}
-              className="h-[40px] p-2  cursor-pointer max-w-fit z-50"
-            />
-          )}
-          <nav className="flex-grow flex justify-end items-center">
-            <ul className="flex gap-10 font-poppins items-center text-lg text-black">
-              {headerData?.navItems?.map((item) => (
-                <li
-                  key={item.id}
-                  className="capgemini-nav-item hover:text-primaryColor cursor-pointer"
-                  onClick={() => handleNavigation(item)}
-                >
-                  {item.Label}
-                  <span className="block h-[2px] bg-secondaryColor mt-[1px] w-1/2"></span>
-                </li>
-                
-              ))}
-                <li>
-                  <button
-                    className="text-secondaryColor border-secondaryColor py-3 hover:bg-secondaryColor hover:text-white transition-all duration-300 flex items-center gap-2 disabled:opacity-50 px-6 text-[14px] leading-[16px] rounded-md tracking-wider border"
-                    onClick={() => scrollToSection("contact-us")}
+      {/* Desktop Headers */}
+      <div className={`hidden lg:block transition-transform duration-500 ease-in-out ${
+        isScrolled ? "bg-white shadow-sm" : "bg-transparent"
+      }`}
+        style={{
+          transform: isScrolled ? `translateY(-${topBarHeight}px)` : `translateY(0px)`,
+        }}
+      >
+        {/* First Header (Top Bar) */}
+        <div
+          ref={topBarRef}
+          className="bg-gradient-to-r from-custom-blue-dark to-custom-blue-light text-textColor text-sm py-5 px-4 md:px-6"
+        >
+          <div className="container mx-auto flex justify-end items-center gap-6">
+            <Link href="tel:+17744351060" className="flex text-base items-center gap-2 hover:underline">
+              <Phone className="h-4 w-4" />
+              <span>+1 774 435 1060</span>
+            </Link>
+            <Link href="mailto:info@siliconithub.com" className="flex text-base items-center gap-2 hover:underline">
+              <Mail className="h-4 w-4" />
+              <span>info@siliconithub.com</span>
+            </Link>
+          </div>
+        </div>
+
+        {/* Second Header (Main Nav) */}
+        <div
+          ref={mainHeaderRef}
+          className={`container  mx-auto bg-white px-8 ${
+        isScrolled ? "bg-white shadow-none" : "shadow-sm "
+      }`}
+        >
+          <div className="flex items-center justify-between py-5">
+              <Image
+                src={headerLogo || "/placeholder.svg"}
+                quality={100}
+                width={240}
+                height={100}
+                onClick={() => router.push("/")}
+                alt="Logo"
+                style={{ objectFit: "contain" }}
+                className="max-md:w-40 object-contain"
+              />
+            <nav className="flex items-center">
+              <ul className="flex gap-6 font-poppins items-center text-lg text-black">
+                {headerData?.navItems?.map((item) => (
+                  <li
+                    key={item.id}
+                    className="hover:text-primaryColor cursor-pointer px-3 py-2"
+                    onClick={() => handleNavigation(item)}
                   >
-                    Get Started
-                  </button>
-                </li>
-            </ul>
-          </nav>
+                    {item.Label}
+                  </li>
+                ))}
+              </ul>
+            </nav>
+          </div>
         </div>
       </div>
     </header>

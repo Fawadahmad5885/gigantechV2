@@ -1,6 +1,6 @@
-import { getBaseUrl } from "@/utils/baseUrl";
+import { getBaseUrl } from "../../utils/baseUrl";
 import AboutUsClient from "../components/about-page-components/AboutUsClient";
-import { fetchStrapi } from "@/lib/api";
+import { fetchStrapi } from "../../lib/api";
 
 export async function generateMetadata() {
   // About page meta data  API endpoint

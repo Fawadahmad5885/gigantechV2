@@ -1,5 +1,5 @@
 // app/news/[slug]/page.js
-import { fetchStrapi } from "@/lib/api";
+import { fetchStrapi } from "../../../lib/api";
 import NewsDetailClient from "@/app/components/news-components/NewsDetailClient";
 
 // Generate static paths for both local and Strapi data
@@ -30,43 +30,43 @@ export async function generateStaticParams() {
 // Unified news data fetcher
 async function getNewsData(slug) {
   let res;
-  
+
   if (process.env.USE_LOCAL) {
     res = await fetchStrapi("news-items");
     if (!res) return null;
-    
+
     // Find matching item in local data
-    const newsItem = res.find(item => item.slug === slug);
+    const newsItem = res.find((item) => item.slug === slug);
     if (!newsItem) return null;
-    
+
     // Transform local data to match Strapi structure
     return {
       id: newsItem.id,
       attributes: {
         ...newsItem,
-        image: newsItem.image ? {
-          data: {
-            attributes: newsItem.image
-          }
-        } : null
-      }
+        image: newsItem.image
+          ? {
+              data: {
+                attributes: newsItem.image,
+              },
+            }
+          : null,
+      },
     };
   }
 
   // Strapi data fetching
   res = await fetchStrapi(
-    `news-items?filters[slug][$eq]=${encodeURIComponent(
-      slug
-    )}&populate=*`
+    `news-items?filters[slug][$eq]=${encodeURIComponent(slug)}&populate=*`
   );
-  
+
   if (!res || !res.length) return null;
   return res[0];
 }
 
 // Unified contact data fetcher for news
 async function getNewsContactData() {
-  const endpoint = 
+  const endpoint =
     "news-blogs-pages?populate[contact_section][populate][contactForm][populate][Input][fields]=label&" +
     "&populate[contact_section][populate][contactForm][populate][Input][fields]=label&" +
     "&populate[contact_section][populate][contactForm][populate][inputOptions][fields]=label,value&" +
@@ -74,23 +74,23 @@ async function getNewsContactData() {
     "&populate[contact_section][populate][footerSteps][fields]=*";
 
   const data = await fetchStrapi(endpoint);
-  
+
   if (process.env.USE_LOCAL && Array.isArray(data)) {
     // Transform local contact data to match Strapi structure
     return {
       contact_section: data[0]?.contact_section || {},
-      ...data[0]
+      ...data[0],
     };
   }
-  
+
   return data?.[0]?.attributes || {};
 }
 
 export default async function NewsDetail({ params }) {
-  const { slug } =await  params;
+  const { slug } = await params;
   const [newsArticle, contactData] = await Promise.all([
     getNewsData(slug),
-    getNewsContactData()
+    getNewsContactData(),
   ]);
 
   if (!newsArticle) {
@@ -100,7 +100,7 @@ export default async function NewsDetail({ params }) {
   // Normalize the data structure for the component
   const normalizedNewsArticle = {
     ...newsArticle.attributes,
-    id: newsArticle.id
+    id: newsArticle.id,
   };
 
   return (

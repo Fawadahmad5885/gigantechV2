@@ -17,7 +17,7 @@ export async function POST(req) {
     Message: ${message}
 
     ----
-    Sent via your EyraTech contact form.
+    Sent via your Gigantech contact form.
   `;
 
   if (!email || !firstName || !lastName || !service || !message) {
